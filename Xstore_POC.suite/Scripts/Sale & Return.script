@@ -1,0 +1,252 @@
+﻿wait 2
+DoubleClick "VncViewerIcon"
+WaitFor 10, text:"KFL US 1646555"
+DoubleClick text:"KFL US 1646555"
+WaitFor 10, text:"Scan or key your employee"
+TypeText "111111", returnKey
+wait 1
+WaitFor 10, text:"Key your password"
+TypeText "x1234567", returnKey
+
+if ImageFound(text:"Main Menu", waitfor:10)
+	LogSuccess "Sign-in is successful"
+else
+	LogError "Sign-in is unsuccessful"
+	ExitWithError "Cannot proceed without successful sign-in"
+end if
+
+CaptureScreen {Name: "Sign-In", Rectangle: [885,83,1909,1035]}
+Click "StartSaleIcon"
+WaitFor 10, text:"Sales Associate"
+Click "OneManagerIcon"
+WaitFor 10, text:"Customer Search"
+Click "SkipButtonIcon"
+WaitFor 10, text:"Sale"
+Log "Search with product"
+TypeText "166103317504080", returnKey
+
+wait 1
+Click "PaymentNextIcon"
+wait 1
+WaitFor 10, text:"Sale Tender Options"
+wait 1
+Click "CashIcon"
+WaitFor 10, text:"Tender"
+wait 1
+TypeText "75", returnKey
+wait 2
+WaitFor 10, text:"Email Address"
+CaptureScreen {Name: "Select Receipt Option"}
+Click "PrintOnlyButtonIcon"
+wait 5
+
+if ImageFound(text:"Sales Associate", waitfor:10)
+	LogSuccess "Sale is successful"
+else
+	LogError "Sale is unsuccessful"
+end if
+WaitFor 10,text:"Sales Associate"
+CaptureScreen {Name: "Sale Associate Page"}  
+Log "Sale Script Execution is Completed"
+
+Log "Return Script Execution Started"
+if ImageFound(text:"Sales Associate",waitfor :5) then
+	click "SalesAssociate BackBtn Img"
+	LogSuccess "Click Back Button"
+else
+	Log "Back button is not present"
+end if
+wait 5
+(*if ImageFound(text:"Scan or key your employee ID to sign on.", waitfor:3) then
+	Click "SignIn Field"	
+	TypeText "111111",returnKey
+	wait 1
+	waitfor 10, text:"Key your password"
+	TypeText "x1234567",returnKey
+	Log "Sign-in is successful"
+else
+	Log "Log-in Screen is not present"
+end if*)
+waitfor 10, text:"Main Menu"
+Log "Fetching Return item details"
+Click "Reporting Img"
+
+//Getting ticket id in Sales report
+Waitfor 5,text:"Sales Reports"
+click text:"Sales Reports"
+Waitfor 3,text:"Journal Report"
+click text:"Journal Report"
+Waitfor 3,text:"Run Report"
+click text:"Run Report"
+Waitfor 5,text:"Journal"
+TypeText controlKey, "Tab"
+
+put ImageLocation(text:"Journal") into Loc
+set the SearchRectangle to [Loc.x-440, Loc.y+130,Loc.x-400,Loc.y+ 160]
+wait 3
+put ReadText (the SearchRectangle,dpi:144) into TicketId
+set the SearchRectangle to []
+log TicketId
+
+Log "fetching date"
+put ImageLocation(text:"Journal") into Loc
+set the SearchRectangle to [Loc.x-540, Loc.y+180,Loc.x-480,Loc.y+ 200]
+wait 3
+put ReadText (the SearchRectangle,dpi:144) into dateString
+set the SearchRectangle to []
+log dateString
+Log "Extracted date: " &  dateString
+Put split(dateString, "/") into dateParts
+Put item 2 of dateParts as number into day
+Log "Day: " & day
+
+CaptureScreen {Name: "Journal Ticket ID"}
+TypeText controlKey, "w"
+
+
+(*Put ImageRectangle(text:"Status Complete").topleft into TL
+Put TL + [60,-30] into BR
+Put ReadText(TL,BR,dpi:144) into TicketId
+split TicketId by space
+Put item  2 of TicketId into TicketId
+Log TicketId*)
+
+//put ImageLocation(text:"Status Complete") into Loc
+//set the SearchRectangle to [Loc.x- 50, Loc.y- 40,Loc.x+50,Loc.y- 20]
+
+//Optimized script for getting ticket id
+(*Waitfor 5,text:"Electronic Journal"
+Click text:"Electronic Journal"
+WaitFor 10,text:"Transaction Search"
+Click Text: "Process"
+Waitfor 5,text:"Electronic Journal"
+Click Text:"Status Complete"
+wait 1
+doubleclick rightCenter of ImageRectangle(text:<"Ticket", " ",4 digits or 3 digits or 2 digits or 1 digit>)+[-5,0]
+TypeText controlKey, "c"
+wait 1
+put RemoteClipboard() into TicketId
+log TicketId
+*)
+
+(*put ReadText (the SearchRectangle,dpi:144) into TicketId
+set the SearchRectangle to []
+split TicketId by space
+Put item  2 of TicketId into TicketId
+log TicketId*)
+
+Log "Got the Ticket ID"
+WaitFor 5,text:"Journal"
+click Text:"Journal"
+Click Text:"Back"
+if ImageFound(text:"Transaction Search",waitfor :5) then
+	click Text:"Back"
+	LogSuccess "Click Back Button"
+else
+	Log "Back button is not present"
+end if
+
+if ImageFound(text:"Reporting",waitfor :5) then
+	WaitFor 5,text:"Reporting"
+	click Text:"Reporting"
+	LogSuccess "Clicked Reporting Back Button"
+	WaitFor 5,text:"Main Menu"
+	Click Text:"Main Menu"
+	Log "Clicked Main menu back button"
+else
+	Click Text:"Main Menu"
+	Log "Clicked Main menu back button"
+end if
+
+WaitFor 10,text:"Start Sale"
+Log "Starting the Return Process"
+Click "StartSaleIcon"
+WaitFor 10, text:"Sales Associate"
+click "OneManagerIcon"
+WaitFor 10, text:"Customer Search"
+click "SkipButtonIcon"
+WaitFor 10, text:"Return Item"
+
+(*Log "Getting Registers Day"
+set the SearchRectangle to Common.ScreenPart ("BottomHalf")
+Put ReadText([1364,1008,1433,1025]) into dateString
+(*Set the SearchRectangle to [1364,1009,1436,1025] 
+wait 3*)
+Log "Extracted date: " &  dateString
+Put split(dateString, "/") into dateParts
+Put item 2 of dateParts as number into day
+Log "Day: " & day
+Set the SearchRectangle to empty*)
+
+Click "ReturnItem Img"
+WaitFor 10,text:"Customer Search"
+Click "Return Skip Img"
+WaitFor 10,text: "Return"
+Click "Return Yes Img"
+WaitFor 10,text:"Return Information"
+Click "Orig Ticket ID"
+TypeText TicketId, returnKey
+Log TicketId
+wait 2
+Click "OrigTransDate Field Img"
+Log "Clicked Orig Transaction date field"
+WaitFor 10,text:"Orig Trans Date"
+wait 2
+click text:<not preceded by  characters,day,not followed by characters>,waitFor:5
+Log day
+//click text: <not preceded by characters then day() then not followed by characters>,SearchRectangle:[586,486,1320,673]
+//Click text: day,SearchRectangle:[586,486,1320,673]
+
+wait 2
+CaptureScreen
+click "OrigTransDate OK Btn Img"
+WaitFor 10,text:"Return Information"
+wait 2
+Click "OrigStoreID Img"
+Log "Clicked Orig Store ID field"
+TypeText "1646555",returnKey
+wait 2
+WaitFor 5,text:"Return Information"
+Click "OrigRegisterID Field"
+Log "Clicked Order register Id field"
+WaitFor 10, text:"Orig Register ID"
+TypeText "1",returnKey
+CaptureScreen {Name: "Return Item Details Entered"}
+Log "Return Items are entered"
+
+WaitFor 5,text:"Process"
+Click "Return Process img"
+WaitFor 5,text:"Original Transaction"
+Click "PdtReturn Img"
+WaitFor 5,text:"Original Transaction"
+Click "ReturnSelectedItems Button Img"
+WaitFor 5,text:"Reason Code"
+Click "539UNSALEABLE Reason"
+WaitFor 5,text:"Refund"
+//Put ReadText([853,957,930,987]) into RefundAmt
+put ImageLocation(text:"Refund") into RefundLocnation
+set the SearchRectangle to [RefundLocnation.x+40, RefundLocnation.y-10,RefundLocnation.x+120,RefundLocnation.y+10]
+put ReadText (the SearchRectangle) into RefundAmt
+set the SearchRectangle to []
+log RefundAmt
+Click text:"Refund"
+WaitFor 5,text:"Return Tender Options"
+Click "Return Cash Img"
+WaitFor 5,text:"Tender"
+wait 2
+TypeText RefundAmt,returnKey
+wait 3
+if ImageFound(0,text:"unverified return")
+	click text: "Yes"
+end if
+WaitFor 5,text:"Email Address"
+CaptureScreen {Name:"EmailAddress Popup"}
+Click "Return PrintOnly Img"
+Log "Return Process initiated"
+WaitFor 10,text:"Sales Associate"
+if ImageFound(text:"Sales Associate",waitfor :5) then
+	click "SalesAssociate BackBtn Img"
+	LogSuccess "Click Back Button"
+else
+	Log "Back button is not present"
+end if

@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		882,
+		214,
+		154,
+		19
+	],
+	"lastmodifieddate": 1757324766.0110002,
+	"createddate": 1757324766.0110002,
+	"name": "Return CustomerSearch Img",
+	"lastfounddate": 1757324766.312,
+	"ocrcapturestring": "Customer Search",
+	"lastfoundlocation": [
+		882,
+		214,
+		154,
+		19
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 61110,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[74,13]",
+					"Tolerance": "_59",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "Return CustomerSearch Img.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					882,
+					214,
+					154,
+					19
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Customer Search"
+			}
+	]
+}

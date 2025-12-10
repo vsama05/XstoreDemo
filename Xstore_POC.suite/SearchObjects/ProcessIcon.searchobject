@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		12,
+		8,
+		1893,
+		1020
+	],
+	"lastmodifieddate": 1756970079.8860002,
+	"createddate": 1756970033.8380001,
+	"name": "ProcessIcon",
+	"lastfounddate": 1756970034.7950001,
+	"ocrcapturestring": "E3 Xstore (T1646555R001) - VNC Viewer □ I Password •z ✓ X Login Menu Clock In/Out Change Password Sale Item Lookup Customer Xstore Portal Balance Inquiry Flash Sales Dashboard Back Process About Receipt Reprint Options Security Sale Enter Training Mode Employee ID 111111 0 Scan or key your employee ID to sign on. Register 1 KIDS FOOT LOCKER 1646555 09/03/2025 03:10 AM",
+	"lastfoundlocation": [
+		12,
+		8,
+		1893,
+		1020
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 53115,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[946,510]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "ProcessIcon.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					12,
+					8,
+					1893,
+					1020
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "E3 Xstore (T1646555R001) - VNC Viewer □ I Password •z ✓ X Login Menu Clock In/Out Change Password Sale Item Lookup Customer Xstore Portal Balance Inquiry Flash Sales Dashboard Back Process About Receipt Reprint Options Security Sale Enter Training Mode Employee ID 111111 0 Scan or key your employee ID to sign on. Register 1 KIDS FOOT LOCKER 1646555 09/03/2025 03:10 AM"
+			}
+	]
+}

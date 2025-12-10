@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		1352,
+		85,
+		108,
+		24
+	],
+	"lastmodifieddate": 1756959827.516,
+	"createddate": 1756959805.503,
+	"name": "MainMenuIcon",
+	"lastfounddate": 1756959805.868,
+	"ocrcapturestring": "Main Menu",
+	"lastfoundlocation": [
+		1352,
+		85,
+		108,
+		24
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 53115,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[21,6]",
+					"Tolerance": "_42",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "MainMenuIcon.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					1352,
+					85,
+					108,
+					24
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Main Menu"
+			}
+	]
+}

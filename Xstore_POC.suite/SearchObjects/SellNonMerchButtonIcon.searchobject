@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		1711,
+		185,
+		110,
+		16
+	],
+	"lastmodifieddate": 1756962917.2589998,
+	"createddate": 1756960388.033,
+	"name": "SellNonMerchButtonIcon",
+	"lastfounddate": 1756960388.5409999,
+	"ocrcapturestring": "Sell Non-Merch",
+	"lastfoundlocation": [
+		1711,
+		185,
+		110,
+		16
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 53115,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[35,6]",
+					"Tolerance": "_62",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "SellNonMerchButtonIcon.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					1711,
+					185,
+					110,
+					16
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Sell Non-Merch"
+			}
+	]
+}

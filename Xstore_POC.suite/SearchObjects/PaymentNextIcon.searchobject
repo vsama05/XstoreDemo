@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		769,
+		959,
+		21,
+		29
+	],
+	"lastmodifieddate": 1756964435.628,
+	"createddate": 1756964435.628,
+	"name": "PaymentNextIcon",
+	"lastfounddate": 1762340422.4349999,
+	"ocrcapturestring": ">",
+	"lastfoundlocation": [
+		769,
+		959,
+		21,
+		29
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 53115,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[8,17]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "PaymentNextIcon.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					769,
+					959,
+					21,
+					29
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": ">"
+			}
+	]
+}

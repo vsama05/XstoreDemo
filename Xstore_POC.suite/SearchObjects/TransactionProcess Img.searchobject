@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		1085,
+		689,
+		54,
+		15
+	],
+	"lastmodifieddate": 1757322729.5409999,
+	"createddate": 1757322729.5409999,
+	"name": "TransactionProcess Img",
+	"lastfounddate": 1762322189.3439999,
+	"ocrcapturestring": "Process",
+	"lastfoundlocation": [
+		1085,
+		689,
+		54,
+		15
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 61110,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[48,10]",
+					"Tolerance": "_62",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "TransactionProcess Img.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					1085,
+					689,
+					54,
+					15
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Process"
+			}
+	]
+}

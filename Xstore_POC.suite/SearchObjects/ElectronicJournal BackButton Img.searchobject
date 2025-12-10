@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		789,
+		686,
+		39,
+		20
+	],
+	"lastmodifieddate": 1757323523.7509999,
+	"createddate": 1757323523.7509999,
+	"name": "ElectronicJournal BackButton Img",
+	"lastfounddate": 1762322202.7950001,
+	"ocrcapturestring": "Back",
+	"lastfoundlocation": [
+		789,
+		686,
+		39,
+		20
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 61110,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[16,15]",
+					"Tolerance": "_62",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "ElectronicJournal BackButton Img.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					789,
+					686,
+					39,
+					20
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Back"
+			}
+	]
+}

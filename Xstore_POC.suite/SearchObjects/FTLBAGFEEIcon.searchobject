@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		721,
+		256,
+		76,
+		14
+	],
+	"lastmodifieddate": 1756964398.5869999,
+	"createddate": 1756964398.5869999,
+	"name": "FTLBAGFEEIcon",
+	"lastfounddate": 1756975910.6890001,
+	"ocrcapturestring": "FTL BAG FEE",
+	"lastfoundlocation": [
+		721,
+		256,
+		76,
+		14
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 53115,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[23,6]",
+					"Tolerance": "_57",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "FTLBAGFEEIcon.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					721,
+					256,
+					76,
+					14
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "FTL BAG FEE"
+			}
+	]
+}

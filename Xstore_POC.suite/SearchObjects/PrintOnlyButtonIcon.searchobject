@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		848,
+		415,
+		70,
+		19
+	],
+	"lastmodifieddate": 1756967998.181,
+	"createddate": 1756967998.181,
+	"name": "PrintOnlyButtonIcon",
+	"lastfounddate": 1762340431.1700001,
+	"ocrcapturestring": "Print Only",
+	"lastfoundlocation": [
+		848,
+		415,
+		70,
+		19
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 53115,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[38,13]",
+					"Tolerance": "_62",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "PrintOnlyButtonIcon.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					848,
+					415,
+					70,
+					19
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Print Only"
+			}
+	]
+}

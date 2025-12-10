@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		895,
+		264,
+		129,
+		19
+	],
+	"lastmodifieddate": 1757339085.1529999,
+	"createddate": 1757339028.993,
+	"name": "Return EmailAddress Popup Img",
+	"lastfounddate": 1757339029.431,
+	"ocrcapturestring": "Email Address",
+	"lastfoundlocation": [
+		895,
+		264,
+		129,
+		19
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 51197,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[45,13]",
+					"Tolerance": "_69",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "Return EmailAddress Popup Img.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					895,
+					264,
+					129,
+					19
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Email Address"
+			}
+	]
+}

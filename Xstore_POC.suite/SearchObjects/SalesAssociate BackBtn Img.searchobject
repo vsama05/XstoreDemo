@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		738,
+		740,
+		39,
+		21
+	],
+	"lastmodifieddate": 1757511117.8530002,
+	"createddate": 1757511117.8530002,
+	"name": "SalesAssociate BackBtn Img",
+	"lastfounddate": 1762340622.0580001,
+	"ocrcapturestring": "Back",
+	"lastfoundlocation": [
+		738,
+		739,
+		39,
+		21
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 49488,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[36,18]",
+					"Tolerance": "_62",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "SalesAssociate BackBtn Img.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					738,
+					740,
+					39,
+					21
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Back"
+			}
+	]
+}

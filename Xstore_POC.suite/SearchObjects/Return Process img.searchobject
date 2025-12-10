@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		1113,
+		615,
+		86,
+		40
+	],
+	"lastmodifieddate": 1757338312.776,
+	"createddate": 1757338312.776,
+	"name": "Return Process img",
+	"lastfounddate": 1762340570.158,
+	"ocrcapturestring": "Process",
+	"lastfoundlocation": [
+		1113,
+		614,
+		86,
+		40
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 51197,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[43,20]",
+					"Tolerance": "_69",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "Return Process img.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					1113,
+					615,
+					86,
+					40
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Process"
+			}
+	]
+}

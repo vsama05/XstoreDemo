@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		1369,
+		985,
+		64,
+		61
+	],
+	"lastmodifieddate": 1757567298.033,
+	"createddate": 1757567298.033,
+	"name": "Date",
+	"lastfounddate": 1757568196.5369999,
+	"ocrcapturestring": "09/10/2025",
+	"lastfoundlocation": [
+		1370,
+		984,
+		64,
+		61
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 49488,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[32,32]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "Date.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					1369,
+					985,
+					64,
+					61
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "09/10/2025"
+			}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		1133,
+		735,
+		110,
+		33
+	],
+	"lastmodifieddate": 1757338492.9720001,
+	"createddate": 1757338492.9720001,
+	"name": "ReturnSelectedItems Button Img",
+	"lastfounddate": 1762340572.8870001,
+	"ocrcapturestring": "Return Selected Items",
+	"lastfoundlocation": [
+		1133,
+		735,
+		110,
+		33
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 51197,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[55,16]",
+					"Tolerance": "_59",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "ReturnSelectedItems Button Img.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					1133,
+					735,
+					110,
+					33
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Return Selected Items"
+			}
+	]
+}

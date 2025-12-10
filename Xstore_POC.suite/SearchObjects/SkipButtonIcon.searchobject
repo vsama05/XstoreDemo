@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		943,
+		567,
+		32,
+		19
+	],
+	"lastmodifieddate": 1756959739.197,
+	"createddate": 1756959739.197,
+	"name": "SkipButtonIcon",
+	"lastfounddate": 1762340523.793,
+	"ocrcapturestring": "Skip",
+	"lastfoundlocation": [
+		943,
+		566,
+		32,
+		19
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 53115,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[23,12]",
+					"Tolerance": "_59",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "SkipButtonIcon.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					943,
+					567,
+					32,
+					19
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Skip"
+			}
+	]
+}

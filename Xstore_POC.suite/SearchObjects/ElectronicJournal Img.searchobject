@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		1441,
+		278,
+		144,
+		17
+	],
+	"lastmodifieddate": 1757322328.0310001,
+	"createddate": 1757322328.0310001,
+	"name": "ElectronicJournal Img",
+	"lastfounddate": 1762333980.6500001,
+	"ocrcapturestring": "Electronic Journal",
+	"lastfoundlocation": [
+		1450,
+		274,
+		144,
+		17
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 61110,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[56,8]",
+					"Tolerance": "_62",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "ElectronicJournal Img.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					1441,
+					278,
+					144,
+					17
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Electronic Journal"
+			}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		1119,
+		438,
+		86,
+		33
+	],
+	"lastmodifieddate": 1757324923.125,
+	"createddate": 1757324923.125,
+	"name": "Return Yes Img",
+	"lastfounddate": 1762340538.3270001,
+	"ocrcapturestring": "Yes",
+	"lastfoundlocation": [
+		1119,
+		437,
+		86,
+		33
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 61110,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[43,16]",
+					"Tolerance": "_65",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "Return Yes Img.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					1119,
+					438,
+					86,
+					33
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Yes"
+			}
+	]
+}

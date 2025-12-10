@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		654,
+		413,
+		130,
+		35
+	],
+	"lastmodifieddate": 1757337843.0050001,
+	"createddate": 1757337843.0050001,
+	"name": "Orig Ticket ID",
+	"lastfounddate": 1762340543.5320001,
+	"ocrcapturestring": "Orig Ticket ID",
+	"lastfoundlocation": [
+		654,
+		413,
+		130,
+		35
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 51197,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[65,17]",
+					"Tolerance": "_40",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "Orig Ticket ID.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					654,
+					413,
+					130,
+					35
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Orig Ticket ID"
+			}
+	]
+}

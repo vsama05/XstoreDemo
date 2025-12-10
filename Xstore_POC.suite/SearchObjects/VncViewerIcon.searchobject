@@ -1,0 +1,47 @@
+{
+	"lastmodifieddate": 1756896846.605,
+	"lastfoundlocation": [
+		98,
+		9,
+		32,
+		30
+	],
+	"originalcapturelocation": [
+		93,
+		6,
+		41,
+		41
+	],
+	"createddate": 1756895202.9489999,
+	"lastfounddate": 1762340388.5710001,
+	"testlocationdata": [
+		{
+				"connectionportnum": 56318,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[20,13]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "VncViewerIcon.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					93,
+					6,
+					41,
+					41
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "ye"
+			}
+	],
+	"name": "VncViewerIcon"
+}

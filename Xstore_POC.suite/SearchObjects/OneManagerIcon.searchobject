@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		733,
+		256,
+		82,
+		16
+	],
+	"lastmodifieddate": 1756959703.5599999,
+	"createddate": 1756959703.5599999,
+	"name": "OneManagerIcon",
+	"lastfounddate": 1762340517.9460001,
+	"ocrcapturestring": "One, Manager",
+	"lastfoundlocation": [
+		733,
+		255,
+		82,
+		16
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 53115,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[57,9]",
+					"Tolerance": "_59",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "OneManagerIcon.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					733,
+					256,
+					82,
+					16
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "One, Manager"
+			}
+	]
+}

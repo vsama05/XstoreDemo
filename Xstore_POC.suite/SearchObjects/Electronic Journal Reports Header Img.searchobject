@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		91,
+		140,
+		103,
+		14
+	],
+	"lastmodifieddate": 1757322870.8660002,
+	"createddate": 1757322814.017,
+	"name": "Electronic Journal Reports Header Img",
+	"lastfounddate": 1757322814.2920001,
+	"ocrcapturestring": "Electronic Journal",
+	"lastfoundlocation": [
+		91,
+		140,
+		103,
+		14
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 61110,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[50,8]",
+					"Tolerance": "_49",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "Electronic Journal Reports Header Img.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					91,
+					140,
+					103,
+					14
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Electronic Journal"
+			}
+	]
+}

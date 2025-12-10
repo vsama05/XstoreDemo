@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		1671,
+		203,
+		121,
+		115
+	],
+	"lastmodifieddate": 1757322230.5089998,
+	"createddate": 1757322230.5089998,
+	"name": "Reporting Img",
+	"lastfounddate": 1762340453.003,
+	"ocrcapturestring": "Reporting",
+	"lastfoundlocation": [
+		1671,
+		203,
+		121,
+		115
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 61110,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[60,57]",
+					"Tolerance": "_64",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "Reporting Img.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					1671,
+					203,
+					121,
+					115
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Reporting"
+			}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		829,
+		174,
+		231,
+		16
+	],
+	"lastmodifieddate": 1757322651.3200002,
+	"createddate": 1757322542.595,
+	"name": "TransactionSearch PopUp Img",
+	"lastfounddate": 1757322614.7350001,
+	"ocrcapturestring": "Transaction Search",
+	"lastfoundlocation": [
+		829,
+		173,
+		231,
+		16
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 61110,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[124,5]",
+					"Tolerance": "_69",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "TransactionSearch PopUp Img.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					829,
+					174,
+					231,
+					16
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Transaction Search"
+			}
+	]
+}

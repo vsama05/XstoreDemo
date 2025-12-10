@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		881,
+		200,
+		81,
+		15
+	],
+	"lastmodifieddate": 1757324672.3569999,
+	"createddate": 1757324672.3569999,
+	"name": "ReturnItem Img",
+	"lastfounddate": 1762340528.2610002,
+	"ocrcapturestring": "Return Item",
+	"lastfoundlocation": [
+		881,
+		200,
+		81,
+		15
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 61110,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[34,12]",
+					"Tolerance": "_62",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "ReturnItem Img.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					881,
+					200,
+					81,
+					15
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Return Item"
+			}
+	]
+}

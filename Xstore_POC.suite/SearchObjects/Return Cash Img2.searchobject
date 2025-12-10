@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		1074,
+		229,
+		91,
+		93
+	],
+	"lastmodifieddate": 1757650879.8769999,
+	"createddate": 1757650879.8769999,
+	"name": "Return Cash Img2",
+	"lastfounddate": 1762340594.9130001,
+	"ocrcapturestring": "Cash",
+	"lastfoundlocation": [
+		1074,
+		229,
+		91,
+		93
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 57992,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[45,46]",
+					"Tolerance": "_59",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "Return Cash Img.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					1074,
+					229,
+					91,
+					93
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Cash"
+			}
+	]
+}

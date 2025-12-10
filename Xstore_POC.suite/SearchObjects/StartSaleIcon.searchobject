@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		1032,
+		228,
+		95,
+		97
+	],
+	"lastmodifieddate": 1756959662.9990001,
+	"createddate": 1756959662.9990001,
+	"name": "StartSaleIcon",
+	"lastfounddate": 1762340512.9029999,
+	"ocrcapturestring": "Start Sale",
+	"lastfoundlocation": [
+		1032,
+		227,
+		95,
+		97
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 53115,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[47,48]",
+					"Tolerance": "_62",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "StartSaleIcon.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					1032,
+					228,
+					95,
+					97
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Start Sale"
+			}
+	]
+}

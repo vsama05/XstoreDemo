@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		943,
+		567,
+		32,
+		19
+	],
+	"lastmodifieddate": 1757324782.9530001,
+	"createddate": 1757324782.9530001,
+	"name": "Return Skip Img",
+	"lastfounddate": 1762340533.313,
+	"ocrcapturestring": "Skip",
+	"lastfoundlocation": [
+		943,
+		566,
+		32,
+		19
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 61110,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[20,4]",
+					"Tolerance": "_59",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "Return Skip Img.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					943,
+					567,
+					32,
+					19
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Skip"
+			}
+	]
+}

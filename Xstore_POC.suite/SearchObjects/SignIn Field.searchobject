@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		894,
+		81,
+		64,
+		64
+	],
+	"lastmodifieddate": 1757321865.4190001,
+	"createddate": 1757321865.4190001,
+	"name": "SignIn Field",
+	"lastfounddate": 1757652361.076,
+	"ocrcapturestring": "Scan or",
+	"lastfoundlocation": [
+		894,
+		81,
+		64,
+		64
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 61110,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[32,32]",
+					"Tolerance": "_42",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "SignIn Field.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					894,
+					81,
+					64,
+					64
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Scan or"
+			}
+	]
+}

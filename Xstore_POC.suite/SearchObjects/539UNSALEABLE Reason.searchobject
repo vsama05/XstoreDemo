@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		674,
+		302,
+		105,
+		14
+	],
+	"lastmodifieddate": 1757338621.7750001,
+	"createddate": 1757338621.7750001,
+	"name": "539UNSALEABLE Reason",
+	"lastfounddate": 1762340579.2579999,
+	"ocrcapturestring": "539-UNSALEABLE",
+	"lastfoundlocation": [
+		674,
+		302,
+		105,
+		14
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 51197,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[53,10]",
+					"Tolerance": "_62",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "539UNSALEABLE Reason.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					674,
+					302,
+					105,
+					14
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "539-UNSALEABLE"
+			}
+	]
+}

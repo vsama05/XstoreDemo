@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		609,
+		961,
+		177,
+		25
+	],
+	"lastmodifieddate": 1757338748.427,
+	"createddate": 1757338748.427,
+	"name": "Refund7500 img",
+	"lastfounddate": 1762238675.378,
+	"ocrcapturestring": "Refund $75.00 >",
+	"lastfoundlocation": [
+		124,
+		79,
+		177,
+		25
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 51197,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[146,8]",
+					"Tolerance": "_42",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "Refund7500 img.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					609,
+					961,
+					177,
+					25
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Refund $75.00 >"
+			}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		688,
+		557,
+		80,
+		24
+	],
+	"lastmodifieddate": 1757327077.7940001,
+	"createddate": 1757327077.7940001,
+	"name": "OrigTrans Date Img",
+	"lastfounddate": 1757327108.3329999,
+	"ocrcapturestring": "8",
+	"lastfoundlocation": [
+		688,
+		557,
+		80,
+		24
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 61110,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[40,12]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "OrigTrans Date Img.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					688,
+					557,
+					80,
+					24
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "8"
+			}
+	]
+}

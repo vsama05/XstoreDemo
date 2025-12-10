@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		1058,
+		279,
+		41,
+		16
+	],
+	"lastmodifieddate": 1756964573.3499999,
+	"createddate": 1756964573.3499999,
+	"name": "CashIcon",
+	"lastfounddate": 1762340425.4390001,
+	"ocrcapturestring": "Cash",
+	"lastfoundlocation": [
+		1058,
+		279,
+		41,
+		16
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 53115,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[19,8]",
+					"Tolerance": "_59",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "CashIcon.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					1058,
+					279,
+					41,
+					16
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Cash"
+			}
+	]
+}

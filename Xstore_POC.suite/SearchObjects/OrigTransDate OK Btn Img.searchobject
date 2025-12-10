@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		947,
+		702,
+		28,
+		20
+	],
+	"lastmodifieddate": 1757327150.9429998,
+	"createddate": 1757327150.9429998,
+	"name": "OrigTransDate OK Btn Img",
+	"lastfounddate": 1762340553.957,
+	"ocrcapturestring": "OK",
+	"lastfoundlocation": [
+		947,
+		702,
+		28,
+		20
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 61110,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[9,19]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "OrigTransDate OK Btn Img.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					947,
+					702,
+					28,
+					20
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "OK"
+			}
+	]
+}

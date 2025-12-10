@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		890,
+		154,
+		139,
+		20
+	],
+	"lastmodifieddate": 1757339314.553,
+	"createddate": 1757339263.4400001,
+	"name": "Return SalesAssociate Img",
+	"lastfounddate": 1757339264.27,
+	"ocrcapturestring": "Sales Associate",
+	"lastfoundlocation": [
+		890,
+		154,
+		139,
+		20
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 51197,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[80,12]",
+					"Tolerance": "_62",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "Return SalesAssociate Img.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					890,
+					154,
+					139,
+					20
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Sales Associate"
+			}
+	]
+}

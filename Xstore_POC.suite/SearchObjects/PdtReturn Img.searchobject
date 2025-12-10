@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		663,
+		266,
+		184,
+		39
+	],
+	"lastmodifieddate": 1757338383.766,
+	"createddate": 1757338383.766,
+	"name": "PdtReturn Img",
+	"lastfounddate": 1762340571.5209999,
+	"ocrcapturestring": "166105317504080 05/17 JRDN TDB RET 12-WH/BL",
+	"lastfoundlocation": [
+		663,
+		266,
+		184,
+		39
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 51197,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[68,18]",
+					"Tolerance": "_62",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "PdtReturn Img.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					663,
+					266,
+					184,
+					39
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "166105317504080 05/17 JRDN TDB RET 12-WH/BL"
+			}
+	]
+}

@@ -1,0 +1,104 @@
+﻿wait 2
+if ImageFound(text:"Sales Associate",waitfor :5) then
+	click "SalesAssociate BackBtn Img"
+	LogSuccess "Click Back Button"
+else
+	Log "Back button is not present"
+end if
+wait 2
+if ImageFound(text:"Scan or key your employee ID to sign on.", waitfor:3) then
+	Click "SignIn Field"	
+	TypeText "111111",returnKey
+	wait 1
+	waitfor 10, text:"Key your password"
+	TypeText "x1234567",returnKey
+	Log "Sign-in is successful"
+else
+	Log "Log-in Screen is not present"
+end if
+waitfor 10, text:"Main Menu"
+Log "Fetching Return item details"
+Click "Reporting Img"
+Waitfor 5,text:"Electronic Journal"
+Click "ElectronicJournal Img"
+WaitFor 10,text:"Transaction Search"
+Click "TransactionProcess Img"
+Waitfor 5,text:"Electronic Journal"
+Log "Fetching Ticket ID"
+CaptureScreen {Name: "Electric journal ticket ID"}
+Put ImageRectangle(text:"Status Complete").topleft into TL
+Put TL + [60,-30] into BR
+Put ReadText(TL,BR) into TicketId
+split TicketId by space
+Put item  2 of TicketId into TicketId
+Log "Got the Ticket ID"
+Click "ElectronicJournal Back Img"
+WaitFor 10,text:"Transaction Search"
+Click "ElectronicJournal BackButton Img"
+WaitFor 10,text:"Reporting"
+Click "MainMenu Back Icon"
+WaitFor 10,text:"Start Sale"
+Log "Starting the Return Process"
+Click "StartSaleIcon"
+WaitFor 10, text:"Sales Associate"
+click "OneManagerIcon"
+WaitFor 10, text:"Customer Search"
+click "SkipButtonIcon"
+WaitFor 10, text:"Return Item"
+Log "Getting Registers Day"
+Put ReadText([1369,985,1433,1046]) into dateString
+Log "Extracted date: " &  dateString
+Put split(dateString, "/") into dateParts
+Put item 2 of dateParts as number into day
+Log "Day: " & day
+Click "ReturnItem Img"
+WaitFor 10,text:"Customer Search"
+Click "Return Skip Img"
+WaitFor 10,text: "Return"
+Click "Return Yes Img"
+WaitFor 10,text:"Return Information"
+Click "Orig Ticket ID"
+TypeText TicketId, returnKey
+wait 2
+Click "OrigTransDate Field Img"
+Log "Clicked Orig Transaction date field"
+WaitFor 10,text:"Orig Trans Date"
+//click text: <not preceded by characters then day() then not followed by characters>
+Click text: day,SearchRectangle:[586,486,1320,673]
+
+wait 2
+click "OrigTransDate OK Btn Img"
+WaitFor 10,text:"Return Information"
+wait 2
+Click "OrigStoreID Img"
+Log "Clicked Orig Store ID field"
+TypeText "1646555",returnKey
+wait 2
+WaitFor 5,text:"Return Information"
+Click "OrigRegisterID Field"
+Log "Clicked Order register Id field"
+WaitFor 10, text:"Orig Register ID"
+TypeText "1",returnKey
+Log "Return Items are entered"
+CaptureScreen {Name: "Return Item Details Entered"}
+WaitFor 5,text:"Process"
+Click "Return Process img"
+WaitFor 5,text:"Original Transaction"
+Click "PdtReturn Img"
+WaitFor 5,text:"Original Transaction"
+Click "ReturnSelectedItems Button Img"
+WaitFor 5,text:"Reason Code"
+Click "539UNSALEABLE Reason"
+WaitFor 5,text:"Refund"
+Click "Refund7500 img"
+WaitFor 5,text:"Return Tender Options"
+Click "Return Cash Img"
+WaitFor 5,text:"Tender"
+TypeText "75",returnKey
+WaitFor 5,text:"Email Address"
+CaptureScreen {Name:"EmailAddress Popup"}
+Click "Return PrintOnly Img"
+Log "Return Process initiated"
+WaitFor 10,text:"Sales Associate"
+
+

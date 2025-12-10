@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		658,
+		506,
+		74,
+		29
+	],
+	"lastmodifieddate": 1757325570.092,
+	"createddate": 1757325570.092,
+	"name": "OrigStoreID Img",
+	"lastfounddate": 1762340557.7969999,
+	"ocrcapturestring": "Orig Store ID",
+	"lastfoundlocation": [
+		658,
+		505,
+		74,
+		29
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 61110,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[37,14]",
+					"Tolerance": "_42",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "OrigStoreID Img.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					658,
+					506,
+					74,
+					29
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Orig Store ID"
+			}
+	]
+}

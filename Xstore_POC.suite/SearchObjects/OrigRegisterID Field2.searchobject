@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		659,
+		547,
+		97,
+		32
+	],
+	"lastmodifieddate": 1757338224.388,
+	"createddate": 1757338224.388,
+	"name": "OrigRegisterID Field2",
+	"lastfounddate": 1762340562.0679998,
+	"ocrcapturestring": "Orig Register ID",
+	"lastfoundlocation": [
+		659,
+		546,
+		97,
+		32
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 51197,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[48,16]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "OrigRegisterID Field.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					659,
+					547,
+					97,
+					32
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Orig Register ID"
+			}
+	]
+}

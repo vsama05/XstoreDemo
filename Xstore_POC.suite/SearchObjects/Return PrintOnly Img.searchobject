@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		848,
+		415,
+		70,
+		19
+	],
+	"lastmodifieddate": 1757339112.9000001,
+	"createddate": 1757339112.9000001,
+	"name": "Return PrintOnly Img",
+	"lastfounddate": 1762340606.493,
+	"ocrcapturestring": "Print Only",
+	"lastfoundlocation": [
+		848,
+		415,
+		70,
+		19
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 51197,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[28,13]",
+					"Tolerance": "_62",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"Type": "Single System"
+				},
+				"name": "Return PrintOnly Img.png",
+				"connectionname": "My Machine",
+				"type": 1,
+				"connectionserverid": "127.0.0.1",
+				"capturerect": [
+					848,
+					415,
+					70,
+					19
+				],
+				"connectiontype": "Single System",
+				"capturedocrtext": "Print Only"
+			}
+	]
+}
