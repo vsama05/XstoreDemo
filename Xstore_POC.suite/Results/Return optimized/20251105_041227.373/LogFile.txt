@@ -1,0 +1,7 @@
+﻿2025-11-05 04:12:27.383 -0500	START		Running Return optimized.script
+2025-11-05 04:12:28.428 -0500	waitfor	(TEXT:"Main Menu")	found at (1411, 89)	1	on_return_optimized	Return optimized.script
+2025-11-05 04:12:28.432 -0500	Log		Fetching Return item details	2	on_return_optimized	Return optimized.script
+2025-11-05 04:12:28.662 -0500	click	Reporting Img	at (1743, 256)	3	on_return_optimized	Return optimized.script
+2025-11-05 04:12:32.661 -0500	waitfor	(TEXT:"Electronic Journal")	found at (1521, 282)	4	on_return_optimized	Return optimized.script
+2025-11-05 04:13:30.084 -0500	EndTestCase		(Duration:"62.696", Errors:"1", Exceptions:"0", StartTime:"2025-11-05 04:12:27 -0500", Successes:"0", TestCase:"Return optimized.script", Warnings:"0")
+2025-11-05 04:13:30.099 -0500	ABORTED		Execution Time 0:01:02 Return optimized.script

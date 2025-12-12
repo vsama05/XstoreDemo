@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running Sale & Return.script",
+				"identifier": "START",
+				"timestamp": "2025-09-17 00:15:49.187 -0400"
+			},
+		{
+				"message": "(Duration:\"0.004\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-09-17 00:15:49 -0400\", Successes:\"0\", TestCase:\"Sale & Return.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-09-17 00:15:49.196 -0400"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "SenseTalk Compiler Exception: in sale___return:\\nSyntax Error at line 69: can't understand \"end\" at character 1 -- Execution Time 0:00:00 Sale & Return.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-09-17 00:15:49.420 -0400"
+			}
+	],
+	"createdTimestamp": "2025-09-17 00:15:49.190 -0400"
+}

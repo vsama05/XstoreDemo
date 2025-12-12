@@ -1,0 +1,284 @@
+{
+	"entries": [
+		{
+				"message": "Running SignIn.script",
+				"identifier": "START",
+				"timestamp": "2025-09-04 03:20:40.144 -0400"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:20:40.391 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (113, 19)",
+				"image": "VncViewerIcon",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:20:43.763 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (747, 413)",
+				"image": "(TEXT:\"Xstore\")",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:20:45.038 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (747, 413)",
+				"image": "(TEXT:\"Xstore\")",
+				"handlerLine": 3,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:20:48.731 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (992, 139)",
+				"image": "(TEXT:\"Scan or key your employee\")",
+				"handlerLine": 4,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:20:48.834 -0400",
+				"message": "111111[returnKey]",
+				"scriptName": "SignIn.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:20:52.389 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (884, 374)",
+				"image": "(TEXT:\"Key your password\")",
+				"handlerLine": 7,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:20:52.788 -0400",
+				"message": "x1234567[returnKey]",
+				"scriptName": "SignIn.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:20:58.940 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (1404, 96)",
+				"image": "(TEXT:\"Main Menu\")",
+				"handlerLine": 9,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:20:58.946 -0400",
+				"message": "Sign-in is successful",
+				"scriptName": "SignIn.script",
+				"handlerLine": 10,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:20:59.470 -0400",
+				"scriptName": "SignIn.script",
+				"message": "(885,83,1909,1035)",
+				"image": "Sign-In.png",
+				"handlerLine": 15,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:20:59.704 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (1079, 275)",
+				"image": "StartSaleIcon",
+				"handlerLine": 16,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:21:04.554 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (959, 163)",
+				"image": "(TEXT:\"Sales Associate\")",
+				"handlerLine": 17,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:21:04.772 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (790, 264)",
+				"image": "OneManagerIcon",
+				"handlerLine": 18,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:21:11.401 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (959, 222)",
+				"image": "(TEXT:\"Customer Search\")",
+				"handlerLine": 19,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:21:11.634 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (966, 578)",
+				"image": "SkipButtonIcon",
+				"handlerLine": 20,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:21:16.541 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (1687, 92)",
+				"image": "(TEXT:\"Sale\")",
+				"handlerLine": 21,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:21:16.744 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (1612, 148)",
+				"image": "FirstSellNonMerchIcon",
+				"handlerLine": 22,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:21:21.904 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (1773, 196)",
+				"image": "SellNonMerchButtonIcon",
+				"handlerLine": 24,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:21:27.175 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (959, 163)",
+				"image": "(TEXT:\"Add Item\")",
+				"handlerLine": 25,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:21:27.399 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (744, 262)",
+				"image": "FTLBAGFEEIcon",
+				"handlerLine": 26,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:21:28.578 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (777, 976)",
+				"image": "PaymentNextIcon",
+				"handlerLine": 28,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:21:30.757 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (1404, 98)",
+				"image": "(TEXT:\"Sale Tender Options\")",
+				"handlerLine": 30,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:21:31.989 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (1077, 287)",
+				"image": "CashIcon",
+				"handlerLine": 32,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:21:33.213 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (1387, 95)",
+				"image": "(TEXT:\"Tender\")",
+				"handlerLine": 33,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:21:33.282 -0400",
+				"message": "0.25[returnKey]",
+				"scriptName": "SignIn.script",
+				"handlerLine": 34,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:21:36.268 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (928, 314)",
+				"image": "(TEXT:\"Email Address\")",
+				"handlerLine": 36,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:21:36.504 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (886, 428)",
+				"image": "PrintOnlyButtonIcon",
+				"handlerLine": 37,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:21:53.437 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (959, 163)",
+				"image": "(TEXT:\"Sales Associate\")",
+				"handlerLine": 39,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:21:53.450 -0400",
+				"message": "Sale is successful",
+				"scriptName": "SignIn.script",
+				"handlerLine": 40,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:21:53.846 -0400",
+				"scriptName": "SignIn.script",
+				"image": "Sale Associate Page.png",
+				"handlerLine": 45,
+				"identifier": "capturescreen"
+			},
+		{
+				"message": "(Duration:\"73.732\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-09-04 03:20:40 -0400\", Successes:\"2\", TestCase:\"SignIn.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-09-04 03:21:53.880 -0400"
+			},
+		{
+				"message": "Execution Time 0:01:13 SignIn.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-09-04 03:21:53.928 -0400"
+			}
+	],
+	"createdTimestamp": "2025-09-04 03:20:40.146 -0400"
+}

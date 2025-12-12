@@ -1,0 +1,37 @@
+{
+	"entries": [
+		{
+				"message": "Running Sale & Return.script",
+				"identifier": "START",
+				"timestamp": "2025-09-17 00:28:09.257 -0400"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-09-17 00:28:10.544 -0400",
+				"scriptName": "Sale & Return.script",
+				"message": "at (113, 19)",
+				"image": "VncViewerIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-09-17 00:28:14.057 -0400",
+				"message": "Searching For Image: OCR Error: Operation was aborted",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 3,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"4.834\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-09-17 00:28:09 -0400\", Successes:\"0\", TestCase:\"Sale & Return.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-09-17 00:28:14.096 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:04 Sale & Return.script",
+				"identifier": "ABORTED",
+				"timestamp": "2025-09-17 00:28:14.123 -0400"
+			}
+	],
+	"createdTimestamp": "2025-09-17 00:28:09.259 -0400"
+}

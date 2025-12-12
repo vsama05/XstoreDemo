@@ -1,0 +1,64 @@
+{
+	"entries": [
+		{
+				"message": "Running Return optimized.script",
+				"identifier": "START",
+				"timestamp": "2025-11-05 04:11:26.509 -0500"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:11:27.490 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "found at (1411, 89)",
+				"image": "(TEXT:\"Main Menu\")",
+				"handlerLine": 1,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:11:27.501 -0500",
+				"message": "Fetching Return item details",
+				"scriptName": "Return optimized.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:11:27.721 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "at (1743, 256)",
+				"image": "Reporting Img",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:11:31.578 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "found at (1521, 282)",
+				"image": "(TEXT:\"Electronic Journal\")",
+				"handlerLine": 4,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:11:54.513 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "No Image Found On Screen: \"ElectronicJournal Img\"",
+				"image": "ElectronicJournal Img",
+				"handlerLine": 5,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"28.103\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-11-05 04:11:26 -0500\", Successes:\"0\", TestCase:\"Return optimized.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-11-05 04:11:54.617 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:28 Return optimized.script",
+				"identifier": "ABORTED",
+				"timestamp": "2025-11-05 04:11:54.636 -0500"
+			}
+	],
+	"createdTimestamp": "2025-11-05 04:11:26.512 -0500"
+}

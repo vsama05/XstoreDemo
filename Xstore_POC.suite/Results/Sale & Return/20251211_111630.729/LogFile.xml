@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Sale &amp; Return_script" package="Xstore_POC.suite" timestamp="2025-12-11 11:16:30.729 -0500"
+ tests="1"  failures="2" errors="0" time="43.841000">
+  <properties>
+   <property name="RunDate" value="2025-12-11 11:16:30.729 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Sale &amp; Return.script" assertions="2" status="failure"  time="43.829">
+    <failure type="LogError" message="Sign-in is unsuccessful" />
+    <failure type="FAILURE" message="STUnknownMessage: ERROR: No Such Command: &apos;exitwitherror&apos; -- Execution Time 0:00:43 Sale &amp; Return.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

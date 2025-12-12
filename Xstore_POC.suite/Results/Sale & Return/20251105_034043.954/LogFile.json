@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running Sale & Return.script",
+				"identifier": "START",
+				"timestamp": "2025-11-05 03:40:43.962 -0500"
+			},
+		{
+				"message": "(Duration:\"2.161\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-11-05 03:40:43 -0500\", Successes:\"0\", TestCase:\"Sale & Return.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-11-05 03:40:46.132 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:02 Sale & Return.script",
+				"identifier": "ABORTED",
+				"timestamp": "2025-11-05 03:40:46.195 -0500"
+			}
+	],
+	"createdTimestamp": "2025-11-05 03:40:43.967 -0500"
+}

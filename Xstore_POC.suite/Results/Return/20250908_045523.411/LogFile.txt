@@ -1,0 +1,8 @@
+﻿2025-09-08 04:55:23.417 -0400	START		Running Return.script
+2025-09-08 04:55:37.679 -0400	imagefound	(TEXT:"Sales Associate")	Unable to Find Image (TEXT:"Sales Associate"). Text not found.	1	on_return	Return.script
+2025-09-08 04:55:37.711 -0400	Log		Back button is not present	4	on_return	Return.script
+2025-09-08 04:55:44.231 -0400	imagefound	(TEXT:"Scan or key your employee ID to sign on.")	found at (1037, 139)	7	on_return	Return.script
+2025-09-08 04:55:44.325 -0400	typetext		111111[returnKey]	8	on_return	Return.script
+2025-09-08 04:56:21.174 -0400	Exception	(TEXT:"Key your password")	Unable To Find Any Image On Screen "(TEXT:"Key your password")" within 10.00 seconds. Text not found.	10	on_return	Return.script
+2025-09-08 04:56:21.270 -0400	EndTestCase		(Duration:"57.849", Errors:"1", Exceptions:"1", StartTime:"2025-09-08 04:55:23 -0400", Successes:"0", TestCase:"Return.script", Warnings:"0")
+2025-09-08 04:56:21.482 -0400	FAILURE	Screen_Error.png	Image Not Found: WaitFor Error - Unable To Find Any Image On Screen "(TEXT:"Key your password")" within 10.00 seconds. Text not found. -- Execution Time 0:00:57 Return.script

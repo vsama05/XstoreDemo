@@ -1,0 +1,4 @@
+﻿2025-09-04 01:07:34.877 -0400	START		Running SignIn.script
+2025-09-04 01:10:36.440 -0400	Exception	VncViewerIcon	No Image Found On Screen: "VncViewerIcon"	1	on_signin	SignIn.script
+2025-09-04 01:10:36.554 -0400	EndTestCase		(Duration:"181.672", Errors:"1", Exceptions:"1", StartTime:"2025-09-04 01:07:34 -0400", Successes:"0", TestCase:"SignIn.script", Warnings:"0")
+2025-09-04 01:10:36.571 -0400	ABORTED		Execution Time 0:03:01 SignIn.script

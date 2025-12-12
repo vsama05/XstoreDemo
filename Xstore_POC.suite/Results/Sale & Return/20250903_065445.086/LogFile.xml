@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="SignIn_script" package="Xstore_POC.suite" timestamp="2025-09-03 06:54:45.086 -0400"
+ tests="1"  failures="0" errors="0" time="16.974000">
+  <properties>
+   <property name="RunDate" value="2025-09-03 06:54:45.086 -0400"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="SignIn.script" assertions="1" status="success"  time="16.958">
+  </testcase>
+ </testsuite>
+</testsuites>

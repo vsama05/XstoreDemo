@@ -1,0 +1,242 @@
+{
+	"entries": [
+		{
+				"message": "Running Return optimized.script",
+				"identifier": "START",
+				"timestamp": "2025-11-05 05:00:40.510 -0500"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:00:41.814 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "found at (1404, 96)",
+				"image": "(TEXT:\"Main Menu\")",
+				"handlerLine": 1,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:00:41.817 -0500",
+				"message": "Fetching Return item details",
+				"scriptName": "Return optimized.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:00:42.083 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "at (1731, 260)",
+				"image": "Reporting Img",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:00:46.699 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "found at (1404, 490)",
+				"image": "(TEXT:\"Sales Reports\")",
+				"handlerLine": 6,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:00:48.199 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "at (1404, 490)",
+				"image": "(TEXT:\"Sales Reports\")",
+				"handlerLine": 7,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:00:53.815 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "found at (1404, 287)",
+				"image": "(TEXT:\"Journal Report\")",
+				"handlerLine": 8,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:00:55.016 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "at (1404, 287)",
+				"image": "(TEXT:\"Journal Report\")",
+				"handlerLine": 9,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:00:59.186 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "found at (883, 736)",
+				"image": "(TEXT:\"Run Report\")",
+				"handlerLine": 10,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:01:00.922 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "at (883, 736)",
+				"image": "(TEXT:\"Run Report\")",
+				"handlerLine": 11,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:01:01.725 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "found at (1375, 286)",
+				"image": "(TEXT:\"Journal\")",
+				"handlerLine": 12,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:01:01.851 -0500",
+				"message": "[controlKey]Tab",
+				"scriptName": "Return optimized.script",
+				"handlerLine": 13,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:01:06.938 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "at (1073, 184)",
+				"image": "(TEXT:\"Journal\")",
+				"handlerLine": 15,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:01:06.958 -0500",
+				"message": "SEARCHRECTANGLE = [633,314,673,344]",
+				"scriptName": "Return optimized.script",
+				"handlerLine": 16,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:01:10.139 -0500",
+				"message": "(633,314,673,344)",
+				"scriptName": "Return optimized.script",
+				"handlerLine": 18,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:01:10.141 -0500",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "Return optimized.script",
+				"handlerLine": 19,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:01:10.141 -0500",
+				"message": "239",
+				"scriptName": "Return optimized.script",
+				"handlerLine": 20,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:01:10.395 -0500",
+				"scriptName": "Return optimized.script",
+				"image": "Journal Ticket ID.png",
+				"handlerLine": 21,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:01:10.457 -0500",
+				"message": "[controlKey]w",
+				"scriptName": "Return optimized.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:01:10.457 -0500",
+				"message": "Fetching Ticket ID",
+				"scriptName": "Return optimized.script",
+				"handlerLine": 24,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:01:10.666 -0500",
+				"scriptName": "Return optimized.script",
+				"image": "Electric journal ticket ID.png",
+				"handlerLine": 25,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:01:10.681 -0500",
+				"message": "Got the Ticket ID",
+				"scriptName": "Return optimized.script",
+				"handlerLine": 59,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:01:12.836 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "at (730, 734)",
+				"image": "(TEXT:\"Back\")",
+				"handlerLine": 60,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:01:21.937 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "Unable to Find Image (TEXT:\"Transaction Search\"). Text not found.",
+				"image": "(TEXT:\"Transaction Search\")",
+				"handlerLine": 61,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:01:21.953 -0500",
+				"message": "Back button is not present",
+				"scriptName": "Return optimized.script",
+				"handlerLine": 65,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:01:23.038 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "found at (131, 52)",
+				"image": "(TEXT:\"Reporting\")",
+				"handlerLine": 68,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 05:01:33.981 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "No Image Found On Screen: \"MainMenu Back Icon\"",
+				"image": "MainMenu Back Icon",
+				"handlerLine": 69,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"53.566\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-11-05 05:00:40 -0500\", Successes:\"0\", TestCase:\"Return optimized.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-11-05 05:01:34.086 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:53 Return optimized.script",
+				"identifier": "ABORTED",
+				"timestamp": "2025-11-05 05:01:34.132 -0500"
+			}
+	],
+	"createdTimestamp": "2025-11-05 05:00:40.519 -0500"
+}

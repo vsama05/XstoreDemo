@@ -1,0 +1,5 @@
+﻿2025-09-17 00:28:09.257 -0400	START		Running Sale & Return.script
+2025-09-17 00:28:10.544 -0400	doubleclick	VncViewerIcon	at (113, 19)	2	on_sale___return	Sale & Return.script
+2025-09-17 00:28:14.057 -0400	Exception		Searching For Image: OCR Error: Operation was aborted	3	on_sale___return	Sale & Return.script
+2025-09-17 00:28:14.096 -0400	EndTestCase		(Duration:"4.834", Errors:"1", Exceptions:"1", StartTime:"2025-09-17 00:28:09 -0400", Successes:"0", TestCase:"Sale & Return.script", Warnings:"0")
+2025-09-17 00:28:14.123 -0400	ABORTED		Execution Time 0:00:04 Sale & Return.script

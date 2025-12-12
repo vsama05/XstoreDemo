@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Sale_script" package="Xstore_POC.suite" timestamp="2025-09-08 02:52:08.201 -0400"
+ tests="1"  failures="1" errors="0" time="0.013000">
+  <properties>
+   <property name="RunDate" value="2025-09-08 02:52:08.201 -0400"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Sale.script" assertions="1" status="failure"  time="0.002">
+    <failure type="FAILURE" message="SenseTalk Compiler Exception: in sale:\nSyntax Error at line 25: can&apos;t understand &quot;/&quot; at character 1 -- Execution Time 0:00:00 Sale.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

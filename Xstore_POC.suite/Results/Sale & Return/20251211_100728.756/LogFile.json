@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running Sale & Return.script",
+				"identifier": "START",
+				"timestamp": "2025-12-11 10:07:28.764 -0500"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-12-11 10:07:30.910 -0500",
+				"message": "Remote Connection Unavailable",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 2,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"2.168\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-12-11 10:07:28 -0500\", Successes:\"0\", TestCase:\"Sale & Return.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-12-11 10:07:30.938 -0500"
+			},
+		{
+				"message": "No Remote Connection: typetext Error - Remote Connection Unavailable -- Execution Time 0:00:02 Sale & Return.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-12-11 10:07:31.019 -0500"
+			}
+	],
+	"createdTimestamp": "2025-12-11 10:07:28.768 -0500"
+}

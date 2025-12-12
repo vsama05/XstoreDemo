@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running SignIn.script",
+				"identifier": "START",
+				"timestamp": "2025-09-04 01:13:26.597 -0400"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 01:16:32.942 -0400",
+				"scriptName": "SignIn.script",
+				"message": "No Image Found On Screen: \"VncViewerIcon\"",
+				"image": "VncViewerIcon",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"186.42\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-09-04 01:13:26 -0400\", Successes:\"0\", TestCase:\"SignIn.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-09-04 01:16:33.021 -0400"
+			},
+		{
+				"message": "Execution Time 0:03:06 SignIn.script",
+				"identifier": "ABORTED",
+				"timestamp": "2025-09-04 01:16:33.033 -0400"
+			}
+	],
+	"createdTimestamp": "2025-09-04 01:13:26.599 -0400"
+}

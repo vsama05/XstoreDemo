@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Return_script" package="Xstore_POC.suite" timestamp="2025-09-12 00:14:21.882 -0400"
+ tests="1"  failures="1" errors="1" time="180.874000">
+  <properties>
+   <property name="RunDate" value="2025-09-12 00:14:21.882 -0400"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Return.script" assertions="2" status="error"  time="180.858">
+    <failure type="FAILURE" message="Image Not Found: click Error - No Image Found On Screen: &quot;Return Cash Img&quot; -- Execution Time 0:03:00 Return.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;Return Cash Img&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,64 @@
+{
+	"entries": [
+		{
+				"message": "Running Return.script",
+				"identifier": "START",
+				"timestamp": "2025-09-08 04:53:10.485 -0400"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:53:24.526 -0400",
+				"scriptName": "Return.script",
+				"message": "Unable to Find Image (TEXT:\"Sales Associate\"). Text not found.",
+				"image": "(TEXT:\"Sales Associate\")",
+				"handlerLine": 1,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:53:24.557 -0400",
+				"message": "Back button is not present",
+				"scriptName": "Return.script",
+				"handlerLine": 4,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:53:30.944 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (1037, 139)",
+				"image": "(TEXT:\"Scan or key your employee ID to sign on.\")",
+				"handlerLine": 7,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:53:31.041 -0400",
+				"message": "111111[returnKey]",
+				"scriptName": "Return.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:54:10.944 -0400",
+				"scriptName": "Return.script",
+				"message": "Unable To Find Any Image On Screen \"(TEXT:\"Key your password\")\" within 10.00 seconds. Text not found.",
+				"image": "(TEXT:\"Key your password\")",
+				"handlerLine": 10,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"60.535\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-09-08 04:53:10 -0400\", Successes:\"0\", TestCase:\"Return.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-09-08 04:54:11.024 -0400"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: WaitFor Error - Unable To Find Any Image On Screen \"(TEXT:\"Key your password\")\" within 10.00 seconds. Text not found. -- Execution Time 0:01:00 Return.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-09-08 04:54:11.339 -0400"
+			}
+	],
+	"createdTimestamp": "2025-09-08 04:53:10.487 -0400"
+}

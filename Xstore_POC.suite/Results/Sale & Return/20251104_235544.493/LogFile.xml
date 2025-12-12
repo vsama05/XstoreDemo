@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Sale &amp; Return_script" package="Xstore_POC.suite" timestamp="2025-11-04 23:55:44.493 -0500"
+ tests="1"  failures="0" errors="0" time="210.446000">
+  <properties>
+   <property name="RunDate" value="2025-11-04 23:55:44.493 -0500"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="Sale &amp; Return.script" assertions="4" status="error"  time="210.431">
+    <error type="Exception" message="Unable To Find Any Image On Screen &quot;(TEXT:&quot;Email Address&quot;)&quot; within 5.00 seconds. Text not found." />
+  </testcase>
+ </testsuite>
+</testsuites>

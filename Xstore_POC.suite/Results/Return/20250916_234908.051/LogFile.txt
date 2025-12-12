@@ -1,0 +1,6 @@
+﻿2025-09-16 23:49:08.061 -0400	START		Running Return.script
+2025-09-16 23:49:19.547 -0400	imagefound	(TEXT:"Sales Associate")	Unable to Find Image (TEXT:"Sales Associate"). Text not found.	2	on_return	Return.script
+2025-09-16 23:49:19.558 -0400	Log		Back button is not present	6	on_return	Return.script
+2025-09-16 23:49:21.993 -0400	Exception		Searching For Image: OCR Error: Operation was aborted	9	on_return	Return.script
+2025-09-16 23:49:22.031 -0400	EndTestCase		(Duration:"13.953", Errors:"1", Exceptions:"1", StartTime:"2025-09-16 23:49:08 -0400", Successes:"0", TestCase:"Return.script", Warnings:"0")
+2025-09-16 23:49:22.061 -0400	ABORTED		Execution Time 0:00:13 Return.script

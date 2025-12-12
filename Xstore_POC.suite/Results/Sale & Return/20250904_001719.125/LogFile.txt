@@ -1,0 +1,5 @@
+﻿2025-09-04 00:17:19.134 -0400	START		Running SignIn.script
+2025-09-04 00:17:19.449 -0400	doubleclick	VncViewerIcon	at (113, 19)	1	on_signin	SignIn.script
+2025-09-04 00:18:16.257 -0400	Exception	(TEXT:"Xstore")	Unable To Find Any Image On Screen "(TEXT:"Xstore")" within 30.00 seconds. Text not found.	2	on_signin	SignIn.script
+2025-09-04 00:18:16.446 -0400	EndTestCase		(Duration:"57.294", Errors:"1", Exceptions:"1", StartTime:"2025-09-04 00:17:19 -0400", Successes:"0", TestCase:"SignIn.script", Warnings:"0")
+2025-09-04 00:18:16.457 -0400	ABORTED		Execution Time 0:00:57 SignIn.script

@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running Sale.script",
+				"identifier": "START",
+				"timestamp": "2025-09-08 02:27:16.321 -0400"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-08 02:27:17.370 -0400",
+				"message": "Remote Connection Unavailable",
+				"scriptName": "Sale.script",
+				"handlerLine": 2,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"1.071\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-09-08 02:27:16 -0400\", Successes:\"0\", TestCase:\"Sale.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-09-08 02:27:17.396 -0400"
+			},
+		{
+				"message": "No Remote Connection: doubleclick Error - Remote Connection Unavailable -- Execution Time 0:00:01 Sale.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-09-08 02:27:17.465 -0400"
+			}
+	],
+	"createdTimestamp": "2025-09-08 02:27:16.324 -0400"
+}

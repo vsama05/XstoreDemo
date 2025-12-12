@@ -1,0 +1,845 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="SignIn">
+ <run>
+  <RunDate>2025-09-03 06:54:45.086 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>16.974000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250903_065445.086/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-04 00:16:18.390 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>14.341000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250904_001618.390/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-04 00:17:19.125 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>57.319000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250904_001719.125/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-04 00:19:15.731 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>41.628000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250904_001915.731/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-04 01:07:34.870 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>181.683000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250904_010734.870/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-04 01:11:00.178 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>70.297000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250904_011100.178/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;SecondSellNonMerchIcon&quot;)&quot; within 10.00 seconds. Text not found.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-04 01:13:26.589 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>186.430000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250904_011326.589/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-04 02:52:50.173 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>72.457000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250904_025250.173/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;SellNonMerchButtonIcon&quot;)&quot; within 10.00 seconds. Text not found.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-04 03:01:43.232 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>44.537000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250904_030143.232/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Scan or key your employee&quot;)&quot; within 10.00 seconds. Text not found.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-04 03:03:40.129 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>37.588000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250904_030340.129/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-04 03:05:28.903 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>82.659000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250904_030528.903/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-04 03:06:53.229 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>75.125000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250904_030653.229/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-04 03:08:27.803 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>60.873000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250904_030827.803/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-04 03:09:36.468 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>27.124000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250904_030936.468/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-04 03:17:45.195 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>74.637000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250904_031745.195/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;SellNonMerchButtonIcon&quot;)&quot; within 10.00 seconds. Text not found.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-04 03:20:40.135 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>73.744000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20250904_032040.135/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-04 04:51:00.599 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>71.218000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20250904_045100.599/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 02:18:42.248 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.177000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250908_021842.248/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- doubleclick Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 02:19:01.426 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.110000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250908_021901.426/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- doubleclick Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 02:20:20.082 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.085000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250908_022020.082/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- doubleclick Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 02:20:48.688 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>3.095000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250908_022048.688/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- doubleclick Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 02:22:40.037 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.102000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250908_022240.037/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- doubleclick Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 02:27:16.312 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.083000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250908_022716.312/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- doubleclick Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 02:30:47.758 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.099000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250908_023047.758/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- doubleclick Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 02:32:07.261 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.081000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250908_023207.261/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- doubleclick Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 02:52:08.201 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.013000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250908_025208.201/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in sale:
+Syntax Error at line 25: can&#x27;t understand &quot;/&quot; at character 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 02:52:45.773 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.075000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250908_025245.773/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- doubleclick Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 04:30:02.624 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>36.419000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250908_043002.624/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Xstore&quot;)&quot; within 10.00 seconds. Text not found.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 04:32:03.796 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>24.960000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250908_043203.796/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 04:33:24.463 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>53.245000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20250908_043324.463/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 07:44:23.663 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.091000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250908_074423.663/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- doubleclick Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 07:44:44.554 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.080000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250908_074444.554/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- doubleclick Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 07:45:12.392 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.069000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250908_074512.392/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- doubleclick Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 09:53:32.364 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>41.892000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250908_095332.364/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Scan or key your employee&quot;)&quot; within 10.00 seconds. Text not found.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 09:56:13.151 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>55.048000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20250908_095613.151/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-10 07:04:12.885 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>65.167000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20250910_070412.885/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-10 07:07:33.299 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>21.536000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250910_070733.299/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-10 07:07:59.010 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>57.678000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20250910_070759.010/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-10 07:56:12.228 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>35.089000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250910_075612.228/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-10 07:56:51.868 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>58.472000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20250910_075651.868/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-11 01:23:36.023 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>65.061000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20250911_012336.023/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-11 23:49:00.814 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>66.485000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20250911_234900.814/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-12 00:02:36.160 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>63.601000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20250912_000236.160/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-12 00:42:37.099 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>60.267000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20250912_004237.099/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-17 00:03:08.273 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>62.833000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20250917_000308.273/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-17 00:15:49.176 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.018000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250917_001549.176/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in sale___return:
+Syntax Error at line 69: can&#x27;t understand &quot;end&quot; at character 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-17 00:28:09.250 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>4.844000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250917_002809.250/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-17 00:31:47.779 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>207.713000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>3</Successes>
+  <LogFile>20250917_003147.779/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-17 01:27:16.936 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>215.044000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20250917_012716.936/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-11-03 03:02:38.949 -0500</RunDate>
+  <Status>Aborted</Status>
+  <Duration>13.258000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20251103_030238.949/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-11-03 03:26:03.827 -0500</RunDate>
+  <Status>Aborted</Status>
+  <Duration>162.076000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>3</Successes>
+  <LogFile>20251103_032603.827/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-11-03 03:32:36.755 -0500</RunDate>
+  <Status>Aborted</Status>
+  <Duration>151.935000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>3</Successes>
+  <LogFile>20251103_033236.755/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-11-04 01:41:41.087 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>191.871000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>3</Successes>
+  <LogFile>20251104_014141.087/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Refund7500 img&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-11-04 02:11:55.334 -0500</RunDate>
+  <Status>Aborted</Status>
+  <Duration>200.720000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>3</Successes>
+  <LogFile>20251104_021155.334/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-11-04 23:55:44.493 -0500</RunDate>
+  <Status>Aborted</Status>
+  <Duration>210.446000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>3</Successes>
+  <LogFile>20251104_235544.493/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-11-05 00:16:39.002 -0500</RunDate>
+  <Status>Aborted</Status>
+  <Duration>96.657000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>3</Successes>
+  <LogFile>20251105_001639.002/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-11-05 00:48:56.932 -0500</RunDate>
+  <Status>Aborted</Status>
+  <Duration>176.968000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>3</Successes>
+  <LogFile>20251105_004856.932/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-11-05 00:55:13.642 -0500</RunDate>
+  <Status>Aborted</Status>
+  <Duration>100.698000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>3</Successes>
+  <LogFile>20251105_005513.642/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-11-05 03:40:43.954 -0500</RunDate>
+  <Status>Aborted</Status>
+  <Duration>2.178000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20251105_034043.954/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-11-05 05:20:41.754 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>220.815000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>5</Successes>
+  <LogFile>20251105_052041.754/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-11-05 05:34:30.872 -0500</RunDate>
+  <Status>Aborted</Status>
+  <Duration>11.194000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20251105_053430.872/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-11-05 05:34:53.179 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>225.308000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>5</Successes>
+  <LogFile>20251105_053453.179/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-12-11 10:07:28.756 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>2.180000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20251211_100728.756/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- typetext Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-12-11 10:21:26.527 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>64.964000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20251211_102126.527/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;KFL Store 1646555&quot;)&quot; within 10.00 seconds. Text not found.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-12-11 10:23:12.526 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>53.227000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20251211_102312.526/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;KFL Store 1646555&quot;)&quot; within 10.00 seconds. Text not found.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-12-11 10:24:47.801 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>52.074000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20251211_102447.801/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;No orders require attention&quot;)&quot; within 10.00 seconds. Text not found.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-12-11 10:29:25.587 -0500</RunDate>
+  <Status>Aborted</Status>
+  <Duration>15.067000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20251211_102925.587/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-12-11 11:14:30.261 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>45.082000</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20251211_111430.261/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;exitwitherror&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-12-11 11:16:30.729 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>43.841000</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20251211_111630.729/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;exitwitherror&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-12-11 11:18:59.801 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>226.775000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20251211_111859.801/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

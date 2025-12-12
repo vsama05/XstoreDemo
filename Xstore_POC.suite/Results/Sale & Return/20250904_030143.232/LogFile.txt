@@ -1,0 +1,7 @@
+﻿2025-09-04 03:01:43.241 -0400	START		Running SignIn.script
+2025-09-04 03:01:43.510 -0400	doubleclick	VncViewerIcon	at (113, 19)	1	on_signin	SignIn.script
+2025-09-04 03:01:47.773 -0400	waitfor	(TEXT:"Xstore")	found at (747, 413)	2	on_signin	SignIn.script
+2025-09-04 03:01:49.179 -0400	doubleclick	(TEXT:"Xstore")	at (747, 413)	3	on_signin	SignIn.script
+2025-09-04 03:02:27.676 -0400	Exception	(TEXT:"Scan or key your employee")	Unable To Find Any Image On Screen "(TEXT:"Scan or key your employee")" within 10.00 seconds. Text not found.	4	on_signin	SignIn.script
+2025-09-04 03:02:27.770 -0400	EndTestCase		(Duration:"44.526", Errors:"1", Exceptions:"1", StartTime:"2025-09-04 03:01:43 -0400", Successes:"0", TestCase:"SignIn.script", Warnings:"0")
+2025-09-04 03:02:27.965 -0400	FAILURE	Screen_Error.png	Image Not Found: WaitFor Error - Unable To Find Any Image On Screen "(TEXT:"Scan or key your employee")" within 10.00 seconds. Text not found. -- Execution Time 0:00:44 SignIn.script

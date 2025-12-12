@@ -1,0 +1,116 @@
+﻿2025-11-04 23:55:44.502 -0500	START		Running Sale & Return.script
+2025-11-04 23:55:46.868 -0500	doubleclick	VncViewerIcon	at (113, 19)	2	on_sale___return	Sale & Return.script
+2025-11-04 23:55:50.170 -0500	waitfor	(TEXT:"KFL US 1646555")	found at (747, 413)	3	on_sale___return	Sale & Return.script
+2025-11-04 23:55:51.715 -0500	doubleclick	(TEXT:"KFL US 1646555")	at (747, 413)	4	on_sale___return	Sale & Return.script
+2025-11-04 23:55:55.812 -0500	waitfor	(TEXT:"Scan or key your employee")	found at (992, 139)	5	on_sale___return	Sale & Return.script
+2025-11-04 23:55:56.046 -0500	typetext		111111[returnKey]	6	on_sale___return	Sale & Return.script
+2025-11-04 23:55:58.011 -0500	waitfor	(TEXT:"Key your password")	found at (884, 374)	8	on_sale___return	Sale & Return.script
+2025-11-04 23:55:58.306 -0500	typetext		x1234567[returnKey]	9	on_sale___return	Sale & Return.script
+2025-11-04 23:56:02.788 -0500	imagefound	(TEXT:"Main Menu")	found at (1404, 96)	11	on_sale___return	Sale & Return.script
+2025-11-04 23:56:02.796 -0500	LogSuccess		Sign-in is successful	12	on_sale___return	Sale & Return.script
+2025-11-04 23:56:03.225 -0500	capturescreen	C:/Users/c011318/Documents/Xstore_POC.suite/Results/Sale & Return/20251104_235544.493/Sign-In.png	UserCapturedScreenshot	9CA7927B-91A8-5C0C-545D-0018ECEC0F67	18	on_sale___return	Sale & Return.script
+2025-11-04 23:56:03.478 -0500	click	StartSaleIcon	at (1079, 275)	19	on_sale___return	Sale & Return.script
+2025-11-04 23:56:08.376 -0500	waitfor	(TEXT:"Sales Associate")	found at (959, 163)	20	on_sale___return	Sale & Return.script
+2025-11-04 23:56:08.642 -0500	click	OneManagerIcon	at (790, 264)	21	on_sale___return	Sale & Return.script
+2025-11-04 23:56:14.668 -0500	waitfor	(TEXT:"Customer Search")	found at (959, 222)	22	on_sale___return	Sale & Return.script
+2025-11-04 23:56:14.960 -0500	click	SkipButtonIcon	at (966, 578)	23	on_sale___return	Sale & Return.script
+2025-11-04 23:56:19.375 -0500	waitfor	(TEXT:"Sale")	found at (1687, 92)	24	on_sale___return	Sale & Return.script
+2025-11-04 23:56:19.375 -0500	Log		Search with product	25	on_sale___return	Sale & Return.script
+2025-11-04 23:56:19.766 -0500	typetext		166103317504080[returnKey]	26	on_sale___return	Sale & Return.script
+2025-11-04 23:56:21.056 -0500	click	PaymentNextIcon	at (777, 976)	29	on_sale___return	Sale & Return.script
+2025-11-04 23:56:22.974 -0500	waitfor	(TEXT:"Sale Tender Options")	found at (1404, 98)	31	on_sale___return	Sale & Return.script
+2025-11-04 23:56:24.220 -0500	click	CashIcon	at (1077, 287)	33	on_sale___return	Sale & Return.script
+2025-11-04 23:56:25.081 -0500	waitfor	(TEXT:"Tender")	found at (1387, 95)	34	on_sale___return	Sale & Return.script
+2025-11-04 23:56:26.186 -0500	typetext		75[returnKey]	36	on_sale___return	Sale & Return.script
+2025-11-04 23:56:29.435 -0500	waitfor	(TEXT:"Email Address")	found at (928, 314)	38	on_sale___return	Sale & Return.script
+2025-11-04 23:56:29.853 -0500	capturescreen	C:/Users/c011318/Documents/Xstore_POC.suite/Results/Sale & Return/20251104_235544.493/Select Receipt Option.png	UserCapturedScreenshot	B5DEADC4-0378-FE0E-540E-47197D05C49A	39	on_sale___return	Sale & Return.script
+2025-11-04 23:56:30.124 -0500	click	PrintOnlyButtonIcon	at (886, 428)	40	on_sale___return	Sale & Return.script
+2025-11-04 23:56:41.669 -0500	imagefound	(TEXT:"Sales Associate")	found at (959, 163)	43	on_sale___return	Sale & Return.script
+2025-11-04 23:56:41.669 -0500	LogSuccess		Sale is successful	44	on_sale___return	Sale & Return.script
+2025-11-04 23:56:43.640 -0500	waitfor	(TEXT:"Sales Associate")	found at (959, 163)	48	on_sale___return	Sale & Return.script
+2025-11-04 23:56:44.051 -0500	capturescreen	C:/Users/c011318/Documents/Xstore_POC.suite/Results/Sale & Return/20251104_235544.493/Sale Associate Page.png	UserCapturedScreenshot	3674095F-7A2C-1505-4F55-A99CFF05DE68	49	on_sale___return	Sale & Return.script
+2025-11-04 23:56:44.051 -0500	Log		Sale Script Execution is Completed	50	on_sale___return	Sale & Return.script
+2025-11-04 23:56:44.066 -0500	Log		Return Script Execution Started	52	on_sale___return	Sale & Return.script
+2025-11-04 23:56:45.933 -0500	imagefound	(TEXT:"Sales Associate")	found at (959, 163)	53	on_sale___return	Sale & Return.script
+2025-11-04 23:56:46.273 -0500	click	SalesAssociate BackBtn Img	at (774, 757)	54	on_sale___return	Sale & Return.script
+2025-11-04 23:56:46.273 -0500	LogSuccess		Click Back Button	55	on_sale___return	Sale & Return.script
+2025-11-04 23:56:52.525 -0500	waitfor	(TEXT:"Main Menu")	found at (1404, 96)	70	on_sale___return	Sale & Return.script
+2025-11-04 23:56:52.525 -0500	Log		Fetching Return item details	71	on_sale___return	Sale & Return.script
+2025-11-04 23:56:52.806 -0500	click	Reporting Img	at (1731, 260)	72	on_sale___return	Sale & Return.script
+2025-11-04 23:56:57.300 -0500	waitfor	(TEXT:"Electronic Journal")	found at (1513, 285)	73	on_sale___return	Sale & Return.script
+2025-11-04 23:56:57.561 -0500	click	ElectronicJournal Img	at (1497, 285)	74	on_sale___return	Sale & Return.script
+2025-11-04 23:57:01.947 -0500	waitfor	(TEXT:"Transaction Search")	found at (959, 182)	75	on_sale___return	Sale & Return.script
+2025-11-04 23:57:02.244 -0500	click	TransactionProcess Img	at (1133, 699)	76	on_sale___return	Sale & Return.script
+2025-11-04 23:57:03.521 -0500	waitfor	(TEXT:"Electronic Journal")	found at (1512, 285)	77	on_sale___return	Sale & Return.script
+2025-11-04 23:57:03.526 -0500	Log		Fetching Ticket ID	78	on_sale___return	Sale & Return.script
+2025-11-04 23:57:03.812 -0500	capturescreen	C:/Users/c011318/Documents/Xstore_POC.suite/Results/Sale & Return/20251104_235544.493/Electric journal ticket ID.png	UserCapturedScreenshot	D95EB6DA-F6B1-3F0F-4CEC-C41071E62684	79	on_sale___return	Sale & Return.script
+2025-11-04 23:57:06.124 -0500	imagerectangle	(TEXT:"Status Complete")	at [1133,221,1215,233]	80	on_sale___return	Sale & Return.script
+2025-11-04 23:57:06.263 -0500	readtext		(1133,191,1193,221)	82	on_sale___return	Sale & Return.script
+2025-11-04 23:57:06.268 -0500	Log		234	85	on_sale___return	Sale & Return.script
+2025-11-04 23:57:06.268 -0500	Log		Got the Ticket ID	86	on_sale___return	Sale & Return.script
+2025-11-04 23:57:06.478 -0500	click	ElectronicJournal Back Img	at (103, 58)	87	on_sale___return	Sale & Return.script
+2025-11-04 23:57:14.443 -0500	waitfor	(TEXT:"Transaction Search")	found at (959, 182)	88	on_sale___return	Sale & Return.script
+2025-11-04 23:57:14.792 -0500	click	ElectronicJournal BackButton Img	at (805, 701)	89	on_sale___return	Sale & Return.script
+2025-11-04 23:57:23.042 -0500	waitfor	(TEXT:"Reporting")	found at (1404, 98)	90	on_sale___return	Sale & Return.script
+2025-11-04 23:57:23.309 -0500	click	MainMenu Back Icon	at (135, 52)	91	on_sale___return	Sale & Return.script
+2025-11-04 23:57:27.798 -0500	waitfor	(TEXT:"Start Sale")	found at (1079, 285)	92	on_sale___return	Sale & Return.script
+2025-11-04 23:57:27.798 -0500	Log		Starting the Return Process	93	on_sale___return	Sale & Return.script
+2025-11-04 23:57:28.064 -0500	click	StartSaleIcon	at (1079, 275)	94	on_sale___return	Sale & Return.script
+2025-11-04 23:57:32.740 -0500	waitfor	(TEXT:"Sales Associate")	found at (959, 163)	95	on_sale___return	Sale & Return.script
+2025-11-04 23:57:33.006 -0500	click	OneManagerIcon	at (790, 264)	96	on_sale___return	Sale & Return.script
+2025-11-04 23:57:38.687 -0500	waitfor	(TEXT:"Customer Search")	found at (959, 222)	97	on_sale___return	Sale & Return.script
+2025-11-04 23:57:38.984 -0500	click	SkipButtonIcon	at (966, 578)	98	on_sale___return	Sale & Return.script
+2025-11-04 23:57:43.333 -0500	waitfor	(TEXT:"Return Item")	found at (921, 206)	99	on_sale___return	Sale & Return.script
+2025-11-04 23:57:43.333 -0500	Log		Getting Registers Day	100	on_sale___return	Sale & Return.script
+2025-11-04 23:57:43.438 -0500	set		SEARCHRECTANGLE = [[0,540],[1920,1080]]	101	on_sale___return	Sale & Return.script
+2025-11-04 23:57:43.608 -0500	readtext		(1364,1008,1433,1025)	102	on_sale___return	Sale & Return.script
+2025-11-04 23:57:43.608 -0500	Log		Extracted date: 11/04/202	105	on_sale___return	Sale & Return.script
+2025-11-04 23:57:43.608 -0500	Log		Day: 4	108	on_sale___return	Sale & Return.script
+2025-11-04 23:57:43.623 -0500	set		SEARCHRECTANGLE = 	109	on_sale___return	Sale & Return.script
+2025-11-04 23:57:43.854 -0500	click	ReturnItem Img	at (915, 212)	110	on_sale___return	Sale & Return.script
+2025-11-04 23:57:48.624 -0500	waitfor	(TEXT:"Customer Search")	found at (959, 222)	111	on_sale___return	Sale & Return.script
+2025-11-04 23:57:48.921 -0500	click	Return Skip Img	at (963, 570)	112	on_sale___return	Sale & Return.script
+2025-11-04 23:57:53.831 -0500	waitfor	(TEXT:"Return")	found at (905, 206)	113	on_sale___return	Sale & Return.script
+2025-11-04 23:57:54.190 -0500	click	Return Yes Img	at (1162, 453)	114	on_sale___return	Sale & Return.script
+2025-11-04 23:57:59.263 -0500	waitfor	(TEXT:"Return Information")	found at (960, 203)	115	on_sale___return	Sale & Return.script
+2025-11-04 23:57:59.583 -0500	click	Orig Ticket ID	at (719, 430)	116	on_sale___return	Sale & Return.script
+2025-11-04 23:58:00.418 -0500	typetext		234[returnKey]	117	on_sale___return	Sale & Return.script
+2025-11-04 23:58:00.418 -0500	Log		234	118	on_sale___return	Sale & Return.script
+2025-11-04 23:58:02.702 -0500	click	OrigTransDate Field Img	at (707, 477)	120	on_sale___return	Sale & Return.script
+2025-11-04 23:58:02.702 -0500	Log		Clicked Orig Transaction date field	121	on_sale___return	Sale & Return.script
+2025-11-04 23:58:04.092 -0500	waitfor	(TEXT:"Orig Trans Date")	found at (703, 471)	122	on_sale___return	Sale & Return.script
+2025-11-04 23:58:08.233 -0500	click	(TEXT:<not preceded by  characters,day,not followed by characters>)	at (849, 554)	124	on_sale___return	Sale & Return.script
+2025-11-04 23:58:08.233 -0500	Log		4	125	on_sale___return	Sale & Return.script
+2025-11-04 23:58:10.519 -0500	capturescreen	C:/Users/c011318/Documents/Xstore_POC.suite/Results/Sale & Return/20251104_235544.493/Screen_Capture.png	UserCapturedScreenshot	4C8C1EFF-19C1-5A0A-7452-AB3514EF355A	130	on_sale___return	Sale & Return.script
+2025-11-04 23:58:10.799 -0500	click	OrigTransDate OK Btn Img	at (956, 721)	131	on_sale___return	Sale & Return.script
+2025-11-04 23:58:12.561 -0500	waitfor	(TEXT:"Return Information")	found at (960, 203)	132	on_sale___return	Sale & Return.script
+2025-11-04 23:58:14.825 -0500	click	OrigStoreID Img	at (695, 519)	134	on_sale___return	Sale & Return.script
+2025-11-04 23:58:14.825 -0500	Log		Clicked Orig Store ID field	135	on_sale___return	Sale & Return.script
+2025-11-04 23:58:15.662 -0500	typetext		1646555[returnKey]	136	on_sale___return	Sale & Return.script
+2025-11-04 23:58:18.957 -0500	waitfor	(TEXT:"Return Information")	found at (960, 203)	138	on_sale___return	Sale & Return.script
+2025-11-04 23:58:19.270 -0500	click	OrigRegisterID Field	at (707, 562)	139	on_sale___return	Sale & Return.script
+2025-11-04 23:58:19.270 -0500	Log		Clicked Order register Id field	140	on_sale___return	Sale & Return.script
+2025-11-04 23:58:20.191 -0500	waitfor	(TEXT:"Orig Register ID")	found at (703, 556)	141	on_sale___return	Sale & Return.script
+2025-11-04 23:58:20.269 -0500	typetext		1[returnKey]	142	on_sale___return	Sale & Return.script
+2025-11-04 23:58:20.269 -0500	Log		Return Items are entered	143	on_sale___return	Sale & Return.script
+2025-11-04 23:58:20.684 -0500	capturescreen	C:/Users/c011318/Documents/Xstore_POC.suite/Results/Sale & Return/20251104_235544.493/Return Item Details Entered.png	UserCapturedScreenshot	432B325A-8A63-EA0A-5078-C9C5F5A03F12	144	on_sale___return	Sale & Return.script
+2025-11-04 23:58:22.505 -0500	waitfor	(TEXT:"Process")	found at (1163, 631)	145	on_sale___return	Sale & Return.script
+2025-11-04 23:58:22.879 -0500	click	Return Process img	at (1156, 634)	146	on_sale___return	Sale & Return.script
+2025-11-04 23:58:24.040 -0500	waitfor	(TEXT:"Original Transaction")	found at (879, 228)	147	on_sale___return	Sale & Return.script
+2025-11-04 23:58:24.307 -0500	click	PdtReturn Img	at (731, 284)	148	on_sale___return	Sale & Return.script
+2025-11-04 23:58:25.386 -0500	waitfor	(TEXT:"Original Transaction")	found at (959, 165)	149	on_sale___return	Sale & Return.script
+2025-11-04 23:58:25.678 -0500	click	ReturnSelectedItems Button Img	at (1188, 751)	150	on_sale___return	Sale & Return.script
+2025-11-04 23:58:33.297 -0500	waitfor	(TEXT:"Reason Code")	found at (942, 187)	151	on_sale___return	Sale & Return.script
+2025-11-04 23:58:33.684 -0500	click	539UNSALEABLE Reason	at (727, 312)	152	on_sale___return	Sale & Return.script
+2025-11-04 23:58:39.012 -0500	waitfor	(TEXT:"Refund")	found at (649, 972)	153	on_sale___return	Sale & Return.script
+2025-11-04 23:58:41.148 -0500	readtext		(853,957,930,987)	155	on_sale___return	Sale & Return.script
+2025-11-04 23:58:41.152 -0500	Log			156	on_sale___return	Sale & Return.script
+2025-11-04 23:58:43.299 -0500	click	(TEXT:"Refund")	at (649, 972)	157	on_sale___return	Sale & Return.script
+2025-11-04 23:58:48.998 -0500	waitfor	(TEXT:"Return Tender Options")	found at (1404, 98)	158	on_sale___return	Sale & Return.script
+2025-11-04 23:58:49.215 -0500	click	Return Cash Img	at (1119, 275)	159	on_sale___return	Sale & Return.script
+2025-11-04 23:58:50.554 -0500	waitfor	(TEXT:"Tender")	found at (1399, 95)	160	on_sale___return	Sale & Return.script
+2025-11-04 23:58:52.572 -0500	typetext		[returnKey]	162	on_sale___return	Sale & Return.script
+2025-11-04 23:58:58.531 -0500	imagefound	(TEXT:"unverified return")	Unable to Find Image (TEXT:"unverified return") within 0.00 seconds. Text not found.	164	on_sale___return	Sale & Return.script
+2025-11-04 23:59:14.813 -0500	Exception	(TEXT:"Email Address")	Unable To Find Any Image On Screen "(TEXT:"Email Address")" within 5.00 seconds. Text not found.	167	on_sale___return	Sale & Return.script
+2025-11-04 23:59:14.940 -0500	EndTestCase		(Duration:"210.431", Errors:"1", Exceptions:"1", StartTime:"2025-11-04 23:55:44 -0500", Successes:"3", TestCase:"Sale & Return.script", Warnings:"0")
+2025-11-04 23:59:14.968 -0500	ABORTED		Execution Time 0:03:30 Sale & Return.script

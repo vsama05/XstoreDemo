@@ -1,0 +1,272 @@
+{
+	"entries": [
+		{
+				"message": "Running Sale.script",
+				"identifier": "START",
+				"timestamp": "2025-09-11 23:49:00.823 -0400"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:02.140 -0400",
+				"scriptName": "Sale.script",
+				"message": "at (113, 19)",
+				"image": "VncViewerIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:09.117 -0400",
+				"scriptName": "Sale.script",
+				"message": "found at (747, 413)",
+				"image": "(TEXT:\"KFL US 1646555\")",
+				"handlerLine": 3,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:10.188 -0400",
+				"scriptName": "Sale.script",
+				"message": "at (747, 413)",
+				"image": "(TEXT:\"KFL US 1646555\")",
+				"handlerLine": 4,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:14.133 -0400",
+				"scriptName": "Sale.script",
+				"message": "found at (992, 139)",
+				"image": "(TEXT:\"Scan or key your employee\")",
+				"handlerLine": 5,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:14.230 -0400",
+				"message": "111111[returnKey]",
+				"scriptName": "Sale.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:16.782 -0400",
+				"scriptName": "Sale.script",
+				"message": "found at (884, 374)",
+				"image": "(TEXT:\"Key your password\")",
+				"handlerLine": 8,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:16.919 -0400",
+				"message": "x1234567[returnKey]",
+				"scriptName": "Sale.script",
+				"handlerLine": 9,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:22.830 -0400",
+				"scriptName": "Sale.script",
+				"message": "found at (1404, 96)",
+				"image": "(TEXT:\"Main Menu\")",
+				"handlerLine": 11,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:22.860 -0400",
+				"message": "Sign-in is successful",
+				"scriptName": "Sale.script",
+				"handlerLine": 12,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:23.450 -0400",
+				"scriptName": "Sale.script",
+				"message": "(885,83,1909,1035)",
+				"image": "Sign-In.png",
+				"handlerLine": 18,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:23.698 -0400",
+				"scriptName": "Sale.script",
+				"message": "at (1079, 275)",
+				"image": "StartSaleIcon",
+				"handlerLine": 19,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:29.561 -0400",
+				"scriptName": "Sale.script",
+				"message": "found at (959, 163)",
+				"image": "(TEXT:\"Sales Associate\")",
+				"handlerLine": 20,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:29.782 -0400",
+				"scriptName": "Sale.script",
+				"message": "at (790, 264)",
+				"image": "OneManagerIcon",
+				"handlerLine": 21,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:36.994 -0400",
+				"scriptName": "Sale.script",
+				"message": "found at (959, 222)",
+				"image": "(TEXT:\"Customer Search\")",
+				"handlerLine": 22,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:37.233 -0400",
+				"scriptName": "Sale.script",
+				"message": "at (966, 578)",
+				"image": "SkipButtonIcon",
+				"handlerLine": 23,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:42.479 -0400",
+				"scriptName": "Sale.script",
+				"message": "found at (1687, 92)",
+				"image": "(TEXT:\"Sale\")",
+				"handlerLine": 24,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:42.491 -0400",
+				"message": "Search with product",
+				"scriptName": "Sale.script",
+				"handlerLine": 25,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:42.703 -0400",
+				"message": "166103317504080[returnKey]",
+				"scriptName": "Sale.script",
+				"handlerLine": 26,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:43.896 -0400",
+				"scriptName": "Sale.script",
+				"message": "at (777, 976)",
+				"image": "PaymentNextIcon",
+				"handlerLine": 29,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:49.076 -0400",
+				"scriptName": "Sale.script",
+				"message": "found at (1404, 98)",
+				"image": "(TEXT:\"Sale Tender Options\")",
+				"handlerLine": 31,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:50.341 -0400",
+				"scriptName": "Sale.script",
+				"message": "at (1077, 287)",
+				"image": "CashIcon",
+				"handlerLine": 33,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:51.337 -0400",
+				"scriptName": "Sale.script",
+				"message": "found at (1387, 95)",
+				"image": "(TEXT:\"Tender\")",
+				"handlerLine": 34,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:51.385 -0400",
+				"message": "75[returnKey]",
+				"scriptName": "Sale.script",
+				"handlerLine": 35,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:55.026 -0400",
+				"scriptName": "Sale.script",
+				"message": "found at (928, 314)",
+				"image": "(TEXT:\"Email Address\")",
+				"handlerLine": 37,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:55.442 -0400",
+				"scriptName": "Sale.script",
+				"image": "Select Receipt Option.png",
+				"handlerLine": 38,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:49:55.680 -0400",
+				"scriptName": "Sale.script",
+				"message": "at (886, 428)",
+				"image": "PrintOnlyButtonIcon",
+				"handlerLine": 39,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:50:06.812 -0400",
+				"scriptName": "Sale.script",
+				"message": "found at (959, 163)",
+				"image": "(TEXT:\"Sales Associate\")",
+				"handlerLine": 42,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:50:06.818 -0400",
+				"message": "Sale is successful",
+				"scriptName": "Sale.script",
+				"handlerLine": 43,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-11 23:50:07.253 -0400",
+				"scriptName": "Sale.script",
+				"image": "Sale Associate Page.png",
+				"handlerLine": 48,
+				"identifier": "capturescreen"
+			},
+		{
+				"message": "(Duration:\"66.471\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-09-11 23:49:00 -0400\", Successes:\"2\", TestCase:\"Sale.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-09-11 23:50:07.300 -0400"
+			},
+		{
+				"message": "Execution Time 0:01:06 Sale.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-09-11 23:50:07.456 -0400"
+			}
+	],
+	"createdTimestamp": "2025-09-11 23:49:00.828 -0400"
+}

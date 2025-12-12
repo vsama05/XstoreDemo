@@ -1,0 +1,1218 @@
+{
+	"entries": [
+		{
+				"message": "Running Sale & Return.script",
+				"identifier": "START",
+				"timestamp": "2025-11-05 05:34:53.188 -0500"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:34:55.482 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (113, 19)",
+				"image": "VncViewerIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:34:58.702 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (747, 413)",
+				"image": "(TEXT:\"KFL US 1646555\")",
+				"handlerLine": 3,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:00.157 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (747, 413)",
+				"image": "(TEXT:\"KFL US 1646555\")",
+				"handlerLine": 4,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:04.130 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (992, 139)",
+				"image": "(TEXT:\"Scan or key your employee\")",
+				"handlerLine": 5,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:04.233 -0500",
+				"message": "111111[returnKey]",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:06.105 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (884, 374)",
+				"image": "(TEXT:\"Key your password\")",
+				"handlerLine": 8,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:06.232 -0500",
+				"message": "x1234567[returnKey]",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 9,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:10.415 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (1404, 96)",
+				"image": "(TEXT:\"Main Menu\")",
+				"handlerLine": 11,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:10.427 -0500",
+				"message": "Sign-in is successful",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 12,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:10.837 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "(885,83,1909,1035)",
+				"image": "Sign-In.png",
+				"handlerLine": 18,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:11.047 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (1079, 275)",
+				"image": "StartSaleIcon",
+				"handlerLine": 19,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:15.489 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (959, 163)",
+				"image": "(TEXT:\"Sales Associate\")",
+				"handlerLine": 20,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:15.718 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (790, 264)",
+				"image": "OneManagerIcon",
+				"handlerLine": 21,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:21.476 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (959, 222)",
+				"image": "(TEXT:\"Customer Search\")",
+				"handlerLine": 22,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:21.721 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (966, 578)",
+				"image": "SkipButtonIcon",
+				"handlerLine": 23,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:25.982 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (1687, 92)",
+				"image": "(TEXT:\"Sale\")",
+				"handlerLine": 24,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:25.990 -0500",
+				"message": "Search with product",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 25,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:26.205 -0500",
+				"message": "166103317504080[returnKey]",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 26,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:27.397 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (777, 976)",
+				"image": "PaymentNextIcon",
+				"handlerLine": 29,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:29.158 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (1404, 98)",
+				"image": "(TEXT:\"Sale Tender Options\")",
+				"handlerLine": 31,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:30.338 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (1077, 287)",
+				"image": "CashIcon",
+				"handlerLine": 33,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:31.198 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (1387, 95)",
+				"image": "(TEXT:\"Tender\")",
+				"handlerLine": 34,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:32.266 -0500",
+				"message": "75[returnKey]",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 36,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:35.363 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (928, 314)",
+				"image": "(TEXT:\"Email Address\")",
+				"handlerLine": 38,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:35.773 -0500",
+				"scriptName": "Sale & Return.script",
+				"image": "Select Receipt Option.png",
+				"handlerLine": 39,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:36.009 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (886, 428)",
+				"image": "PrintOnlyButtonIcon",
+				"handlerLine": 40,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:47.486 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (959, 163)",
+				"image": "(TEXT:\"Sales Associate\")",
+				"handlerLine": 43,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:47.491 -0500",
+				"message": "Sale is successful",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 44,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:49.083 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (959, 163)",
+				"image": "(TEXT:\"Sales Associate\")",
+				"handlerLine": 48,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:49.476 -0500",
+				"scriptName": "Sale & Return.script",
+				"image": "Sale Associate Page.png",
+				"handlerLine": 49,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:49.476 -0500",
+				"message": "Sale Script Execution is Completed",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 50,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:49.492 -0500",
+				"message": "Return Script Execution Started",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 52,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:51.130 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (959, 163)",
+				"image": "(TEXT:\"Sales Associate\")",
+				"handlerLine": 53,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:51.446 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (774, 757)",
+				"image": "SalesAssociate BackBtn Img",
+				"handlerLine": 54,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:51.446 -0500",
+				"message": "Click Back Button",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 55,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:57.620 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (1404, 96)",
+				"image": "(TEXT:\"Main Menu\")",
+				"handlerLine": 70,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:57.621 -0500",
+				"message": "Fetching Return item details",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 71,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:35:57.867 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (1731, 260)",
+				"image": "Reporting Img",
+				"handlerLine": 72,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:01.982 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (1404, 490)",
+				"image": "(TEXT:\"Sales Reports\")",
+				"handlerLine": 75,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:03.236 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (1404, 490)",
+				"image": "(TEXT:\"Sales Reports\")",
+				"handlerLine": 76,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:07.191 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (1404, 287)",
+				"image": "(TEXT:\"Journal Report\")",
+				"handlerLine": 77,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:08.407 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (1404, 287)",
+				"image": "(TEXT:\"Journal Report\")",
+				"handlerLine": 78,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:12.254 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (883, 736)",
+				"image": "(TEXT:\"Run Report\")",
+				"handlerLine": 79,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:13.689 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (883, 736)",
+				"image": "(TEXT:\"Run Report\")",
+				"handlerLine": 80,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:14.796 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (959, 169)",
+				"image": "(TEXT:\"Journal\")",
+				"handlerLine": 81,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:14.939 -0500",
+				"message": "[controlKey]Tab",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 82,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:17.967 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (959, 184)",
+				"image": "(TEXT:\"Journal\")",
+				"handlerLine": 84,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:17.973 -0500",
+				"message": "SEARCHRECTANGLE = [519,314,559,344]",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 85,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:21.145 -0500",
+				"message": "(519,314,559,344)",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 87,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:21.149 -0500",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 88,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:21.149 -0500",
+				"message": "243",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 89,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:21.149 -0500",
+				"message": "fetching date",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 91,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:23.219 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (959, 184)",
+				"image": "(TEXT:\"Journal\")",
+				"handlerLine": 92,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:23.221 -0500",
+				"message": "SEARCHRECTANGLE = [419,364,479,384]",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 93,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:26.263 -0500",
+				"message": "(419,364,479,384)",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 95,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:26.265 -0500",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 96,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:26.265 -0500",
+				"message": "11/4/25",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 97,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:26.265 -0500",
+				"message": "Extracted date: 11/4/25",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 98,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:26.281 -0500",
+				"message": "Day: 4",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 101,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:26.524 -0500",
+				"scriptName": "Sale & Return.script",
+				"image": "Journal Ticket ID.png",
+				"handlerLine": 103,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:26.602 -0500",
+				"message": "[controlKey]w",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 104,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:26.602 -0500",
+				"message": "Fetching Ticket ID",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 106,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:26.825 -0500",
+				"scriptName": "Sale & Return.script",
+				"image": "Electric journal ticket ID.png",
+				"handlerLine": 107,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:26.841 -0500",
+				"message": "Got the Ticket ID",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 141,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:28.899 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (959, 184)",
+				"image": "(TEXT:\"Journal\")",
+				"handlerLine": 142,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:30.079 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (959, 169)",
+				"image": "(TEXT:\"Journal\")",
+				"handlerLine": 143,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:32.220 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (731, 734)",
+				"image": "(TEXT:\"Back\")",
+				"handlerLine": 144,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:41.889 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "Unable to Find Image (TEXT:\"Transaction Search\"). Text not found.",
+				"image": "(TEXT:\"Transaction Search\")",
+				"handlerLine": 145,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:41.916 -0500",
+				"message": "Back button is not present",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 149,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:43.045 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (131, 52)",
+				"image": "(TEXT:\"Reporting\")",
+				"handlerLine": 152,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:44.237 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (131, 52)",
+				"image": "(TEXT:\"Reporting\")",
+				"handlerLine": 153,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:45.658 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (131, 52)",
+				"image": "(TEXT:\"Reporting\")",
+				"handlerLine": 154,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:45.658 -0500",
+				"message": "Clicked Reporting Back Button",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 155,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:49.895 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (136, 50)",
+				"image": "(TEXT:\"Main Menu\")",
+				"handlerLine": 156,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:50.979 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (136, 50)",
+				"image": "(TEXT:\"Main Menu\")",
+				"handlerLine": 157,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:50.979 -0500",
+				"message": "Clicked Main menu back button",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 158,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:55.897 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (1079, 285)",
+				"image": "(TEXT:\"Start Sale\")",
+				"handlerLine": 164,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:55.913 -0500",
+				"message": "Starting the Return Process",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 165,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:36:56.250 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (1079, 275)",
+				"image": "StartSaleIcon",
+				"handlerLine": 166,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:01.673 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (959, 163)",
+				"image": "(TEXT:\"Sales Associate\")",
+				"handlerLine": 167,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:01.940 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (790, 264)",
+				"image": "OneManagerIcon",
+				"handlerLine": 168,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:07.415 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (959, 222)",
+				"image": "(TEXT:\"Customer Search\")",
+				"handlerLine": 169,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:07.691 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (966, 578)",
+				"image": "SkipButtonIcon",
+				"handlerLine": 170,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:11.852 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (921, 206)",
+				"image": "(TEXT:\"Return Item\")",
+				"handlerLine": 171,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:12.126 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (915, 212)",
+				"image": "ReturnItem Img",
+				"handlerLine": 184,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:16.713 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (959, 222)",
+				"image": "(TEXT:\"Customer Search\")",
+				"handlerLine": 185,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:17.029 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (963, 570)",
+				"image": "Return Skip Img",
+				"handlerLine": 186,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:21.605 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (905, 206)",
+				"image": "(TEXT:\"Return\")",
+				"handlerLine": 187,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:21.950 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (1162, 453)",
+				"image": "Return Yes Img",
+				"handlerLine": 188,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:26.729 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (960, 203)",
+				"image": "(TEXT:\"Return Information\")",
+				"handlerLine": 189,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:27.027 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (719, 430)",
+				"image": "Orig Ticket ID",
+				"handlerLine": 190,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:27.862 -0500",
+				"message": "243[returnKey]",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 191,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:27.862 -0500",
+				"message": "243",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 192,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:30.123 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (707, 477)",
+				"image": "OrigTransDate Field Img",
+				"handlerLine": 194,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:30.128 -0500",
+				"message": "Clicked Orig Transaction date field",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 195,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:31.384 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (703, 471)",
+				"image": "(TEXT:\"Orig Trans Date\")",
+				"handlerLine": 196,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:35.420 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (849, 554)",
+				"image": "(TEXT:<not preceded by  characters,day,not followed by characters>)",
+				"handlerLine": 198,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:35.420 -0500",
+				"message": "4",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 199,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:37.655 -0500",
+				"scriptName": "Sale & Return.script",
+				"image": "Screen_Capture.png",
+				"handlerLine": 204,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:37.932 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (956, 721)",
+				"image": "OrigTransDate OK Btn Img",
+				"handlerLine": 205,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:39.466 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (960, 203)",
+				"image": "(TEXT:\"Return Information\")",
+				"handlerLine": 206,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:41.745 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (695, 519)",
+				"image": "OrigStoreID Img",
+				"handlerLine": 208,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:41.745 -0500",
+				"message": "Clicked Orig Store ID field",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 209,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:42.709 -0500",
+				"message": "1646555[returnKey]",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 210,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:45.851 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (960, 203)",
+				"image": "(TEXT:\"Return Information\")",
+				"handlerLine": 212,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:46.164 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (707, 562)",
+				"image": "OrigRegisterID Field",
+				"handlerLine": 213,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:46.169 -0500",
+				"message": "Clicked Order register Id field",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 214,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:47.058 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (703, 556)",
+				"image": "(TEXT:\"Orig Register ID\")",
+				"handlerLine": 215,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:47.141 -0500",
+				"message": "1[returnKey]",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 216,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:47.141 -0500",
+				"message": "Return Items are entered",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 217,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:47.591 -0500",
+				"scriptName": "Sale & Return.script",
+				"image": "Return Item Details Entered.png",
+				"handlerLine": 218,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:49.237 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (1163, 631)",
+				"image": "(TEXT:\"Process\")",
+				"handlerLine": 219,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:49.631 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (1156, 634)",
+				"image": "Return Process img",
+				"handlerLine": 220,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:50.735 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (879, 228)",
+				"image": "(TEXT:\"Original Transaction\")",
+				"handlerLine": 221,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:51.002 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (731, 284)",
+				"image": "PdtReturn Img",
+				"handlerLine": 222,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:51.962 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (959, 165)",
+				"image": "(TEXT:\"Original Transaction\")",
+				"handlerLine": 223,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:52.255 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (1188, 751)",
+				"image": "ReturnSelectedItems Button Img",
+				"handlerLine": 224,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:58.278 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (942, 187)",
+				"image": "(TEXT:\"Reason Code\")",
+				"handlerLine": 225,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:37:58.538 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (727, 312)",
+				"image": "539UNSALEABLE Reason",
+				"handlerLine": 226,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:38:03.625 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (649, 972)",
+				"image": "(TEXT:\"Refund\")",
+				"handlerLine": 227,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:38:05.585 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (649, 972)",
+				"image": "(TEXT:\"Refund\")",
+				"handlerLine": 229,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:38:05.590 -0500",
+				"message": "SEARCHRECTANGLE = [689,962,769,982]",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 230,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:38:05.717 -0500",
+				"message": "(689,962,769,982)",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 231,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:38:05.719 -0500",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 232,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:38:05.719 -0500",
+				"message": "$59.99",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 233,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:38:07.768 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (649, 972)",
+				"image": "(TEXT:\"Refund\")",
+				"handlerLine": 234,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:38:13.108 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (1404, 98)",
+				"image": "(TEXT:\"Return Tender Options\")",
+				"handlerLine": 235,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:38:13.375 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (1119, 275)",
+				"image": "Return Cash Img",
+				"handlerLine": 236,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:38:14.612 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (1399, 95)",
+				"image": "(TEXT:\"Tender\")",
+				"handlerLine": 237,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:38:16.856 -0500",
+				"message": "$59.99[returnKey]",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 239,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:38:23.156 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "Unable to Find Image (TEXT:\"unverified return\") within 0.00 seconds. Text not found.",
+				"image": "(TEXT:\"unverified return\")",
+				"handlerLine": 241,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:38:24.404 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (928, 314)",
+				"image": "(TEXT:\"Email Address\")",
+				"handlerLine": 244,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:38:24.859 -0500",
+				"scriptName": "Sale & Return.script",
+				"image": "EmailAddress Popup.png",
+				"handlerLine": 245,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:38:25.152 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (876, 428)",
+				"image": "Return PrintOnly Img",
+				"handlerLine": 246,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:38:25.152 -0500",
+				"message": "Return Process initiated",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 247,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:38:37.071 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (959, 163)",
+				"image": "(TEXT:\"Sales Associate\")",
+				"handlerLine": 248,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:38:38.041 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (959, 163)",
+				"image": "(TEXT:\"Sales Associate\")",
+				"handlerLine": 249,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:38:38.346 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (774, 757)",
+				"image": "SalesAssociate BackBtn Img",
+				"handlerLine": 250,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:38:38.346 -0500",
+				"message": "Click Back Button",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 251,
+				"identifier": "LogSuccess"
+			},
+		{
+				"message": "(Duration:\"225.27\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-11-05 05:34:53 -0500\", Successes:\"5\", TestCase:\"Sale & Return.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-11-05 05:38:38.487 -0500"
+			},
+		{
+				"message": "Execution Time 0:03:45 Sale & Return.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-11-05 05:38:38.581 -0500"
+			}
+	],
+	"createdTimestamp": "2025-11-05 05:34:53.217 -0500"
+}

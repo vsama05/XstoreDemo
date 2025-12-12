@@ -1,0 +1,13 @@
+﻿2025-09-03 06:54:45.096 -0400	START		Running SignIn.script
+2025-09-03 06:54:45.353 -0400	doubleclick	VncViewerIcon	at (113, 19)	1	on_signin	SignIn.script
+2025-09-03 06:54:48.943 -0400	waitfor	(TEXT:"Canary Island")	found at (579, 415)	2	on_signin	SignIn.script
+2025-09-03 06:54:50.240 -0400	doubleclick	(TEXT:"Canary Island")	at (579, 415)	3	on_signin	SignIn.script
+2025-09-03 06:54:54.510 -0400	waitfor	(TEXT:"Scan or key your employee")	found at (992, 139)	4	on_signin	SignIn.script
+2025-09-03 06:54:54.608 -0400	typetext		111111[returnKey]	5	on_signin	SignIn.script
+2025-09-03 06:54:56.812 -0400	waitfor	(TEXT:"Key your password")	found at (884, 374)	7	on_signin	SignIn.script
+2025-09-03 06:54:56.935 -0400	typetext		x1234567[returnKey]	8	on_signin	SignIn.script
+2025-09-03 06:55:01.504 -0400	imagefound	(TEXT:"Main Menu")	found at (1404, 96)	9	on_signin	SignIn.script
+2025-09-03 06:55:01.517 -0400	LogSuccess		Sign-in is succesful	10	on_signin	SignIn.script
+2025-09-03 06:55:01.992 -0400	capturescreen	Sign-In.png	(885,83,1909,1035)	15	on_signin	SignIn.script
+2025-09-03 06:55:02.062 -0400	EndTestCase		(Duration:"16.958", Errors:"0", Exceptions:"0", StartTime:"2025-09-03 06:54:45 -0400", Successes:"1", TestCase:"SignIn.script", Warnings:"0")
+2025-09-03 06:55:02.162 -0400	SUCCESS		Execution Time 0:00:16 SignIn.script

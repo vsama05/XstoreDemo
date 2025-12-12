@@ -1,0 +1,4 @@
+﻿2025-09-12 00:12:45.771 -0400	START		Running Return.script
+2025-09-12 00:12:49.236 -0400	Exception		Searching For Image: OCR Error: Operation was aborted	1	on_return	Return.script
+2025-09-12 00:12:49.275 -0400	EndTestCase		(Duration:"3.493", Errors:"1", Exceptions:"1", StartTime:"2025-09-12 00:12:45 -0400", Successes:"0", TestCase:"Return.script", Warnings:"0")
+2025-09-12 00:12:49.287 -0400	ABORTED		Execution Time 0:00:03 Return.script

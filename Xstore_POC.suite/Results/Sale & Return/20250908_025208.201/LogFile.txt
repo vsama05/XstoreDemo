@@ -1,0 +1,3 @@
+﻿2025-09-08 02:52:08.210 -0400	START		Running Sale.script
+2025-09-08 02:52:08.216 -0400	EndTestCase		(Duration:"0.002", Errors:"1", Exceptions:"0", StartTime:"2025-09-08 02:52:08 -0400", Successes:"0", TestCase:"Sale.script", Warnings:"0")
+2025-09-08 02:52:08.317 -0400	FAILURE		SenseTalk Compiler Exception: in sale:\nSyntax Error at line 25: can't understand "/" at character 1 -- Execution Time 0:00:00 Sale.script

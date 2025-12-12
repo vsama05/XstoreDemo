@@ -1,0 +1,157 @@
+{
+	"entries": [
+		{
+				"message": "Running Return optimized.script",
+				"identifier": "START",
+				"timestamp": "2025-11-05 04:16:20.714 -0500"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:16:21.823 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "found at (1411, 89)",
+				"image": "(TEXT:\"Main Menu\")",
+				"handlerLine": 1,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:16:21.827 -0500",
+				"message": "Fetching Return item details",
+				"scriptName": "Return optimized.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:16:22.052 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "at (1743, 256)",
+				"image": "Reporting Img",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:16:25.950 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "found at (1521, 282)",
+				"image": "(TEXT:\"Electronic Journal\")",
+				"handlerLine": 4,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:16:27.267 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "at (1521, 282)",
+				"image": "(TEXT:\"Electronic Journal\")",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:16:31.101 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "found at (959, 176)",
+				"image": "(TEXT:\"Transaction Search\")",
+				"handlerLine": 6,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:16:32.200 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "at (1114, 698)",
+				"image": "(TEXT:\"Process\")",
+				"handlerLine": 7,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:16:33.354 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "found at (1521, 282)",
+				"image": "(TEXT:\"Electronic Journal\")",
+				"handlerLine": 8,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:16:33.362 -0500",
+				"message": "Fetching Ticket ID",
+				"scriptName": "Return optimized.script",
+				"handlerLine": 26,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:16:33.686 -0500",
+				"scriptName": "Return optimized.script",
+				"image": "Electric journal ticket ID.png",
+				"handlerLine": 27,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:16:36.540 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "at (1177, 222)",
+				"image": "(TEXT:\"Status Complete\")",
+				"handlerLine": 38,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:16:39.383 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "at [1021,206,1072,215]",
+				"image": "(TEXT:<\"Ticket\", \" \",4 digits or 3 digits or 2 digits or 1 digit>)",
+				"handlerLine": 40,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:16:39.506 -0500",
+				"message": "at (1067, 210)",
+				"scriptName": "Return optimized.script",
+				"handlerLine": 40,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:16:40.232 -0500",
+				"message": "[controlKey]c",
+				"scriptName": "Return optimized.script",
+				"handlerLine": 41,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:16:42.051 -0500",
+				"message": "239",
+				"scriptName": "Return optimized.script",
+				"handlerLine": 43,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:16:42.056 -0500",
+				"message": "Got the Ticket ID",
+				"scriptName": "Return optimized.script",
+				"handlerLine": 51,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"34.641\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-11-05 04:16:20 -0500\", Successes:\"0\", TestCase:\"Return optimized.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-11-05 04:16:55.359 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:34 Return optimized.script",
+				"identifier": "ABORTED",
+				"timestamp": "2025-11-05 04:16:55.385 -0500"
+			}
+	],
+	"createdTimestamp": "2025-11-05 04:16:20.716 -0500"
+}

@@ -1,0 +1,7 @@
+﻿2025-09-08 04:34:28.413 -0400	START		Running Return.script
+2025-09-08 04:34:30.357 -0400	imagefound	(TEXT:"Sales Associate")	found at (959, 163)	1	on_return	Return.script
+2025-09-08 04:34:30.361 -0400	LogSuccess		Click Back Button	2	on_return	Return.script
+2025-09-08 04:34:30.365 -0400	Log		Fetching Return item details	7	on_return	Return.script
+2025-09-08 04:34:54.732 -0400	Exception	StartSaleIcon	No Image Found On Screen: "StartSaleIcon"	8	on_return	Return.script
+2025-09-08 04:34:54.756 -0400	EndTestCase		(Duration:"26.337", Errors:"1", Exceptions:"1", StartTime:"2025-09-08 04:34:28 -0400", Successes:"1", TestCase:"Return.script", Warnings:"0")
+2025-09-08 04:34:54.969 -0400	FAILURE	Screen_Error.png	Image Not Found: click Error - No Image Found On Screen: "StartSaleIcon" -- Execution Time 0:00:26 Return.script

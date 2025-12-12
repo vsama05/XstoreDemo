@@ -1,0 +1,150 @@
+{
+	"entries": [
+		{
+				"message": "Running Return.script",
+				"identifier": "START",
+				"timestamp": "2025-09-08 04:58:21.087 -0400"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:58:35.388 -0400",
+				"scriptName": "Return.script",
+				"message": "Unable to Find Image (TEXT:\"Sales Associate\"). Text not found.",
+				"image": "(TEXT:\"Sales Associate\")",
+				"handlerLine": 1,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:58:35.420 -0400",
+				"message": "Back button is not present",
+				"scriptName": "Return.script",
+				"handlerLine": 4,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:58:41.926 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (1037, 139)",
+				"image": "(TEXT:\"Scan or key your employee ID to sign on.\")",
+				"handlerLine": 7,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:58:42.121 -0400",
+				"scriptName": "Return.script",
+				"message": "at (926, 113)",
+				"image": "SignIn Field",
+				"handlerLine": 8,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:58:42.912 -0400",
+				"message": "111111[returnKey]",
+				"scriptName": "Return.script",
+				"handlerLine": 9,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:58:44.945 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (884, 374)",
+				"image": "(TEXT:\"Key your password\")",
+				"handlerLine": 11,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:58:45.067 -0400",
+				"message": "x1234567[returnKey]",
+				"scriptName": "Return.script",
+				"handlerLine": 12,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:58:45.072 -0400",
+				"message": "Sign-in is successful",
+				"scriptName": "Return.script",
+				"handlerLine": 13,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:58:45.086 -0400",
+				"message": "Fetching Return item details",
+				"scriptName": "Return.script",
+				"handlerLine": 19,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:58:46.466 -0400",
+				"scriptName": "Return.script",
+				"message": "at (1079, 275)",
+				"image": "StartSaleIcon",
+				"handlerLine": 20,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:58:50.994 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (959, 163)",
+				"image": "(TEXT:\"Sales Associate\")",
+				"handlerLine": 21,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:58:51.211 -0400",
+				"scriptName": "Return.script",
+				"message": "at (790, 264)",
+				"image": "OneManagerIcon",
+				"handlerLine": 22,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:58:57.609 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (959, 222)",
+				"image": "(TEXT:\"Customer Search\")",
+				"handlerLine": 23,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:58:57.846 -0400",
+				"scriptName": "Return.script",
+				"message": "at (966, 578)",
+				"image": "SkipButtonIcon",
+				"handlerLine": 24,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:59:02.664 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (1687, 92)",
+				"image": "(TEXT:\"Sale\")",
+				"handlerLine": 25,
+				"identifier": "waitfor"
+			},
+		{
+				"message": "(Duration:\"41.713\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-09-08 04:58:21 -0400\", Successes:\"1\", TestCase:\"Return.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-09-08 04:59:02.805 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:41 Return.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-09-08 04:59:02.865 -0400"
+			}
+	],
+	"createdTimestamp": "2025-09-08 04:58:21.090 -0400"
+}

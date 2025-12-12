@@ -1,0 +1,17 @@
+﻿2025-11-05 04:50:46.766 -0500	START		Running Return optimized.script
+2025-11-05 04:50:47.914 -0500	waitfor	(TEXT:"Main Menu")	found at (1404, 96)	1	on_return_optimized	Return optimized.script
+2025-11-05 04:50:47.918 -0500	Log		Fetching Return item details	2	on_return_optimized	Return optimized.script
+2025-11-05 04:50:48.119 -0500	click	Reporting Img	at (1731, 260)	3	on_return_optimized	Return optimized.script
+2025-11-05 04:50:52.429 -0500	waitfor	(TEXT:"Electronic Journal")	found at (1513, 285)	4	on_return_optimized	Return optimized.script
+2025-11-05 04:50:54.022 -0500	click	(TEXT:"Electronic Journal")	at (1513, 285)	5	on_return_optimized	Return optimized.script
+2025-11-05 04:50:58.789 -0500	waitfor	(TEXT:"Transaction Search")	found at (959, 182)	6	on_return_optimized	Return optimized.script
+2025-11-05 04:51:00.910 -0500	click	(TEXT:"Process")	at (1112, 695)	7	on_return_optimized	Return optimized.script
+2025-11-05 04:51:02.538 -0500	waitfor	(TEXT:"Electronic Journal")	found at (1512, 285)	8	on_return_optimized	Return optimized.script
+2025-11-05 04:51:05.164 -0500	click	(TEXT:"Status Complete")	at (1174, 227)	40	on_return_optimized	Return optimized.script
+2025-11-05 04:51:07.491 -0500	imagerectangle	(TEXT:<"Ticket", " ",4 digits or 3 digits or 2 digits or 1 digit>)	at [1020,211,1071,220]	42	on_return_optimized	Return optimized.script
+2025-11-05 04:51:07.609 -0500	doubleclick		at (1066, 216)	42	on_return_optimized	Return optimized.script
+2025-11-05 04:51:08.333 -0500	typetext		[controlKey]c	43	on_return_optimized	Return optimized.script
+2025-11-05 04:51:11.142 -0500	Log			46	on_return_optimized	Return optimized.script
+2025-11-05 04:51:11.146 -0500	Log		Got the Ticket ID	54	on_return_optimized	Return optimized.script
+2025-11-05 04:51:27.279 -0500	EndTestCase		(Duration:"40.505", Errors:"1", Exceptions:"0", StartTime:"2025-11-05 04:50:46 -0500", Successes:"0", TestCase:"Return optimized.script", Warnings:"0")
+2025-11-05 04:51:27.295 -0500	ABORTED		Execution Time 0:00:40 Return optimized.script

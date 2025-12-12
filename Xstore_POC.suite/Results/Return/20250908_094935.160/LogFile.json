@@ -1,0 +1,530 @@
+{
+	"entries": [
+		{
+				"message": "Running Return.script",
+				"identifier": "START",
+				"timestamp": "2025-09-08 09:49:35.167 -0400"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:49:52.731 -0400",
+				"scriptName": "Return.script",
+				"message": "Unable to Find Image (TEXT:\"Sales Associate\"). Text not found.",
+				"image": "(TEXT:\"Sales Associate\")",
+				"handlerLine": 1,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:49:52.772 -0400",
+				"message": "Back button is not present",
+				"scriptName": "Return.script",
+				"handlerLine": 4,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:49:59.341 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (1037, 139)",
+				"image": "(TEXT:\"Scan or key your employee ID to sign on.\")",
+				"handlerLine": 7,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:00.364 -0400",
+				"scriptName": "Return.script",
+				"message": "at (926, 113)",
+				"image": "SignIn Field",
+				"handlerLine": 8,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:01.154 -0400",
+				"message": "111111[returnKey]",
+				"scriptName": "Return.script",
+				"handlerLine": 9,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:03.262 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (884, 374)",
+				"image": "(TEXT:\"Key your password\")",
+				"handlerLine": 11,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:03.397 -0400",
+				"message": "x1234567[returnKey]",
+				"scriptName": "Return.script",
+				"handlerLine": 12,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:03.402 -0400",
+				"message": "Sign-in is successful",
+				"scriptName": "Return.script",
+				"handlerLine": 13,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:08.008 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (1404, 96)",
+				"image": "(TEXT:\"Main Menu\")",
+				"handlerLine": 18,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:08.018 -0400",
+				"message": "Fetching Return item details",
+				"scriptName": "Return.script",
+				"handlerLine": 19,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:08.220 -0400",
+				"scriptName": "Return.script",
+				"message": "at (1731, 260)",
+				"image": "Reporting Img",
+				"handlerLine": 20,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:12.542 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (1513, 285)",
+				"image": "(TEXT:\"Electronic Journal\")",
+				"handlerLine": 21,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:12.751 -0400",
+				"scriptName": "Return.script",
+				"message": "at (1497, 285)",
+				"image": "ElectronicJournal Img",
+				"handlerLine": 22,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:17.066 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (959, 182)",
+				"image": "(TEXT:\"Transaction Search\")",
+				"handlerLine": 23,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:17.338 -0400",
+				"scriptName": "Return.script",
+				"message": "at (1133, 699)",
+				"image": "TransactionProcess Img",
+				"handlerLine": 24,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:18.779 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (1512, 285)",
+				"image": "(TEXT:\"Electronic Journal\")",
+				"handlerLine": 25,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:22.769 -0400",
+				"scriptName": "Return.script",
+				"message": "at [1133,221,1215,233]",
+				"image": "(TEXT:\"Status Complete\")",
+				"handlerLine": 26,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:22.933 -0400",
+				"message": "(1133,191,1193,221)",
+				"scriptName": "Return.script",
+				"handlerLine": 28,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:23.119 -0400",
+				"scriptName": "Return.script",
+				"message": "at (103, 58)",
+				"image": "ElectronicJournal Back Img",
+				"handlerLine": 31,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:33.406 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (959, 182)",
+				"image": "(TEXT:\"Transaction Search\")",
+				"handlerLine": 32,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:33.714 -0400",
+				"scriptName": "Return.script",
+				"message": "at (805, 701)",
+				"image": "ElectronicJournal BackButton Img",
+				"handlerLine": 33,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:41.895 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (1404, 98)",
+				"image": "(TEXT:\"Reporting\")",
+				"handlerLine": 34,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:42.119 -0400",
+				"scriptName": "Return.script",
+				"message": "at (135, 52)",
+				"image": "MainMenu Back Icon",
+				"handlerLine": 35,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:46.282 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (1079, 285)",
+				"image": "(TEXT:\"Start Sale\")",
+				"handlerLine": 36,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:46.496 -0400",
+				"scriptName": "Return.script",
+				"message": "at (1079, 275)",
+				"image": "StartSaleIcon",
+				"handlerLine": 37,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:51.347 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (959, 163)",
+				"image": "(TEXT:\"Sales Associate\")",
+				"handlerLine": 38,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:51.577 -0400",
+				"scriptName": "Return.script",
+				"message": "at (790, 264)",
+				"image": "OneManagerIcon",
+				"handlerLine": 39,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:58.127 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (959, 222)",
+				"image": "(TEXT:\"Customer Search\")",
+				"handlerLine": 40,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:50:58.361 -0400",
+				"scriptName": "Return.script",
+				"message": "at (966, 578)",
+				"image": "SkipButtonIcon",
+				"handlerLine": 41,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:03.315 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (921, 206)",
+				"image": "(TEXT:\"Return Item\")",
+				"handlerLine": 42,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:03.554 -0400",
+				"scriptName": "Return.script",
+				"message": "at (915, 212)",
+				"image": "ReturnItem Img",
+				"handlerLine": 43,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:08.458 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (959, 222)",
+				"image": "(TEXT:\"Customer Search\")",
+				"handlerLine": 44,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:08.705 -0400",
+				"scriptName": "Return.script",
+				"message": "at (963, 570)",
+				"image": "Return Skip Img",
+				"handlerLine": 45,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:13.874 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (905, 206)",
+				"image": "(TEXT:\"Return\")",
+				"handlerLine": 46,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:14.230 -0400",
+				"scriptName": "Return.script",
+				"message": "at (1162, 453)",
+				"image": "Return Yes Img",
+				"handlerLine": 47,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:19.460 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (960, 203)",
+				"image": "(TEXT:\"Return Information\")",
+				"handlerLine": 48,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:19.725 -0400",
+				"scriptName": "Return.script",
+				"message": "at (719, 430)",
+				"image": "Orig Ticket ID",
+				"handlerLine": 49,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:20.511 -0400",
+				"message": "112[returnKey]",
+				"scriptName": "Return.script",
+				"handlerLine": 50,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:22.743 -0400",
+				"scriptName": "Return.script",
+				"message": "at (707, 477)",
+				"image": "OrigTransDate Field Img",
+				"handlerLine": 52,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:22.749 -0400",
+				"message": "Clicked Orig Transaction date field",
+				"scriptName": "Return.script",
+				"handlerLine": 53,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:24.269 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (703, 471)",
+				"image": "(TEXT:\"Orig Trans Date\")",
+				"handlerLine": 54,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:26.715 -0400",
+				"scriptName": "Return.script",
+				"message": "at (738, 565)",
+				"image": "(TEXT:<not preceded by characters then day() then not followed by characters>)",
+				"handlerLine": 55,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:28.932 -0400",
+				"scriptName": "Return.script",
+				"message": "at (956, 721)",
+				"image": "OrigTransDate OK Btn Img",
+				"handlerLine": 58,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:31.036 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (960, 203)",
+				"image": "(TEXT:\"Return Information\")",
+				"handlerLine": 59,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:33.086 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (695, 513)",
+				"image": "(TEXT:\"Orig Store ID\")",
+				"handlerLine": 60,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:33.333 -0400",
+				"scriptName": "Return.script",
+				"message": "at (695, 519)",
+				"image": "OrigStoreID Img",
+				"handlerLine": 61,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:33.337 -0400",
+				"message": "Clicked Orig Store ID field",
+				"scriptName": "Return.script",
+				"handlerLine": 62,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:34.141 -0400",
+				"message": "1646555[returnKey]",
+				"scriptName": "Return.script",
+				"handlerLine": 63,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:38.112 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (960, 203)",
+				"image": "(TEXT:\"Return Information\")",
+				"handlerLine": 65,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:38.384 -0400",
+				"scriptName": "Return.script",
+				"message": "at (707, 562)",
+				"image": "OrigRegisterID Field",
+				"handlerLine": 66,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:38.387 -0400",
+				"message": "Clicked Order register Id field",
+				"scriptName": "Return.script",
+				"handlerLine": 67,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:40.007 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (703, 556)",
+				"image": "(TEXT:\"Orig Register ID\")",
+				"handlerLine": 68,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:40.071 -0400",
+				"message": "1[returnKey]",
+				"scriptName": "Return.script",
+				"handlerLine": 69,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:40.076 -0400",
+				"message": "Return Items are entered",
+				"scriptName": "Return.script",
+				"handlerLine": 70,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:46.678 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (1163, 631)",
+				"image": "(TEXT:\"Process\")",
+				"handlerLine": 71,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:47.016 -0400",
+				"scriptName": "Return.script",
+				"message": "at (1156, 634)",
+				"image": "Return Process img",
+				"handlerLine": 72,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:51:49.017 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (879, 228)",
+				"image": "(TEXT:\"Original Transaction\")",
+				"handlerLine": 73,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 09:52:13.815 -0400",
+				"scriptName": "Return.script",
+				"message": "No Image Found On Screen: \"PdtReturn Img\"",
+				"image": "PdtReturn Img",
+				"handlerLine": 74,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"158.692\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-09-08 09:49:35 -0400\", Successes:\"0\", TestCase:\"Return.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-09-08 09:52:13.863 -0400"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Image Found On Screen: \"PdtReturn Img\" -- Execution Time 0:02:38 Return.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-09-08 09:52:14.036 -0400"
+			}
+	],
+	"createdTimestamp": "2025-09-08 09:49:35.170 -0400"
+}

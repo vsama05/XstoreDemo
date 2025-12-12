@@ -1,0 +1,5 @@
+﻿2025-09-08 04:44:46.176 -0400	START		Running Return.script
+2025-09-08 04:45:03.193 -0400	imagefound	(TEXT:"Sales Associate")	Unable to Find Image (TEXT:"Sales Associate"). Text not found.	1	on_return	Return.script
+2025-09-08 04:45:03.232 -0400	Log		Back button is not present	4	on_return	Return.script
+2025-09-08 04:45:08.251 -0400	EndTestCase		(Duration:"22.067", Errors:"1", Exceptions:"0", StartTime:"2025-09-08 04:44:46 -0400", Successes:"0", TestCase:"Return.script", Warnings:"0")
+2025-09-08 04:45:08.461 -0400	FAILURE	Screen_Error.png	STInvalidBoolean: Value 'Scan or key your ...' is not TRUE, FALSE, YES, NO, ON, OFF or empty -- Execution Time 0:00:22 Return.script

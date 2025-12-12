@@ -1,0 +1,4 @@
+﻿2025-09-08 02:20:48.695 -0400	START		Running Sale.script
+2025-09-08 02:20:51.762 -0400	Exception		Remote Connection Unavailable	2	on_sale	Sale.script
+2025-09-08 02:20:51.785 -0400	EndTestCase		(Duration:"3.085", Errors:"1", Exceptions:"1", StartTime:"2025-09-08 02:20:48 -0400", Successes:"0", TestCase:"Sale.script", Warnings:"0")
+2025-09-08 02:20:51.837 -0400	FAILURE		No Remote Connection: doubleclick Error - Remote Connection Unavailable -- Execution Time 0:00:03 Sale.script

@@ -1,0 +1,31 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2025-09-08 04:34:28.407 -0400,"Failure",0:00:26,1,0,1,"20250908_043428.407/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""StartSaleIcon""",1
+2025-09-08 04:43:50.081 -0400,"Failure",0:00:22,2,0,0,"20250908_044350.081/LogFile.txt","","STInvalidBoolean -- Value 'Scan or key your ...' is not TRUE, FALSE, YES, NO, ON, OFF or empty",0
+2025-09-08 04:44:46.169 -0400,"Failure",0:00:22,1,0,0,"20250908_044446.169/LogFile.txt","","STInvalidBoolean -- Value 'Scan or key your ...' is not TRUE, FALSE, YES, NO, ON, OFF or empty",0
+2025-09-08 04:51:25.043 -0400,"Failure",0:00:56,1,0,1,"20250908_045125.043/LogFile.txt","","Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen ""(TEXT:""Key your password"")"" within 10.00 seconds. Text not found.",0
+2025-09-08 04:53:10.475 -0400,"Failure",0:01:00,1,0,1,"20250908_045310.475/LogFile.txt","","Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen ""(TEXT:""Key your password"")"" within 10.00 seconds. Text not found.",0
+2025-09-08 04:55:23.411 -0400,"Failure",0:00:57,1,0,1,"20250908_045523.411/LogFile.txt","","Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen ""(TEXT:""Key your password"")"" within 10.00 seconds. Text not found.",0
+2025-09-08 04:58:21.080 -0400,"Success",0:00:41,0,0,0,"20250908_045821.080/LogFile.txt","","",1
+2025-09-08 05:50:57.817 -0400,"Aborted",0:01:03,1,0,1,"20250908_055057.817/LogFile.txt","","",1
+2025-09-08 05:52:03.400 -0400,"Success",0:01:35,0,0,0,"20250908_055203.400/LogFile.txt","","",1
+2025-09-08 06:52:38.008 -0400,"Aborted",0:00:03,1,0,1,"20250908_065238.008/LogFile.txt","","",0
+2025-09-08 09:17:27.553 -0400,"Failure",0:01:44,1,0,1,"20250908_091727.553/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: Orig Ticked ID",0
+2025-09-08 09:49:35.160 -0400,"Failure",0:02:38,1,0,1,"20250908_094935.160/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""PdtReturn Img""",0
+2025-09-10 07:09:22.815 -0400,"Failure",0:01:08,1,0,1,"20250910_070922.815/LogFile.txt","","Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen ""(TEXT:""Main Menu"")"" within 10.00 seconds. Text not found.",1
+2025-09-10 07:10:42.770 -0400,"Failure",0:02:55,1,0,1,"20250910_071042.770/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""PdtReturn Img""",0
+2025-09-10 08:00:09.675 -0400,"Aborted",0:05:04,1,0,1,"20250910_080009.675/LogFile.txt","","",0
+2025-09-11 01:24:57.307 -0400,"Aborted",0:06:25,1,0,1,"20250911_012457.307/LogFile.txt","","",1
+2025-09-11 05:11:20.510 -0400,"Failure",0:01:43,1,0,1,"20250911_051120.510/LogFile.txt","","Error Running Script Command -- click Error - Image Property List did not contain ""ImageName"" property",1
+2025-09-11 05:17:32.162 -0400,"Failure",0:02:05,1,0,1,"20250911_051732.162/LogFile.txt","","Image Not Found -- click Error - No Text Found On Screen: ""(TEXT:""09"")"". Text not found.  Restricted Search Rectangle ((586,486),(1320,673))\n",1
+2025-09-11 05:24:16.044 -0400,"Failure",0:00:55,1,0,1,"20250911_052416.044/LogFile.txt","","Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen ""(TEXT:""Main Menu"")"" within 10.00 seconds. Text not found.",0
+2025-09-11 05:25:29.074 -0400,"Aborted",0:05:01,1,0,1,"20250911_052529.074/LogFile.txt","","",0
+2025-09-11 05:30:33.921 -0400,"Failure",0:02:13,1,0,1,"20250911_053033.921/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""PdtReturn Img""",1
+2025-09-11 23:50:52.448 -0400,"Failure",0:02:14,1,0,1,"20250911_235052.448/LogFile.txt","","Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen ""(TEXT:""Orig Store ID"")"" within 5.00 seconds. Text not found.",1
+2025-09-12 00:03:52.572 -0400,"Failure",0:02:36,1,0,1,"20250912_000352.572/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""PdtReturn Img""",1
+2025-09-12 00:08:19.307 -0400,"Aborted",0:03:41,1,0,1,"20250912_000819.307/LogFile.txt","","",1
+2025-09-12 00:12:04.766 -0400,"Aborted",0:00:39,1,0,1,"20250912_001204.766/LogFile.txt","","",1
+2025-09-12 00:12:45.750 -0400,"Aborted",0:00:03,1,0,1,"20250912_001245.750/LogFile.txt","","",0
+2025-09-12 00:14:21.882 -0400,"Failure",0:03:00,1,0,1,"20250912_001421.882/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Return Cash Img""",1
+2025-09-12 00:45:42.445 -0400,"Success",0:03:01,0,0,0,"20250912_004542.445/LogFile.txt","","",1
+2025-09-16 23:49:08.051 -0400,"Aborted",0:00:13,1,0,1,"20250916_234908.051/LogFile.txt","","",0
+2025-09-17 00:05:48.298 -0400,"Failure",0:03:04,1,0,1,"20250917_000548.298/LogFile.txt","","Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen ""(TEXT:""Sales Associate"")"" within 5.00 seconds. Text not found.",1

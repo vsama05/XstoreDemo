@@ -1,0 +1,6 @@
+﻿2025-11-05 04:12:09.741 -0500	START		Running Return optimized.script
+2025-11-05 04:12:10.463 -0500	waitfor	(TEXT:"Main Menu")	found at (123, 43)	1	on_return_optimized	Return optimized.script
+2025-11-05 04:12:10.473 -0500	Log		Fetching Return item details	2	on_return_optimized	Return optimized.script
+2025-11-05 04:12:25.129 -0500	Exception	Reporting Img	No Image Found On Screen: "Reporting Img"	3	on_return_optimized	Return optimized.script
+2025-11-05 04:12:25.239 -0500	EndTestCase		(Duration:"15.494", Errors:"1", Exceptions:"1", StartTime:"2025-11-05 04:12:09 -0500", Successes:"0", TestCase:"Return optimized.script", Warnings:"0")
+2025-11-05 04:12:25.253 -0500	ABORTED		Execution Time 0:00:15 Return optimized.script

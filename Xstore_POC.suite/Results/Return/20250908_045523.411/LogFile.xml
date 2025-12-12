@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Return_script" package="Xstore_POC.suite" timestamp="2025-09-08 04:55:23.411 -0400"
+ tests="1"  failures="1" errors="1" time="57.857000">
+  <properties>
+   <property name="RunDate" value="2025-09-08 04:55:23.411 -0400"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Return.script" assertions="1" status="error"  time="57.849">
+    <failure type="FAILURE" message="Image Not Found: WaitFor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Key your password&quot;)&quot; within 10.00 seconds. Text not found. -- Execution Time 0:00:57 Return.script" />
+    <error type="Exception" message="Unable To Find Any Image On Screen &quot;(TEXT:&quot;Key your password&quot;)&quot; within 10.00 seconds. Text not found." />
+  </testcase>
+ </testsuite>
+</testsuites>

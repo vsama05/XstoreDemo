@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running Sale.script",
+				"identifier": "START",
+				"timestamp": "2025-09-08 04:32:03.803 -0400"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-08 04:32:28.625 -0400",
+				"scriptName": "Sale.script",
+				"message": "No Image Found On Screen: \"VncViewerIcon\"",
+				"image": "VncViewerIcon",
+				"handlerLine": 2,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"24.95\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-09-08 04:32:03 -0400\", Successes:\"0\", TestCase:\"Sale.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-09-08 04:32:28.757 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:24 Sale.script",
+				"identifier": "ABORTED",
+				"timestamp": "2025-09-08 04:32:28.767 -0400"
+			}
+	],
+	"createdTimestamp": "2025-09-08 04:32:03.806 -0400"
+}

@@ -1,0 +1,21 @@
+﻿2025-09-04 03:17:45.202 -0400	START		Running SignIn.script
+2025-09-04 03:17:45.470 -0400	doubleclick	VncViewerIcon	at (113, 19)	1	on_signin	SignIn.script
+2025-09-04 03:17:48.939 -0400	waitfor	(TEXT:"Xstore")	found at (747, 413)	2	on_signin	SignIn.script
+2025-09-04 03:17:50.225 -0400	doubleclick	(TEXT:"Xstore")	at (747, 413)	3	on_signin	SignIn.script
+2025-09-04 03:17:54.184 -0400	waitfor	(TEXT:"Scan or key your employee")	found at (992, 139)	4	on_signin	SignIn.script
+2025-09-04 03:17:54.279 -0400	typetext		111111[returnKey]	5	on_signin	SignIn.script
+2025-09-04 03:17:56.533 -0400	waitfor	(TEXT:"Key your password")	found at (884, 374)	7	on_signin	SignIn.script
+2025-09-04 03:17:56.683 -0400	typetext		x1234567[returnKey]	8	on_signin	SignIn.script
+2025-09-04 03:18:01.557 -0400	imagefound	(TEXT:"Main Menu")	found at (1404, 96)	9	on_signin	SignIn.script
+2025-09-04 03:18:01.564 -0400	LogSuccess		Sign-in is successful	10	on_signin	SignIn.script
+2025-09-04 03:18:02.081 -0400	capturescreen	Sign-In.png	(885,83,1909,1035)	15	on_signin	SignIn.script
+2025-09-04 03:18:02.315 -0400	click	StartSaleIcon	at (1079, 275)	16	on_signin	SignIn.script
+2025-09-04 03:18:07.523 -0400	waitfor	(TEXT:"Sales Associate")	found at (959, 163)	17	on_signin	SignIn.script
+2025-09-04 03:18:07.751 -0400	click	OneManagerIcon	at (790, 264)	18	on_signin	SignIn.script
+2025-09-04 03:18:14.131 -0400	waitfor	(TEXT:"Customer Search")	found at (959, 222)	19	on_signin	SignIn.script
+2025-09-04 03:18:14.371 -0400	click	SkipButtonIcon	at (966, 578)	20	on_signin	SignIn.script
+2025-09-04 03:18:19.352 -0400	waitfor	(TEXT:"Sale")	found at (1687, 92)	21	on_signin	SignIn.script
+2025-09-04 03:18:19.578 -0400	click	FirstSellNonMerchIcon	at (1612, 148)	22	on_signin	SignIn.script
+2025-09-04 03:18:59.691 -0400	Exception	(TEXT:"SellNonMerchButtonIcon")	Unable To Find Any Image On Screen "(TEXT:"SellNonMerchButtonIcon")" within 10.00 seconds. Text not found.	24	on_signin	SignIn.script
+2025-09-04 03:18:59.833 -0400	EndTestCase		(Duration:"74.627", Errors:"1", Exceptions:"1", StartTime:"2025-09-04 03:17:45 -0400", Successes:"1", TestCase:"SignIn.script", Warnings:"0")
+2025-09-04 03:19:00.107 -0400	FAILURE	Screen_Error.png	Image Not Found: WaitFor Error - Unable To Find Any Image On Screen "(TEXT:"SellNonMerchButtonIcon")" within 10.00 seconds. Text not found. -- Execution Time 0:01:14 SignIn.script

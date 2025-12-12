@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running Sale.script",
+				"identifier": "START",
+				"timestamp": "2025-09-08 02:52:08.210 -0400"
+			},
+		{
+				"message": "(Duration:\"0.002\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-09-08 02:52:08 -0400\", Successes:\"0\", TestCase:\"Sale.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-09-08 02:52:08.216 -0400"
+			},
+		{
+				"message": "SenseTalk Compiler Exception: in sale:\\nSyntax Error at line 25: can't understand \"/\" at character 1 -- Execution Time 0:00:00 Sale.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-09-08 02:52:08.317 -0400"
+			}
+	],
+	"createdTimestamp": "2025-09-08 02:52:08.213 -0400"
+}

@@ -1,0 +1,55 @@
+{
+	"entries": [
+		{
+				"message": "Running Return.script",
+				"identifier": "START",
+				"timestamp": "2025-09-08 04:34:28.413 -0400"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:34:30.357 -0400",
+				"scriptName": "Return.script",
+				"message": "found at (959, 163)",
+				"image": "(TEXT:\"Sales Associate\")",
+				"handlerLine": 1,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:34:30.361 -0400",
+				"message": "Click Back Button",
+				"scriptName": "Return.script",
+				"handlerLine": 2,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:34:30.365 -0400",
+				"message": "Fetching Return item details",
+				"scriptName": "Return.script",
+				"handlerLine": 7,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:34:54.732 -0400",
+				"scriptName": "Return.script",
+				"message": "No Image Found On Screen: \"StartSaleIcon\"",
+				"image": "StartSaleIcon",
+				"handlerLine": 8,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"26.337\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-09-08 04:34:28 -0400\", Successes:\"1\", TestCase:\"Return.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-09-08 04:34:54.756 -0400"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Image Found On Screen: \"StartSaleIcon\" -- Execution Time 0:00:26 Return.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-09-08 04:34:54.969 -0400"
+			}
+	],
+	"createdTimestamp": "2025-09-08 04:34:28.417 -0400"
+}

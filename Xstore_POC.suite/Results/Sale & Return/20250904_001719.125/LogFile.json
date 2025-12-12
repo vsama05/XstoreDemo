@@ -1,0 +1,38 @@
+{
+	"entries": [
+		{
+				"message": "Running SignIn.script",
+				"identifier": "START",
+				"timestamp": "2025-09-04 00:17:19.134 -0400"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 00:17:19.449 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (113, 19)",
+				"image": "VncViewerIcon",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 00:18:16.257 -0400",
+				"scriptName": "SignIn.script",
+				"message": "Unable To Find Any Image On Screen \"(TEXT:\"Xstore\")\" within 30.00 seconds. Text not found.",
+				"image": "(TEXT:\"Xstore\")",
+				"handlerLine": 2,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"57.294\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-09-04 00:17:19 -0400\", Successes:\"0\", TestCase:\"SignIn.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-09-04 00:18:16.446 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:57 SignIn.script",
+				"identifier": "ABORTED",
+				"timestamp": "2025-09-04 00:18:16.457 -0400"
+			}
+	],
+	"createdTimestamp": "2025-09-04 00:17:19.149 -0400"
+}

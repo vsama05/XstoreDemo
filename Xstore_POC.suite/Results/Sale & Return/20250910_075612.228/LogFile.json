@@ -1,0 +1,38 @@
+{
+	"entries": [
+		{
+				"message": "Running Sale.script",
+				"identifier": "START",
+				"timestamp": "2025-09-10 07:56:12.237 -0400"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-10 07:56:13.475 -0400",
+				"scriptName": "Sale.script",
+				"message": "at (113, 19)",
+				"image": "VncViewerIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-10 07:56:47.255 -0400",
+				"scriptName": "Sale.script",
+				"message": "Unable To Find Any Image On Screen \"(TEXT:\"KFL US 1646555\")\" within 10.00 seconds. Text not found.",
+				"image": "(TEXT:\"KFL US 1646555\")",
+				"handlerLine": 3,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"35.076\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-09-10 07:56:12 -0400\", Successes:\"0\", TestCase:\"Sale.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-09-10 07:56:47.319 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:35 Sale.script",
+				"identifier": "ABORTED",
+				"timestamp": "2025-09-10 07:56:47.336 -0400"
+			}
+	],
+	"createdTimestamp": "2025-09-10 07:56:12.241 -0400"
+}

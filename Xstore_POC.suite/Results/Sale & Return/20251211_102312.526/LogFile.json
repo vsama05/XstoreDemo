@@ -1,0 +1,55 @@
+{
+	"entries": [
+		{
+				"message": "Running Sale & Return.script",
+				"identifier": "START",
+				"timestamp": "2025-12-11 10:23:12.529 -0500"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-12-11 10:23:14.888 -0500",
+				"message": "[windowsKey]r",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-12-11 10:23:22.292 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (117, 883)",
+				"image": "(TEXT:\"Type the name\")",
+				"handlerLine": 3,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-12-11 10:23:23.180 -0500",
+				"message": "C:\\Program Files\\RealVNC\\VNC Viewer\\vncviewer.exe[returnKey]",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-12-11 10:24:05.635 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "Unable To Find Any Image On Screen \"(TEXT:\"KFL Store 1646555\")\" within 10.00 seconds. Text not found.",
+				"image": "(TEXT:\"KFL Store 1646555\")",
+				"handlerLine": 7,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"53.225\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-12-11 10:23:12 -0500\", Successes:\"0\", TestCase:\"Sale & Return.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-12-11 10:24:05.755 -0500"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: WaitFor Error - Unable To Find Any Image On Screen \"(TEXT:\"KFL Store 1646555\")\" within 10.00 seconds. Text not found. -- Execution Time 0:00:53 Sale & Return.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-12-11 10:24:06.167 -0500"
+			}
+	],
+	"createdTimestamp": "2025-12-11 10:23:12.529 -0500"
+}

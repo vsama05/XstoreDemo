@@ -1,0 +1,38 @@
+{
+	"entries": [
+		{
+				"message": "Running Return.script",
+				"identifier": "START",
+				"timestamp": "2025-09-08 04:43:50.088 -0400"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:44:07.523 -0400",
+				"scriptName": "Return.script",
+				"message": "Unable to Find Image (TEXT:\"Sales Associate\"). Text not found.",
+				"image": "(TEXT:\"Sales Associate\")",
+				"handlerLine": 1,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-08 04:44:07.564 -0400",
+				"message": "Back button is not present",
+				"scriptName": "Return.script",
+				"handlerLine": 4,
+				"identifier": "LogError"
+			},
+		{
+				"message": "(Duration:\"22.488\", Errors:\"2\", Exceptions:\"0\", StartTime:\"2025-09-08 04:43:50 -0400\", Successes:\"0\", TestCase:\"Return.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-09-08 04:44:12.583 -0400"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "STInvalidBoolean: Value 'Scan or key your ...' is not TRUE, FALSE, YES, NO, ON, OFF or empty -- Execution Time 0:00:22 Return.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-09-08 04:44:12.818 -0400"
+			}
+	],
+	"createdTimestamp": "2025-09-08 04:43:50.095 -0400"
+}

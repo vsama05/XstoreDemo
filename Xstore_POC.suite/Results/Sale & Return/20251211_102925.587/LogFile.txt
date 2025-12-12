@@ -1,0 +1,5 @@
+﻿2025-12-11 10:29:25.596 -0500	START		Running Sale & Return.script
+2025-12-11 10:29:27.707 -0500	typetext		[windowsKey]r	2	on_sale___return	Sale & Return.script
+2025-12-11 10:29:40.600 -0500	Exception		Searching For Image: OCR Error: Operation was aborted	3	on_sale___return	Sale & Return.script
+2025-12-11 10:29:40.656 -0500	EndTestCase		(Duration:"15.056", Errors:"1", Exceptions:"1", StartTime:"2025-12-11 10:29:25 -0500", Successes:"0", TestCase:"Sale & Return.script", Warnings:"0")
+2025-12-11 10:29:40.679 -0500	ABORTED		Execution Time 0:00:15 Sale & Return.script

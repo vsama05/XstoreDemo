@@ -1,0 +1,180 @@
+{
+	"entries": [
+		{
+				"message": "Running SignIn.script",
+				"identifier": "START",
+				"timestamp": "2025-09-04 02:52:50.179 -0400"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 02:52:50.415 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (113, 19)",
+				"image": "VncViewerIcon",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 02:52:54.035 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (747, 413)",
+				"image": "(TEXT:\"Xstore\")",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 02:52:55.398 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (747, 413)",
+				"image": "(TEXT:\"Xstore\")",
+				"handlerLine": 3,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 02:52:59.371 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (992, 139)",
+				"image": "(TEXT:\"Scan or key your employee\")",
+				"handlerLine": 4,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 02:52:59.468 -0400",
+				"message": "111111[returnKey]",
+				"scriptName": "SignIn.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 02:53:01.950 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (884, 374)",
+				"image": "(TEXT:\"Key your password\")",
+				"handlerLine": 7,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 02:53:02.072 -0400",
+				"message": "x1234567[returnKey]",
+				"scriptName": "SignIn.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 02:53:06.841 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (1404, 96)",
+				"image": "(TEXT:\"Main Menu\")",
+				"handlerLine": 9,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 02:53:06.850 -0400",
+				"message": "Sign-in is successful",
+				"scriptName": "SignIn.script",
+				"handlerLine": 10,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 02:53:07.273 -0400",
+				"scriptName": "SignIn.script",
+				"message": "(885,83,1909,1035)",
+				"image": "Sign-In.png",
+				"handlerLine": 15,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 02:53:07.511 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (1079, 275)",
+				"image": "StartSaleIcon",
+				"handlerLine": 16,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 02:53:12.240 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (959, 163)",
+				"image": "(TEXT:\"Sales Associate\")",
+				"handlerLine": 17,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 02:53:12.453 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (790, 264)",
+				"image": "OneManagerIcon",
+				"handlerLine": 18,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 02:53:19.145 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (959, 222)",
+				"image": "(TEXT:\"Customer Search\")",
+				"handlerLine": 19,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 02:53:19.389 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (966, 578)",
+				"image": "SkipButtonIcon",
+				"handlerLine": 20,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 02:53:24.410 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (1687, 92)",
+				"image": "(TEXT:\"Sale\")",
+				"handlerLine": 21,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 02:53:24.616 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (1612, 148)",
+				"image": "FirstSellNonMerchIcon",
+				"handlerLine": 22,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 02:54:02.497 -0400",
+				"scriptName": "SignIn.script",
+				"message": "Unable To Find Any Image On Screen \"(TEXT:\"SellNonMerchButtonIcon\")\" within 10.00 seconds. Text not found.",
+				"image": "(TEXT:\"SellNonMerchButtonIcon\")",
+				"handlerLine": 24,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"72.447\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-09-04 02:52:50 -0400\", Successes:\"1\", TestCase:\"SignIn.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-09-04 02:54:02.632 -0400"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: WaitFor Error - Unable To Find Any Image On Screen \"(TEXT:\"SellNonMerchButtonIcon\")\" within 10.00 seconds. Text not found. -- Execution Time 0:01:12 SignIn.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-09-04 02:54:03.033 -0400"
+			}
+	],
+	"createdTimestamp": "2025-09-04 02:52:50.182 -0400"
+}

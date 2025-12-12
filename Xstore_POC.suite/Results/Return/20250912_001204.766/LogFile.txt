@@ -1,0 +1,19 @@
+﻿2025-09-12 00:12:04.777 -0400	START		Running Return.script
+2025-09-12 00:12:07.329 -0400	imagefound	(TEXT:"Sales Associate")	found at (959, 163)	1	on_return	Return.script
+2025-09-12 00:12:07.626 -0400	click	SalesAssociate BackBtn Img	at (774, 757)	2	on_return	Return.script
+2025-09-12 00:12:07.630 -0400	LogSuccess		Click Back Button	3	on_return	Return.script
+2025-09-12 00:12:19.190 -0400	imagefound	(TEXT:"Scan or key your employee ID to sign on.")	Unable to Find Image (TEXT:"Scan or key your employee ID to sign on."). Text not found.	8	on_return	Return.script
+2025-09-12 00:12:19.225 -0400	Log		Log-in Screen is not present	16	on_return	Return.script
+2025-09-12 00:12:21.844 -0400	waitfor	(TEXT:"Main Menu")	found at (1404, 96)	18	on_return	Return.script
+2025-09-12 00:12:21.853 -0400	Log		Fetching Return item details	19	on_return	Return.script
+2025-09-12 00:12:22.078 -0400	click	Reporting Img	at (1731, 260)	20	on_return	Return.script
+2025-09-12 00:12:30.510 -0400	waitfor	(TEXT:"Electronic Journal")	found at (1513, 285)	21	on_return	Return.script
+2025-09-12 00:12:30.756 -0400	click	ElectronicJournal Img	at (1497, 285)	22	on_return	Return.script
+2025-09-12 00:12:37.926 -0400	waitfor	(TEXT:"Transaction Search")	found at (959, 182)	23	on_return	Return.script
+2025-09-12 00:12:38.246 -0400	click	TransactionProcess Img	at (1133, 699)	24	on_return	Return.script
+2025-09-12 00:12:41.653 -0400	waitfor	(TEXT:"Electronic Journal")	found at (1512, 285)	25	on_return	Return.script
+2025-09-12 00:12:41.663 -0400	Log		Fetching Ticket ID	26	on_return	Return.script
+2025-09-12 00:12:42.035 -0400	capturescreen	Electric journal ticket ID.png		27	on_return	Return.script
+2025-09-12 00:12:44.410 -0400	Exception		Searching For Image: OCR Error: Operation was aborted	28	on_return	Return.script
+2025-09-12 00:12:44.467 -0400	EndTestCase		(Duration:"39.684", Errors:"1", Exceptions:"1", StartTime:"2025-09-12 00:12:04 -0400", Successes:"1", TestCase:"Return.script", Warnings:"0")
+2025-09-12 00:12:44.494 -0400	ABORTED		Execution Time 0:00:39 Return.script

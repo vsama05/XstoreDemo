@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Return optimized_script" package="Xstore_POC.suite" timestamp="2025-11-05 04:11:26.485 -0500"
+ tests="1"  failures="0" errors="0" time="28.131000">
+  <properties>
+   <property name="RunDate" value="2025-11-05 04:11:26.485 -0500"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="Return optimized.script" assertions="1" status="error"  time="28.103">
+    <error type="Exception" message="No Image Found On Screen: &quot;ElectronicJournal Img&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

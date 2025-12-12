@@ -1,0 +1,9 @@
+﻿2025-12-11 10:24:47.840 -0500	START		Running Sale & Return.script
+2025-12-11 10:24:49.937 -0500	typetext		[windowsKey]r	2	on_sale___return	Sale & Return.script
+2025-12-11 10:24:55.430 -0500	waitfor	(TEXT:"Type the name")	found at (117, 883)	3	on_sale___return	Sale & Return.script
+2025-12-11 10:24:56.106 -0500	typetext		C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe[returnKey]	4	on_sale___return	Sale & Return.script
+2025-12-11 10:25:00.933 -0500	waitfor	(TEXT:"KFL Store 1646555")	found at (602, 413)	7	on_sale___return	Sale & Return.script
+2025-12-11 10:25:02.915 -0500	doubleclick	(TEXT:"KFL Store 1646555")	at (602, 413)	8	on_sale___return	Sale & Return.script
+2025-12-11 10:25:39.781 -0500	Exception	(TEXT:"No orders require attention")	Unable To Find Any Image On Screen "(TEXT:"No orders require attention")" within 10.00 seconds. Text not found.	9	on_sale___return	Sale & Return.script
+2025-12-11 10:25:39.875 -0500	EndTestCase		(Duration:"52.032", Errors:"1", Exceptions:"1", StartTime:"2025-12-11 10:24:47 -0500", Successes:"0", TestCase:"Sale & Return.script", Warnings:"0")
+2025-12-11 10:25:40.095 -0500	FAILURE	Screen_Error.png	Image Not Found: WaitFor Error - Unable To Find Any Image On Screen "(TEXT:"No orders require attention")" within 10.00 seconds. Text not found. -- Execution Time 0:00:52 Sale & Return.script

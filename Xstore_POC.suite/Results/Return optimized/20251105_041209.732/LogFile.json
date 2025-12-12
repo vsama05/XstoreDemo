@@ -1,0 +1,46 @@
+{
+	"entries": [
+		{
+				"message": "Running Return optimized.script",
+				"identifier": "START",
+				"timestamp": "2025-11-05 04:12:09.741 -0500"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:12:10.463 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "found at (123, 43)",
+				"image": "(TEXT:\"Main Menu\")",
+				"handlerLine": 1,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:12:10.473 -0500",
+				"message": "Fetching Return item details",
+				"scriptName": "Return optimized.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:12:25.129 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "No Image Found On Screen: \"Reporting Img\"",
+				"image": "Reporting Img",
+				"handlerLine": 3,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"15.494\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-11-05 04:12:09 -0500\", Successes:\"0\", TestCase:\"Return optimized.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-11-05 04:12:25.239 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:15 Return optimized.script",
+				"identifier": "ABORTED",
+				"timestamp": "2025-11-05 04:12:25.253 -0500"
+			}
+	],
+	"createdTimestamp": "2025-11-05 04:12:09.744 -0500"
+}

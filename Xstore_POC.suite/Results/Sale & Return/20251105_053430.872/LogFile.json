@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running Sale & Return.script",
+				"identifier": "START",
+				"timestamp": "2025-11-05 05:34:30.881 -0500"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-11-05 05:34:41.957 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "No Image Found On Screen: \"VncViewerIcon\"",
+				"image": "VncViewerIcon",
+				"handlerLine": 2,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"11.18\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-11-05 05:34:30 -0500\", Successes:\"0\", TestCase:\"Sale & Return.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-11-05 05:34:42.067 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:11 Sale & Return.script",
+				"identifier": "ABORTED",
+				"timestamp": "2025-11-05 05:34:42.087 -0500"
+			}
+	],
+	"createdTimestamp": "2025-11-05 05:34:30.885 -0500"
+}

@@ -1,0 +1,73 @@
+{
+	"entries": [
+		{
+				"message": "Running SignIn.script",
+				"identifier": "START",
+				"timestamp": "2025-09-04 03:06:53.236 -0400"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:06:53.478 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (113, 19)",
+				"image": "VncViewerIcon",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:06:56.957 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (747, 413)",
+				"image": "(TEXT:\"Xstore\")",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:06:58.234 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (747, 413)",
+				"image": "(TEXT:\"Xstore\")",
+				"handlerLine": 3,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:07:01.892 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (992, 139)",
+				"image": "(TEXT:\"Scan or key your employee\")",
+				"handlerLine": 4,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:07:01.993 -0400",
+				"message": "111111[returnKey]",
+				"scriptName": "SignIn.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:08:08.283 -0400",
+				"scriptName": "SignIn.script",
+				"message": "Unable To Find Any Image On Screen \"(TEXT:\"Key your password\")\" within 10.00 seconds. Text not found.",
+				"image": "(TEXT:\"Key your password\")",
+				"handlerLine": 7,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"75.114\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-09-04 03:06:53 -0400\", Successes:\"0\", TestCase:\"SignIn.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-09-04 03:08:08.355 -0400"
+			},
+		{
+				"message": "Execution Time 0:01:15 SignIn.script",
+				"identifier": "ABORTED",
+				"timestamp": "2025-09-04 03:08:08.366 -0400"
+			}
+	],
+	"createdTimestamp": "2025-09-04 03:06:53.240 -0400"
+}

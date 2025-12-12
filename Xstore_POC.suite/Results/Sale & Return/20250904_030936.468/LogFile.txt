@@ -1,0 +1,9 @@
+﻿2025-09-04 03:09:36.477 -0400	START		Running SignIn.script
+2025-09-04 03:09:36.728 -0400	doubleclick	VncViewerIcon	at (113, 19)	1	on_signin	SignIn.script
+2025-09-04 03:09:40.171 -0400	waitfor	(TEXT:"Xstore")	found at (747, 413)	2	on_signin	SignIn.script
+2025-09-04 03:09:41.466 -0400	doubleclick	(TEXT:"Xstore")	at (747, 413)	3	on_signin	SignIn.script
+2025-09-04 03:09:45.114 -0400	waitfor	(TEXT:"Scan or key your employee")	found at (992, 139)	4	on_signin	SignIn.script
+2025-09-04 03:09:47.220 -0400	typetext		111111[returnKey]	6	on_signin	SignIn.script
+2025-09-04 03:10:03.546 -0400	Exception		Searching For Image: OCR Error: Operation was aborted	8	on_signin	SignIn.script
+2025-09-04 03:10:03.593 -0400	EndTestCase		(Duration:"27.111", Errors:"1", Exceptions:"1", StartTime:"2025-09-04 03:09:36 -0400", Successes:"0", TestCase:"SignIn.script", Warnings:"0")
+2025-09-04 03:10:03.631 -0400	ABORTED		Execution Time 0:00:27 SignIn.script

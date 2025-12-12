@@ -1,0 +1,53 @@
+﻿2025-09-11 23:50:52.458 -0400	START		Running Return.script
+2025-09-11 23:50:54.839 -0400	imagefound	(TEXT:"Sales Associate")	found at (959, 163)	1	on_return	Return.script
+2025-09-11 23:50:55.144 -0400	click	SalesAssociate BackBtn Img	at (774, 757)	2	on_return	Return.script
+2025-09-11 23:50:55.149 -0400	LogSuccess		Click Back Button	3	on_return	Return.script
+2025-09-11 23:51:05.867 -0400	imagefound	(TEXT:"Scan or key your employee ID to sign on.")	Unable to Find Image (TEXT:"Scan or key your employee ID to sign on."). Text not found.	8	on_return	Return.script
+2025-09-11 23:51:05.884 -0400	Log		Log-in Screen is not present	16	on_return	Return.script
+2025-09-11 23:51:07.742 -0400	waitfor	(TEXT:"Main Menu")	found at (1404, 96)	18	on_return	Return.script
+2025-09-11 23:51:07.747 -0400	Log		Fetching Return item details	19	on_return	Return.script
+2025-09-11 23:51:07.973 -0400	click	Reporting Img	at (1731, 260)	20	on_return	Return.script
+2025-09-11 23:51:14.438 -0400	waitfor	(TEXT:"Electronic Journal")	found at (1513, 285)	21	on_return	Return.script
+2025-09-11 23:51:14.649 -0400	click	ElectronicJournal Img	at (1497, 285)	22	on_return	Return.script
+2025-09-11 23:51:20.472 -0400	waitfor	(TEXT:"Transaction Search")	found at (959, 182)	23	on_return	Return.script
+2025-09-11 23:51:20.721 -0400	click	TransactionProcess Img	at (1133, 699)	24	on_return	Return.script
+2025-09-11 23:51:23.601 -0400	waitfor	(TEXT:"Electronic Journal")	found at (1512, 285)	25	on_return	Return.script
+2025-09-11 23:51:23.608 -0400	Log		Fetching Ticket ID	26	on_return	Return.script
+2025-09-11 23:51:23.917 -0400	capturescreen	Electric journal ticket ID.png		27	on_return	Return.script
+2025-09-11 23:51:26.191 -0400	imagerectangle	(TEXT:"Status Complete")	at [1133,221,1215,233]	28	on_return	Return.script
+2025-09-11 23:51:26.359 -0400	readtext		(1133,191,1193,221)	30	on_return	Return.script
+2025-09-11 23:51:26.364 -0400	Log		Got the Ticket ID	33	on_return	Return.script
+2025-09-11 23:51:26.539 -0400	click	ElectronicJournal Back Img	at (103, 58)	34	on_return	Return.script
+2025-09-11 23:51:34.424 -0400	waitfor	(TEXT:"Transaction Search")	found at (959, 182)	35	on_return	Return.script
+2025-09-11 23:51:34.708 -0400	click	ElectronicJournal BackButton Img	at (805, 701)	36	on_return	Return.script
+2025-09-11 23:51:42.674 -0400	waitfor	(TEXT:"Reporting")	found at (1404, 98)	37	on_return	Return.script
+2025-09-11 23:51:42.889 -0400	click	MainMenu Back Icon	at (135, 52)	38	on_return	Return.script
+2025-09-11 23:51:47.600 -0400	waitfor	(TEXT:"Start Sale")	found at (1079, 285)	39	on_return	Return.script
+2025-09-11 23:51:47.612 -0400	Log		Starting the Return Process	40	on_return	Return.script
+2025-09-11 23:51:47.810 -0400	click	StartSaleIcon	at (1079, 275)	41	on_return	Return.script
+2025-09-11 23:51:53.101 -0400	waitfor	(TEXT:"Sales Associate")	found at (959, 163)	42	on_return	Return.script
+2025-09-11 23:51:53.315 -0400	click	OneManagerIcon	at (790, 264)	43	on_return	Return.script
+2025-09-11 23:52:00.666 -0400	waitfor	(TEXT:"Customer Search")	found at (959, 222)	44	on_return	Return.script
+2025-09-11 23:52:00.904 -0400	click	SkipButtonIcon	at (966, 578)	45	on_return	Return.script
+2025-09-11 23:52:06.274 -0400	waitfor	(TEXT:"Return Item")	found at (921, 206)	46	on_return	Return.script
+2025-09-11 23:52:06.294 -0400	Log		Getting Registers Day	47	on_return	Return.script
+2025-09-11 23:52:06.492 -0400	readtext		(1369,985,1433,1046)	48	on_return	Return.script
+2025-09-11 23:52:06.498 -0400	Log		Extracted date: 09/11/202	49	on_return	Return.script
+2025-09-11 23:52:06.502 -0400	Log		Day: 11	52	on_return	Return.script
+2025-09-11 23:52:06.721 -0400	click	ReturnItem Img	at (915, 212)	53	on_return	Return.script
+2025-09-11 23:52:12.140 -0400	waitfor	(TEXT:"Customer Search")	found at (959, 222)	54	on_return	Return.script
+2025-09-11 23:52:12.389 -0400	click	Return Skip Img	at (963, 570)	55	on_return	Return.script
+2025-09-11 23:52:17.902 -0400	waitfor	(TEXT:"Return")	found at (905, 206)	56	on_return	Return.script
+2025-09-11 23:52:18.200 -0400	click	Return Yes Img	at (1162, 453)	57	on_return	Return.script
+2025-09-11 23:52:24.026 -0400	waitfor	(TEXT:"Return Information")	found at (960, 203)	58	on_return	Return.script
+2025-09-11 23:52:24.284 -0400	click	Orig Ticket ID	at (719, 430)	59	on_return	Return.script
+2025-09-11 23:52:25.037 -0400	typetext		158[returnKey]	60	on_return	Return.script
+2025-09-11 23:52:27.239 -0400	click	OrigTransDate Field Img	at (707, 477)	62	on_return	Return.script
+2025-09-11 23:52:27.247 -0400	Log		Clicked Orig Transaction date field	63	on_return	Return.script
+2025-09-11 23:52:29.100 -0400	waitfor	(TEXT:"Orig Trans Date")	found at (703, 471)	64	on_return	Return.script
+2025-09-11 23:52:29.657 -0400	click	(TEXT:"11")	at (1069, 565)	66	on_return	Return.script
+2025-09-11 23:52:31.832 -0400	click	OrigTransDate OK Btn Img	at (956, 721)	69	on_return	Return.script
+2025-09-11 23:52:33.981 -0400	waitfor	(TEXT:"Return Information")	found at (960, 203)	70	on_return	Return.script
+2025-09-11 23:53:06.410 -0400	Exception	(TEXT:"Orig Store ID")	Unable To Find Any Image On Screen "(TEXT:"Orig Store ID")" within 5.00 seconds. Text not found.	71	on_return	Return.script
+2025-09-11 23:53:06.608 -0400	EndTestCase		(Duration:"134.146", Errors:"1", Exceptions:"1", StartTime:"2025-09-11 23:50:52 -0400", Successes:"1", TestCase:"Return.script", Warnings:"0")
+2025-09-11 23:53:06.811 -0400	FAILURE	Screen_Error.png	Image Not Found: WaitFor Error - Unable To Find Any Image On Screen "(TEXT:"Orig Store ID")" within 5.00 seconds. Text not found. -- Execution Time 0:02:14 Return.script

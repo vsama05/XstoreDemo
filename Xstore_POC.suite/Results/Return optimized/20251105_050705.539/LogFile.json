@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running Return optimized.script",
+				"identifier": "START",
+				"timestamp": "2025-11-05 05:07:05.549 -0500"
+			},
+		{
+				"message": "(Duration:\"0.002\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-11-05 05:07:05 -0500\", Successes:\"0\", TestCase:\"Return optimized.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-11-05 05:07:05.555 -0500"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "SenseTalk Compiler Exception: in return_optimized:\\nSyntax Error at line 72: can't understand [matching quote not found] at character 28 -- Execution Time 0:00:00 Return optimized.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-11-05 05:07:06.749 -0500"
+			}
+	],
+	"createdTimestamp": "2025-11-05 05:07:05.552 -0500"
+}

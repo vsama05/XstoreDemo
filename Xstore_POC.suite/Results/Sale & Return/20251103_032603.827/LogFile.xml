@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Sale &amp; Return_script" package="Xstore_POC.suite" timestamp="2025-11-03 03:26:03.827 -0500"
+ tests="1"  failures="0" errors="0" time="162.076000">
+  <properties>
+   <property name="RunDate" value="2025-11-03 03:26:03.827 -0500"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="Sale &amp; Return.script" assertions="4" status="error"  time="162.066">
+    <error type="Exception" message="No Image Found On Screen: &quot;PdtReturn Img&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

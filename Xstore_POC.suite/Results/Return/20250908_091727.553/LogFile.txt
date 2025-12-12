@@ -1,0 +1,40 @@
+﻿2025-09-08 09:17:27.560 -0400	START		Running Return.script
+2025-09-08 09:17:44.061 -0400	imagefound	(TEXT:"Sales Associate")	Unable to Find Image (TEXT:"Sales Associate"). Text not found.	1	on_return	Return.script
+2025-09-08 09:17:44.116 -0400	Log		Back button is not present	4	on_return	Return.script
+2025-09-08 09:17:50.636 -0400	imagefound	(TEXT:"Scan or key your employee ID to sign on.")	found at (1037, 139)	7	on_return	Return.script
+2025-09-08 09:17:51.269 -0400	click	SignIn Field	at (926, 113)	8	on_return	Return.script
+2025-09-08 09:17:52.060 -0400	typetext		111111[returnKey]	9	on_return	Return.script
+2025-09-08 09:17:54.180 -0400	waitfor	(TEXT:"Key your password")	found at (884, 374)	11	on_return	Return.script
+2025-09-08 09:17:54.305 -0400	typetext		x1234567[returnKey]	12	on_return	Return.script
+2025-09-08 09:17:54.309 -0400	Log		Sign-in is successful	13	on_return	Return.script
+2025-09-08 09:17:59.014 -0400	waitfor	(TEXT:"Main Menu")	found at (1404, 96)	18	on_return	Return.script
+2025-09-08 09:17:59.021 -0400	Log		Fetching Return item details	19	on_return	Return.script
+2025-09-08 09:17:59.299 -0400	click	Reporting Img	at (1731, 260)	20	on_return	Return.script
+2025-09-08 09:18:03.670 -0400	waitfor	(TEXT:"Electronic Journal")	found at (1513, 285)	21	on_return	Return.script
+2025-09-08 09:18:03.884 -0400	click	ElectronicJournal Img	at (1497, 285)	22	on_return	Return.script
+2025-09-08 09:18:08.297 -0400	waitfor	(TEXT:"Transaction Search")	found at (959, 182)	23	on_return	Return.script
+2025-09-08 09:18:08.547 -0400	click	TransactionProcess Img	at (1133, 699)	24	on_return	Return.script
+2025-09-08 09:18:09.967 -0400	waitfor	(TEXT:"Electronic Journal")	found at (1512, 285)	25	on_return	Return.script
+2025-09-08 09:18:13.886 -0400	imagerectangle	(TEXT:"Status Complete")	at [1133,670,1215,683]	26	on_return	Return.script
+2025-09-08 09:18:14.043 -0400	readtext		(1133,640,1193,670)	28	on_return	Return.script
+2025-09-08 09:18:14.234 -0400	click	ElectronicJournal Back Img	at (103, 58)	31	on_return	Return.script
+2025-09-08 09:18:24.705 -0400	waitfor	(TEXT:"Transaction Search")	found at (959, 182)	32	on_return	Return.script
+2025-09-08 09:18:25.009 -0400	click	ElectronicJournal BackButton Img	at (805, 701)	33	on_return	Return.script
+2025-09-08 09:18:34.106 -0400	waitfor	(TEXT:"Reporting")	found at (1404, 98)	34	on_return	Return.script
+2025-09-08 09:18:34.320 -0400	click	MainMenu Back Icon	at (135, 52)	35	on_return	Return.script
+2025-09-08 09:18:38.601 -0400	waitfor	(TEXT:"Start Sale")	found at (1079, 285)	36	on_return	Return.script
+2025-09-08 09:18:38.810 -0400	click	StartSaleIcon	at (1079, 275)	37	on_return	Return.script
+2025-09-08 09:18:43.664 -0400	waitfor	(TEXT:"Sales Associate")	found at (959, 163)	38	on_return	Return.script
+2025-09-08 09:18:43.897 -0400	click	OneManagerIcon	at (790, 264)	39	on_return	Return.script
+2025-09-08 09:18:50.479 -0400	waitfor	(TEXT:"Customer Search")	found at (959, 222)	40	on_return	Return.script
+2025-09-08 09:18:50.723 -0400	click	SkipButtonIcon	at (966, 578)	41	on_return	Return.script
+2025-09-08 09:18:55.696 -0400	waitfor	(TEXT:"Return Item")	found at (921, 206)	42	on_return	Return.script
+2025-09-08 09:18:55.914 -0400	click	ReturnItem Img	at (915, 212)	43	on_return	Return.script
+2025-09-08 09:19:01.250 -0400	waitfor	(TEXT:"Customer Search")	found at (959, 222)	44	on_return	Return.script
+2025-09-08 09:19:01.511 -0400	click	Return Skip Img	at (963, 570)	45	on_return	Return.script
+2025-09-08 09:19:06.574 -0400	waitfor	(TEXT:"Return")	found at (905, 206)	46	on_return	Return.script
+2025-09-08 09:19:06.907 -0400	click	Return Yes Img	at (1162, 453)	47	on_return	Return.script
+2025-09-08 09:19:12.330 -0400	waitfor	(TEXT:"Return Information")	found at (960, 203)	48	on_return	Return.script
+2025-09-08 09:19:12.343 -0400	Exception	Orig Ticked ID	Could Not Open Image: Orig Ticked ID	49	on_return	Return.script
+2025-09-08 09:19:12.479 -0400	EndTestCase		(Duration:"104.888", Errors:"1", Exceptions:"1", StartTime:"2025-09-08 09:17:27 -0400", Successes:"0", TestCase:"Return.script", Warnings:"0")
+2025-09-08 09:19:13.717 -0400	FAILURE	Screen_Error.png	File Not Found: click Error - Could Not Open Image: Orig Ticked ID -- Execution Time 0:01:44 Return.script

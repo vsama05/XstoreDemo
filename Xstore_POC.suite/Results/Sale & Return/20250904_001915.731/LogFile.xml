@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="SignIn_script" package="Xstore_POC.suite" timestamp="2025-09-04 00:19:15.731 -0400"
+ tests="1"  failures="0" errors="0" time="41.628000">
+  <properties>
+   <property name="RunDate" value="2025-09-04 00:19:15.731 -0400"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="SignIn.script" assertions="1" status="error"  time="41.614">
+    <error type="Exception" message="Searching For Image: OCR Error: Operation was aborted" />
+  </testcase>
+ </testsuite>
+</testsuites>

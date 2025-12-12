@@ -1,0 +1,45 @@
+{
+	"entries": [
+		{
+				"message": "Running Return.script",
+				"identifier": "START",
+				"timestamp": "2025-09-16 23:49:08.061 -0400"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-16 23:49:19.547 -0400",
+				"scriptName": "Return.script",
+				"message": "Unable to Find Image (TEXT:\"Sales Associate\"). Text not found.",
+				"image": "(TEXT:\"Sales Associate\")",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-16 23:49:19.558 -0400",
+				"message": "Back button is not present",
+				"scriptName": "Return.script",
+				"handlerLine": 6,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_return",
+				"timestamp": "2025-09-16 23:49:21.993 -0400",
+				"message": "Searching For Image: OCR Error: Operation was aborted",
+				"scriptName": "Return.script",
+				"handlerLine": 9,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"13.953\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-09-16 23:49:08 -0400\", Successes:\"0\", TestCase:\"Return.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-09-16 23:49:22.031 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:13 Return.script",
+				"identifier": "ABORTED",
+				"timestamp": "2025-09-16 23:49:22.061 -0400"
+			}
+	],
+	"createdTimestamp": "2025-09-16 23:49:08.074 -0400"
+}

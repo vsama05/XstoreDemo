@@ -1,0 +1,73 @@
+{
+	"entries": [
+		{
+				"message": "Running Sale & Return.script",
+				"identifier": "START",
+				"timestamp": "2025-12-11 10:24:47.840 -0500"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-12-11 10:24:49.937 -0500",
+				"message": "[windowsKey]r",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-12-11 10:24:55.430 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (117, 883)",
+				"image": "(TEXT:\"Type the name\")",
+				"handlerLine": 3,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-12-11 10:24:56.106 -0500",
+				"message": "C:\\Program Files\\RealVNC\\VNC Viewer\\vncviewer.exe[returnKey]",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-12-11 10:25:00.933 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (602, 413)",
+				"image": "(TEXT:\"KFL Store 1646555\")",
+				"handlerLine": 7,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-12-11 10:25:02.915 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (602, 413)",
+				"image": "(TEXT:\"KFL Store 1646555\")",
+				"handlerLine": 8,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-12-11 10:25:39.781 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "Unable To Find Any Image On Screen \"(TEXT:\"No orders require attention\")\" within 10.00 seconds. Text not found.",
+				"image": "(TEXT:\"No orders require attention\")",
+				"handlerLine": 9,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"52.032\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-12-11 10:24:47 -0500\", Successes:\"0\", TestCase:\"Sale & Return.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-12-11 10:25:39.875 -0500"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: WaitFor Error - Unable To Find Any Image On Screen \"(TEXT:\"No orders require attention\")\" within 10.00 seconds. Text not found. -- Execution Time 0:00:52 Sale & Return.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-12-11 10:25:40.095 -0500"
+			}
+	],
+	"createdTimestamp": "2025-12-11 10:24:47.842 -0500"
+}

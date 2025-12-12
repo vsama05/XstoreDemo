@@ -1,0 +1,56 @@
+{
+	"entries": [
+		{
+				"message": "Running SignIn.script",
+				"identifier": "START",
+				"timestamp": "2025-09-04 03:03:40.137 -0400"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:03:40.369 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (113, 19)",
+				"image": "VncViewerIcon",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:03:44.088 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (747, 413)",
+				"image": "(TEXT:\"Xstore\")",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:03:45.346 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (747, 413)",
+				"image": "(TEXT:\"Xstore\")",
+				"handlerLine": 3,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:04:17.631 -0400",
+				"scriptName": "SignIn.script",
+				"message": "Unable To Find Any Image On Screen \"(TEXT:\"Scan or key your employee\")\" within 10.00 seconds. Text not found.",
+				"image": "(TEXT:\"Scan or key your employee\")",
+				"handlerLine": 4,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"37.576\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-09-04 03:03:40 -0400\", Successes:\"0\", TestCase:\"SignIn.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-09-04 03:04:17.718 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:37 SignIn.script",
+				"identifier": "ABORTED",
+				"timestamp": "2025-09-04 03:04:17.734 -0400"
+			}
+	],
+	"createdTimestamp": "2025-09-04 03:03:40.139 -0400"
+}

@@ -1,0 +1,4 @@
+﻿2025-11-03 03:02:38.961 -0500	START		Running Sale & Return.script
+2025-11-03 03:02:52.053 -0500	Exception	VncViewerIcon	No Image Found On Screen: "VncViewerIcon"	2	on_sale___return	Sale & Return.script
+2025-11-03 03:02:52.208 -0500	EndTestCase		(Duration:"13.242", Errors:"1", Exceptions:"1", StartTime:"2025-11-03 03:02:38 -0500", Successes:"0", TestCase:"Sale & Return.script", Warnings:"0")
+2025-11-03 03:02:52.258 -0500	ABORTED		Execution Time 0:00:13 Sale & Return.script

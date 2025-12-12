@@ -1,0 +1,5 @@
+﻿2025-09-08 04:30:02.630 -0400	START		Running Sale.script
+2025-09-08 04:30:03.924 -0400	doubleclick	VncViewerIcon	at (113, 19)	2	on_sale	Sale.script
+2025-09-08 04:30:38.982 -0400	Exception	(TEXT:"Xstore")	Unable To Find Any Image On Screen "(TEXT:"Xstore")" within 10.00 seconds. Text not found.	3	on_sale	Sale.script
+2025-09-08 04:30:39.044 -0400	EndTestCase		(Duration:"36.409", Errors:"1", Exceptions:"1", StartTime:"2025-09-08 04:30:02 -0400", Successes:"0", TestCase:"Sale.script", Warnings:"0")
+2025-09-08 04:30:39.291 -0400	FAILURE	Screen_Error.png	Image Not Found: WaitFor Error - Unable To Find Any Image On Screen "(TEXT:"Xstore")" within 10.00 seconds. Text not found. -- Execution Time 0:00:36 Sale.script

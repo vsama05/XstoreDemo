@@ -1,0 +1,99 @@
+{
+	"entries": [
+		{
+				"message": "Running Return optimized.script",
+				"identifier": "START",
+				"timestamp": "2025-11-05 04:53:14.960 -0500"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:53:15.995 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "found at (1404, 96)",
+				"image": "(TEXT:\"Main Menu\")",
+				"handlerLine": 1,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:53:15.999 -0500",
+				"message": "Fetching Return item details",
+				"scriptName": "Return optimized.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:53:16.261 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "at (1731, 260)",
+				"image": "Reporting Img",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:53:20.663 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "found at (1513, 285)",
+				"image": "(TEXT:\"Electronic Journal\")",
+				"handlerLine": 4,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:53:22.241 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "at (1513, 285)",
+				"image": "(TEXT:\"Electronic Journal\")",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:53:27.139 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "found at (959, 182)",
+				"image": "(TEXT:\"Transaction Search\")",
+				"handlerLine": 6,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:53:29.448 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "at (1112, 695)",
+				"image": "(TEXT:\"Process\")",
+				"handlerLine": 7,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:53:31.032 -0500",
+				"scriptName": "Return optimized.script",
+				"message": "found at (1512, 285)",
+				"image": "(TEXT:\"Electronic Journal\")",
+				"handlerLine": 8,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_return_optimized",
+				"timestamp": "2025-11-05 04:53:38.789 -0500",
+				"message": "Searching For Image: OCR Error: Operation was aborted",
+				"scriptName": "Return optimized.script",
+				"handlerLine": 12,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"23.884\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-11-05 04:53:14 -0500\", Successes:\"0\", TestCase:\"Return optimized.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-11-05 04:53:38.860 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:23 Return optimized.script",
+				"identifier": "ABORTED",
+				"timestamp": "2025-11-05 04:53:38.871 -0500"
+			}
+	],
+	"createdTimestamp": "2025-11-05 04:53:14.974 -0500"
+}

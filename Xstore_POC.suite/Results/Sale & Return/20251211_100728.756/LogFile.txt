@@ -1,0 +1,4 @@
+﻿2025-12-11 10:07:28.764 -0500	START		Running Sale & Return.script
+2025-12-11 10:07:30.910 -0500	Exception		Remote Connection Unavailable	2	on_sale___return	Sale & Return.script
+2025-12-11 10:07:30.938 -0500	EndTestCase		(Duration:"2.168", Errors:"1", Exceptions:"1", StartTime:"2025-12-11 10:07:28 -0500", Successes:"0", TestCase:"Sale & Return.script", Warnings:"0")
+2025-12-11 10:07:31.019 -0500	FAILURE		No Remote Connection: typetext Error - Remote Connection Unavailable -- Execution Time 0:00:02 Sale & Return.script

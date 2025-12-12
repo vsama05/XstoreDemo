@@ -1,0 +1,72 @@
+{
+	"entries": [
+		{
+				"message": "Running SignIn.script",
+				"identifier": "START",
+				"timestamp": "2025-09-04 03:09:36.477 -0400"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:09:36.728 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (113, 19)",
+				"image": "VncViewerIcon",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:09:40.171 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (747, 413)",
+				"image": "(TEXT:\"Xstore\")",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:09:41.466 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (747, 413)",
+				"image": "(TEXT:\"Xstore\")",
+				"handlerLine": 3,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:09:45.114 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (992, 139)",
+				"image": "(TEXT:\"Scan or key your employee\")",
+				"handlerLine": 4,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:09:47.220 -0400",
+				"message": "111111[returnKey]",
+				"scriptName": "SignIn.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-04 03:10:03.546 -0400",
+				"message": "Searching For Image: OCR Error: Operation was aborted",
+				"scriptName": "SignIn.script",
+				"handlerLine": 8,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"27.111\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-09-04 03:09:36 -0400\", Successes:\"0\", TestCase:\"SignIn.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-09-04 03:10:03.593 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:27 SignIn.script",
+				"identifier": "ABORTED",
+				"timestamp": "2025-09-04 03:10:03.631 -0400"
+			}
+	],
+	"createdTimestamp": "2025-09-04 03:09:36.480 -0400"
+}

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Return_script" package="Xstore_POC.suite" timestamp="2025-09-08 04:43:50.081 -0400"
+ tests="1"  failures="2" errors="0" time="22.501000">
+  <properties>
+   <property name="RunDate" value="2025-09-08 04:43:50.081 -0400"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Return.script" assertions="2" status="failure"  time="22.488">
+    <failure type="LogError" message="Back button is not present" />
+    <failure type="FAILURE" message="STInvalidBoolean: Value &apos;Scan or key your ...&apos; is not TRUE, FALSE, YES, NO, ON, OFF or empty -- Execution Time 0:00:22 Return.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,364 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Return">
+ <run>
+  <RunDate>2025-09-08 04:34:28.407 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>26.348000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250908_043428.407/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;StartSaleIcon&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 04:43:50.081 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>22.501000</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250908_044350.081/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidBoolean -- Value &#x27;Scan or key your ...&#x27; is not TRUE, FALSE, YES, NO, ON, OFF or empty</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 04:44:46.169 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>22.080000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250908_044446.169/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidBoolean -- Value &#x27;Scan or key your ...&#x27; is not TRUE, FALSE, YES, NO, ON, OFF or empty</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 04:51:25.043 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>56.370000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250908_045125.043/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Key your password&quot;)&quot; within 10.00 seconds. Text not found.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 04:53:10.475 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>60.547000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250908_045310.475/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Key your password&quot;)&quot; within 10.00 seconds. Text not found.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 04:55:23.411 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>57.857000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250908_045523.411/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Key your password&quot;)&quot; within 10.00 seconds. Text not found.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 04:58:21.080 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>41.723000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250908_045821.080/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 05:50:57.817 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>63.234000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250908_055057.817/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 05:52:03.400 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>95.973000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250908_055203.400/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 06:52:38.008 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>3.447000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250908_065238.008/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 09:17:27.553 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>104.923000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250908_091727.553/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: Orig Ticked ID</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-08 09:49:35.160 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>158.702000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250908_094935.160/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;PdtReturn Img&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-10 07:09:22.815 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>68.588000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250910_070922.815/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Main Menu&quot;)&quot; within 10.00 seconds. Text not found.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-10 07:10:42.770 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>175.365000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250910_071042.770/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;PdtReturn Img&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-10 08:00:09.675 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>304.697000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250910_080009.675/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-11 01:24:57.307 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>385.315000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250911_012457.307/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-11 05:11:20.510 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>103.452000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250911_051120.510/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- click Error - Image Property List did not contain &quot;ImageName&quot; property</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-11 05:17:32.162 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>125.497000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250911_051732.162/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Text Found On Screen: &quot;(TEXT:&quot;09&quot;)&quot;. Text not found.  Restricted Search Rectangle ((586,486),(1320,673))
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-11 05:24:16.044 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>55.246000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250911_052416.044/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Main Menu&quot;)&quot; within 10.00 seconds. Text not found.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-11 05:25:29.074 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>301.710000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250911_052529.074/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-11 05:30:33.921 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>133.780000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250911_053033.921/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;PdtReturn Img&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-11 23:50:52.448 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>134.158000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250911_235052.448/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Orig Store ID&quot;)&quot; within 5.00 seconds. Text not found.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-12 00:03:52.572 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>156.535000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250912_000352.572/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;PdtReturn Img&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-12 00:08:19.307 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>221.816000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250912_000819.307/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-12 00:12:04.766 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>39.697000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250912_001204.766/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-12 00:12:45.750 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>3.523000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250912_001245.750/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-12 00:14:21.882 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>180.874000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250912_001421.882/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Return Cash Img&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-12 00:45:42.445 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>181.219000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250912_004542.445/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-16 23:49:08.051 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>13.978000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20250916_234908.051/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2025-09-17 00:05:48.298 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>184.288000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20250917_000548.298/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Sales Associate&quot;)&quot; within 5.00 seconds. Text not found.</ErrorMessage>
+ </run>
+</runHistory>

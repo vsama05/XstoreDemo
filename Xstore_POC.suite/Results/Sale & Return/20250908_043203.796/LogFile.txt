@@ -1,0 +1,4 @@
+﻿2025-09-08 04:32:03.803 -0400	START		Running Sale.script
+2025-09-08 04:32:28.625 -0400	Exception	VncViewerIcon	No Image Found On Screen: "VncViewerIcon"	2	on_sale	Sale.script
+2025-09-08 04:32:28.757 -0400	EndTestCase		(Duration:"24.95", Errors:"1", Exceptions:"1", StartTime:"2025-09-08 04:32:03 -0400", Successes:"0", TestCase:"Sale.script", Warnings:"0")
+2025-09-08 04:32:28.767 -0400	ABORTED		Execution Time 0:00:24 Sale.script

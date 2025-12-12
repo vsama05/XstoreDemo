@@ -1,0 +1,71 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2025-09-03 06:54:45.086 -0400,"Success",0:00:16,0,0,0,"20250903_065445.086/LogFile.txt","","",1
+2025-09-04 00:16:18.390 -0400,"Aborted",0:00:14,1,0,1,"20250904_001618.390/LogFile.txt","","",0
+2025-09-04 00:17:19.125 -0400,"Aborted",0:00:57,1,0,1,"20250904_001719.125/LogFile.txt","","",0
+2025-09-04 00:19:15.731 -0400,"Aborted",0:00:41,1,0,1,"20250904_001915.731/LogFile.txt","","",0
+2025-09-04 01:07:34.870 -0400,"Aborted",0:03:01,1,0,1,"20250904_010734.870/LogFile.txt","","",0
+2025-09-04 01:11:00.178 -0400,"Failure",0:01:10,1,0,1,"20250904_011100.178/LogFile.txt","","Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen ""(TEXT:""SecondSellNonMerchIcon"")"" within 10.00 seconds. Text not found.",1
+2025-09-04 01:13:26.589 -0400,"Aborted",0:03:06,1,0,1,"20250904_011326.589/LogFile.txt","","",0
+2025-09-04 02:52:50.173 -0400,"Failure",0:01:12,1,0,1,"20250904_025250.173/LogFile.txt","","Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen ""(TEXT:""SellNonMerchButtonIcon"")"" within 10.00 seconds. Text not found.",1
+2025-09-04 03:01:43.232 -0400,"Failure",0:00:44,1,0,1,"20250904_030143.232/LogFile.txt","","Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen ""(TEXT:""Scan or key your employee"")"" within 10.00 seconds. Text not found.",0
+2025-09-04 03:03:40.129 -0400,"Aborted",0:00:37,1,0,1,"20250904_030340.129/LogFile.txt","","",0
+2025-09-04 03:05:28.903 -0400,"Aborted",0:01:22,1,0,1,"20250904_030528.903/LogFile.txt","","",0
+2025-09-04 03:06:53.229 -0400,"Aborted",0:01:15,1,0,1,"20250904_030653.229/LogFile.txt","","",0
+2025-09-04 03:08:27.803 -0400,"Aborted",0:01:00,1,0,1,"20250904_030827.803/LogFile.txt","","",0
+2025-09-04 03:09:36.468 -0400,"Aborted",0:00:27,1,0,1,"20250904_030936.468/LogFile.txt","","",0
+2025-09-04 03:17:45.195 -0400,"Failure",0:01:14,1,0,1,"20250904_031745.195/LogFile.txt","","Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen ""(TEXT:""SellNonMerchButtonIcon"")"" within 10.00 seconds. Text not found.",1
+2025-09-04 03:20:40.135 -0400,"Success",0:01:13,0,0,0,"20250904_032040.135/LogFile.txt","","",2
+2025-09-04 04:51:00.599 -0400,"Success",0:01:11,0,0,0,"20250904_045100.599/LogFile.txt","","",2
+2025-09-08 02:18:42.248 -0400,"Failure",0:00:00,1,0,1,"20250908_021842.248/LogFile.txt","","No Remote Connection -- doubleclick Error - Remote Connection Unavailable",0
+2025-09-08 02:19:01.426 -0400,"Failure",0:00:00,1,0,1,"20250908_021901.426/LogFile.txt","","No Remote Connection -- doubleclick Error - Remote Connection Unavailable",0
+2025-09-08 02:20:20.082 -0400,"Failure",0:00:00,1,0,1,"20250908_022020.082/LogFile.txt","","No Remote Connection -- doubleclick Error - Remote Connection Unavailable",0
+2025-09-08 02:20:48.688 -0400,"Failure",0:00:03,1,0,1,"20250908_022048.688/LogFile.txt","","No Remote Connection -- doubleclick Error - Remote Connection Unavailable",0
+2025-09-08 02:22:40.037 -0400,"Failure",0:00:01,1,0,1,"20250908_022240.037/LogFile.txt","","No Remote Connection -- doubleclick Error - Remote Connection Unavailable",0
+2025-09-08 02:27:16.312 -0400,"Failure",0:00:01,1,0,1,"20250908_022716.312/LogFile.txt","","No Remote Connection -- doubleclick Error - Remote Connection Unavailable",0
+2025-09-08 02:30:47.758 -0400,"Failure",0:00:01,1,0,1,"20250908_023047.758/LogFile.txt","","No Remote Connection -- doubleclick Error - Remote Connection Unavailable",0
+2025-09-08 02:32:07.261 -0400,"Failure",0:00:01,1,0,1,"20250908_023207.261/LogFile.txt","","No Remote Connection -- doubleclick Error - Remote Connection Unavailable",0
+2025-09-08 02:52:08.201 -0400,"Failure",0:00:00,1,0,0,"20250908_025208.201/LogFile.txt","","SenseTalk Compiler Exception -- in sale:\nSyntax Error at line 25: can't understand ""/"" at character 1",0
+2025-09-08 02:52:45.773 -0400,"Failure",0:00:01,1,0,1,"20250908_025245.773/LogFile.txt","","No Remote Connection -- doubleclick Error - Remote Connection Unavailable",0
+2025-09-08 04:30:02.624 -0400,"Failure",0:00:36,1,0,1,"20250908_043002.624/LogFile.txt","","Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen ""(TEXT:""Xstore"")"" within 10.00 seconds. Text not found.",0
+2025-09-08 04:32:03.796 -0400,"Aborted",0:00:24,1,0,1,"20250908_043203.796/LogFile.txt","","",0
+2025-09-08 04:33:24.463 -0400,"Success",0:00:53,0,0,0,"20250908_043324.463/LogFile.txt","","",2
+2025-09-08 07:44:23.663 -0400,"Failure",0:00:01,1,0,1,"20250908_074423.663/LogFile.txt","","No Remote Connection -- doubleclick Error - Remote Connection Unavailable",0
+2025-09-08 07:44:44.554 -0400,"Failure",0:00:01,1,0,1,"20250908_074444.554/LogFile.txt","","No Remote Connection -- doubleclick Error - Remote Connection Unavailable",0
+2025-09-08 07:45:12.392 -0400,"Failure",0:00:01,1,0,1,"20250908_074512.392/LogFile.txt","","No Remote Connection -- doubleclick Error - Remote Connection Unavailable",0
+2025-09-08 09:53:32.364 -0400,"Failure",0:00:41,1,0,1,"20250908_095332.364/LogFile.txt","","Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen ""(TEXT:""Scan or key your employee"")"" within 10.00 seconds. Text not found.",0
+2025-09-08 09:56:13.151 -0400,"Success",0:00:55,0,0,0,"20250908_095613.151/LogFile.txt","","",2
+2025-09-10 07:04:12.885 -0400,"Success",0:01:05,0,0,0,"20250910_070412.885/LogFile.txt","","",2
+2025-09-10 07:07:33.299 -0400,"Aborted",0:00:21,1,0,1,"20250910_070733.299/LogFile.txt","","",0
+2025-09-10 07:07:59.010 -0400,"Success",0:00:57,0,0,0,"20250910_070759.010/LogFile.txt","","",2
+2025-09-10 07:56:12.228 -0400,"Aborted",0:00:35,1,0,1,"20250910_075612.228/LogFile.txt","","",0
+2025-09-10 07:56:51.868 -0400,"Success",0:00:58,0,0,0,"20250910_075651.868/LogFile.txt","","",2
+2025-09-11 01:23:36.023 -0400,"Success",0:01:05,0,0,0,"20250911_012336.023/LogFile.txt","","",2
+2025-09-11 23:49:00.814 -0400,"Success",0:01:06,0,0,0,"20250911_234900.814/LogFile.txt","","",2
+2025-09-12 00:02:36.160 -0400,"Success",0:01:03,0,0,0,"20250912_000236.160/LogFile.txt","","",2
+2025-09-12 00:42:37.099 -0400,"Success",0:01:00,0,0,0,"20250912_004237.099/LogFile.txt","","",2
+2025-09-17 00:03:08.273 -0400,"Success",0:01:02,0,0,0,"20250917_000308.273/LogFile.txt","","",2
+2025-09-17 00:15:49.176 -0400,"Failure",0:00:00,1,0,0,"20250917_001549.176/LogFile.txt","","SenseTalk Compiler Exception -- in sale___return:\nSyntax Error at line 69: can't understand ""end"" at character 1",0
+2025-09-17 00:28:09.250 -0400,"Aborted",0:00:04,1,0,1,"20250917_002809.250/LogFile.txt","","",0
+2025-09-17 00:31:47.779 -0400,"Success",0:03:27,0,0,0,"20250917_003147.779/LogFile.txt","","",3
+2025-09-17 01:27:16.936 -0400,"Success",0:03:35,0,0,0,"20250917_012716.936/LogFile.txt","","",4
+2025-11-03 03:02:38.949 -0500,"Aborted",0:00:13,1,0,1,"20251103_030238.949/LogFile.txt","","",0
+2025-11-03 03:26:03.827 -0500,"Aborted",0:02:42,1,0,1,"20251103_032603.827/LogFile.txt","","",3
+2025-11-03 03:32:36.755 -0500,"Aborted",0:02:31,1,0,0,"20251103_033236.755/LogFile.txt","","",3
+2025-11-04 01:41:41.087 -0500,"Failure",0:03:11,1,0,1,"20251104_014141.087/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Refund7500 img""",3
+2025-11-04 02:11:55.334 -0500,"Aborted",0:03:20,1,0,1,"20251104_021155.334/LogFile.txt","","",3
+2025-11-04 23:55:44.493 -0500,"Aborted",0:03:30,1,0,1,"20251104_235544.493/LogFile.txt","","",3
+2025-11-05 00:16:39.002 -0500,"Aborted",0:01:36,1,0,1,"20251105_001639.002/LogFile.txt","","",3
+2025-11-05 00:48:56.932 -0500,"Aborted",0:02:56,1,0,1,"20251105_004856.932/LogFile.txt","","",3
+2025-11-05 00:55:13.642 -0500,"Aborted",0:01:40,1,0,1,"20251105_005513.642/LogFile.txt","","",3
+2025-11-05 03:40:43.954 -0500,"Aborted",0:00:02,1,0,0,"20251105_034043.954/LogFile.txt","","",0
+2025-11-05 05:20:41.754 -0500,"Success",0:03:40,0,0,0,"20251105_052041.754/LogFile.txt","","",5
+2025-11-05 05:34:30.872 -0500,"Aborted",0:00:11,1,0,1,"20251105_053430.872/LogFile.txt","","",0
+2025-11-05 05:34:53.179 -0500,"Success",0:03:45,0,0,0,"20251105_053453.179/LogFile.txt","","",5
+2025-12-11 10:07:28.756 -0500,"Failure",0:00:02,1,0,1,"20251211_100728.756/LogFile.txt","","No Remote Connection -- typetext Error - Remote Connection Unavailable",0
+2025-12-11 10:21:26.527 -0500,"Failure",0:01:04,1,0,1,"20251211_102126.527/LogFile.txt","","Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen ""(TEXT:""KFL Store 1646555"")"" within 10.00 seconds. Text not found.",0
+2025-12-11 10:23:12.526 -0500,"Failure",0:00:53,1,0,1,"20251211_102312.526/LogFile.txt","","Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen ""(TEXT:""KFL Store 1646555"")"" within 10.00 seconds. Text not found.",0
+2025-12-11 10:24:47.801 -0500,"Failure",0:00:52,1,0,1,"20251211_102447.801/LogFile.txt","","Image Not Found -- WaitFor Error - Unable To Find Any Image On Screen ""(TEXT:""No orders require attention"")"" within 10.00 seconds. Text not found.",0
+2025-12-11 10:29:25.587 -0500,"Aborted",0:00:15,1,0,1,"20251211_102925.587/LogFile.txt","","",0
+2025-12-11 11:14:30.261 -0500,"Failure",0:00:45,2,0,0,"20251211_111430.261/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'exitwitherror'",0
+2025-12-11 11:16:30.729 -0500,"Failure",0:00:43,2,0,0,"20251211_111630.729/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'exitwitherror'",0
+2025-12-11 11:18:59.801 -0500,"Success",0:03:46,0,0,0,"20251211_111859.801/LogFile.txt","","",4

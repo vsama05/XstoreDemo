@@ -1,0 +1,124 @@
+{
+	"entries": [
+		{
+				"message": "Running Sale & Return.script",
+				"identifier": "START",
+				"timestamp": "2025-12-11 11:16:30.739 -0500"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-12-11 11:16:32.884 -0500",
+				"message": "[windowsKey]r",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-12-11 11:16:38.505 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (117, 883)",
+				"image": "(TEXT:\"Type the name\")",
+				"handlerLine": 3,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-12-11 11:16:40.272 -0500",
+				"message": "C:\\Program Files\\RealVNC\\VNC Viewer\\vncviewer.exe[returnKey]",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-12-11 11:16:45.367 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (602, 413)",
+				"image": "(TEXT:\"KFL Store 1646555\")",
+				"handlerLine": 7,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-12-11 11:16:47.550 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (602, 413)",
+				"image": "(TEXT:\"KFL Store 1646555\")",
+				"handlerLine": 8,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-12-11 11:16:53.773 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (1161, 444)",
+				"image": "(TEXT:\"No orders require attention\")",
+				"handlerLine": 9,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-12-11 11:16:55.722 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "at (913, 111)",
+				"image": "(TEXT:\"Scan or key your employee\")",
+				"handlerLine": 11,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-12-11 11:16:56.812 -0500",
+				"message": "111111[returnKey]",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 13,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-12-11 11:16:59.117 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "found at (884, 374)",
+				"image": "(TEXT:\"Key your password\")",
+				"handlerLine": 15,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-12-11 11:16:59.239 -0500",
+				"message": "********",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 16,
+				"identifier": "typehiddentext"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-12-11 11:17:14.423 -0500",
+				"scriptName": "Sale & Return.script",
+				"message": "Unable to Find Image (TEXT:\"Main Menu\"). Text not found.",
+				"image": "(TEXT:\"Main Menu\")",
+				"handlerLine": 18,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_sale___return",
+				"timestamp": "2025-12-11 11:17:14.515 -0500",
+				"message": "Sign-in is unsuccessful",
+				"scriptName": "Sale & Return.script",
+				"handlerLine": 21,
+				"identifier": "LogError"
+			},
+		{
+				"message": "(Duration:\"43.829\", Errors:\"2\", Exceptions:\"0\", StartTime:\"2025-12-11 11:16:30 -0500\", Successes:\"0\", TestCase:\"Sale & Return.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-12-11 11:17:14.572 -0500"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "STUnknownMessage: ERROR: No Such Command: 'exitwitherror' -- Execution Time 0:00:43 Sale & Return.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-12-11 11:17:15.180 -0500"
+			}
+	],
+	"createdTimestamp": "2025-12-11 11:16:30.742 -0500"
+}

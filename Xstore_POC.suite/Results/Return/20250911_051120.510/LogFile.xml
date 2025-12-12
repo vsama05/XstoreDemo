@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Return_script" package="Xstore_POC.suite" timestamp="2025-09-11 05:11:20.510 -0400"
+ tests="1"  failures="1" errors="1" time="103.452000">
+  <properties>
+   <property name="RunDate" value="2025-09-11 05:11:20.510 -0400"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Return.script" assertions="2" status="error"  time="103.405">
+    <failure type="FAILURE" message="Error Running Script Command: click Error - Image Property List did not contain &quot;ImageName&quot; property -- Execution Time 0:01:43 Return.script" />
+    <error type="Exception" message="Image Property List did not contain &quot;ImageName&quot; property" />
+  </testcase>
+ </testsuite>
+</testsuites>

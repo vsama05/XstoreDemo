@@ -1,0 +1,107 @@
+{
+	"entries": [
+		{
+				"message": "Running SignIn.script",
+				"identifier": "START",
+				"timestamp": "2025-09-03 06:54:45.096 -0400"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-03 06:54:45.353 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (113, 19)",
+				"image": "VncViewerIcon",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-03 06:54:48.943 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (579, 415)",
+				"image": "(TEXT:\"Canary Island\")",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-03 06:54:50.240 -0400",
+				"scriptName": "SignIn.script",
+				"message": "at (579, 415)",
+				"image": "(TEXT:\"Canary Island\")",
+				"handlerLine": 3,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-03 06:54:54.510 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (992, 139)",
+				"image": "(TEXT:\"Scan or key your employee\")",
+				"handlerLine": 4,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-03 06:54:54.608 -0400",
+				"message": "111111[returnKey]",
+				"scriptName": "SignIn.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-03 06:54:56.812 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (884, 374)",
+				"image": "(TEXT:\"Key your password\")",
+				"handlerLine": 7,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-03 06:54:56.935 -0400",
+				"message": "x1234567[returnKey]",
+				"scriptName": "SignIn.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-03 06:55:01.504 -0400",
+				"scriptName": "SignIn.script",
+				"message": "found at (1404, 96)",
+				"image": "(TEXT:\"Main Menu\")",
+				"handlerLine": 9,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-03 06:55:01.517 -0400",
+				"message": "Sign-in is succesful",
+				"scriptName": "SignIn.script",
+				"handlerLine": 10,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_signin",
+				"timestamp": "2025-09-03 06:55:01.992 -0400",
+				"scriptName": "SignIn.script",
+				"message": "(885,83,1909,1035)",
+				"image": "Sign-In.png",
+				"handlerLine": 15,
+				"identifier": "capturescreen"
+			},
+		{
+				"message": "(Duration:\"16.958\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-09-03 06:54:45 -0400\", Successes:\"1\", TestCase:\"SignIn.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-09-03 06:55:02.062 -0400"
+			},
+		{
+				"message": "Execution Time 0:00:16 SignIn.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2025-09-03 06:55:02.162 -0400"
+			}
+	],
+	"createdTimestamp": "2025-09-03 06:54:45.099 -0400"
+}

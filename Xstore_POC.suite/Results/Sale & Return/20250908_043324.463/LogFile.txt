@@ -1,0 +1,32 @@
+﻿2025-09-08 04:33:24.470 -0400	START		Running Sale.script
+2025-09-08 04:33:25.711 -0400	doubleclick	VncViewerIcon	at (113, 19)	2	on_sale	Sale.script
+2025-09-08 04:33:28.913 -0400	waitfor	(TEXT:"KFL US 1646555")	found at (747, 413)	3	on_sale	Sale.script
+2025-09-08 04:33:30.035 -0400	doubleclick	(TEXT:"KFL US 1646555")	at (747, 413)	4	on_sale	Sale.script
+2025-09-08 04:33:33.593 -0400	waitfor	(TEXT:"Scan or key your employee")	found at (992, 139)	5	on_sale	Sale.script
+2025-09-08 04:33:33.687 -0400	typetext		111111[returnKey]	6	on_sale	Sale.script
+2025-09-08 04:33:35.711 -0400	waitfor	(TEXT:"Key your password")	found at (884, 374)	8	on_sale	Sale.script
+2025-09-08 04:33:35.833 -0400	typetext		x1234567[returnKey]	9	on_sale	Sale.script
+2025-09-08 04:33:40.272 -0400	imagefound	(TEXT:"Main Menu")	found at (1404, 96)	10	on_sale	Sale.script
+2025-09-08 04:33:40.278 -0400	LogSuccess		Sign-in is successful	11	on_sale	Sale.script
+2025-09-08 04:33:40.701 -0400	capturescreen	Sign-In.png	(885,83,1909,1035)	16	on_sale	Sale.script
+2025-09-08 04:33:40.932 -0400	click	StartSaleIcon	at (1079, 275)	17	on_sale	Sale.script
+2025-09-08 04:33:45.434 -0400	waitfor	(TEXT:"Sales Associate")	found at (959, 163)	18	on_sale	Sale.script
+2025-09-08 04:33:45.647 -0400	click	OneManagerIcon	at (790, 264)	19	on_sale	Sale.script
+2025-09-08 04:33:51.781 -0400	waitfor	(TEXT:"Customer Search")	found at (959, 222)	20	on_sale	Sale.script
+2025-09-08 04:33:52.014 -0400	click	SkipButtonIcon	at (966, 578)	21	on_sale	Sale.script
+2025-09-08 04:33:56.772 -0400	waitfor	(TEXT:"Sale")	found at (1687, 92)	22	on_sale	Sale.script
+2025-09-08 04:33:56.778 -0400	Log		Search with product	23	on_sale	Sale.script
+2025-09-08 04:33:56.986 -0400	typetext		166103317504080[returnKey]	24	on_sale	Sale.script
+2025-09-08 04:33:58.207 -0400	click	PaymentNextIcon	at (777, 976)	31	on_sale	Sale.script
+2025-09-08 04:34:00.058 -0400	waitfor	(TEXT:"Sale Tender Options")	found at (1404, 98)	33	on_sale	Sale.script
+2025-09-08 04:34:01.246 -0400	click	CashIcon	at (1077, 287)	35	on_sale	Sale.script
+2025-09-08 04:34:02.197 -0400	waitfor	(TEXT:"Tender")	found at (1387, 95)	36	on_sale	Sale.script
+2025-09-08 04:34:02.250 -0400	typetext		75[returnKey]	37	on_sale	Sale.script
+2025-09-08 04:34:05.767 -0400	waitfor	(TEXT:"Email Address")	found at (928, 314)	39	on_sale	Sale.script
+2025-09-08 04:34:06.163 -0400	capturescreen	Select Receipt Option.png		40	on_sale	Sale.script
+2025-09-08 04:34:06.404 -0400	click	PrintOnlyButtonIcon	at (886, 428)	41	on_sale	Sale.script
+2025-09-08 04:34:17.288 -0400	imagefound	(TEXT:"Sales Associate")	found at (959, 163)	43	on_sale	Sale.script
+2025-09-08 04:34:17.293 -0400	LogSuccess		Sale is successful	44	on_sale	Sale.script
+2025-09-08 04:34:17.686 -0400	capturescreen	Sale Associate Page.png		49	on_sale	Sale.script
+2025-09-08 04:34:17.709 -0400	EndTestCase		(Duration:"53.235", Errors:"0", Exceptions:"0", StartTime:"2025-09-08 04:33:24 -0400", Successes:"2", TestCase:"Sale.script", Warnings:"0")
+2025-09-08 04:34:17.741 -0400	SUCCESS		Execution Time 0:00:53 Sale.script

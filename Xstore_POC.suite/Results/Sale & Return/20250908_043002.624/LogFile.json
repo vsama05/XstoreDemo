@@ -1,0 +1,39 @@
+{
+	"entries": [
+		{
+				"message": "Running Sale.script",
+				"identifier": "START",
+				"timestamp": "2025-09-08 04:30:02.630 -0400"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-08 04:30:03.924 -0400",
+				"scriptName": "Sale.script",
+				"message": "at (113, 19)",
+				"image": "VncViewerIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-08 04:30:38.982 -0400",
+				"scriptName": "Sale.script",
+				"message": "Unable To Find Any Image On Screen \"(TEXT:\"Xstore\")\" within 10.00 seconds. Text not found.",
+				"image": "(TEXT:\"Xstore\")",
+				"handlerLine": 3,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"36.409\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-09-08 04:30:02 -0400\", Successes:\"0\", TestCase:\"Sale.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-09-08 04:30:39.044 -0400"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: WaitFor Error - Unable To Find Any Image On Screen \"(TEXT:\"Xstore\")\" within 10.00 seconds. Text not found. -- Execution Time 0:00:36 Sale.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-09-08 04:30:39.291 -0400"
+			}
+	],
+	"createdTimestamp": "2025-09-08 04:30:02.634 -0400"
+}

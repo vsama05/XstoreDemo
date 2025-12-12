@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Sale_script" package="Xstore_POC.suite" timestamp="2025-09-10 07:07:33.299 -0400"
+ tests="1"  failures="0" errors="0" time="21.536000">
+  <properties>
+   <property name="RunDate" value="2025-09-10 07:07:33.299 -0400"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="Sale.script" assertions="1" status="error"  time="21.524">
+    <error type="Exception" message="No Image Found On Screen: &quot;VncViewerIcon&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

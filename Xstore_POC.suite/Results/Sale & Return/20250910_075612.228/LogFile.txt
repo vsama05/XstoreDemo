@@ -1,0 +1,5 @@
+﻿2025-09-10 07:56:12.237 -0400	START		Running Sale.script
+2025-09-10 07:56:13.475 -0400	doubleclick	VncViewerIcon	at (113, 19)	2	on_sale	Sale.script
+2025-09-10 07:56:47.255 -0400	Exception	(TEXT:"KFL US 1646555")	Unable To Find Any Image On Screen "(TEXT:"KFL US 1646555")" within 10.00 seconds. Text not found.	3	on_sale	Sale.script
+2025-09-10 07:56:47.319 -0400	EndTestCase		(Duration:"35.076", Errors:"1", Exceptions:"1", StartTime:"2025-09-10 07:56:12 -0400", Successes:"0", TestCase:"Sale.script", Warnings:"0")
+2025-09-10 07:56:47.336 -0400	ABORTED		Execution Time 0:00:35 Sale.script

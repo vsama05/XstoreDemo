@@ -1,0 +1,57 @@
+{
+	"entries": [
+		{
+				"message": "Running Sale.script",
+				"identifier": "START",
+				"timestamp": "2025-09-08 09:53:32.372 -0400"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-08 09:53:33.646 -0400",
+				"scriptName": "Sale.script",
+				"message": "at (113, 19)",
+				"image": "VncViewerIcon",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-08 09:53:36.963 -0400",
+				"scriptName": "Sale.script",
+				"message": "found at (747, 413)",
+				"image": "(TEXT:\"KFL US 1646555\")",
+				"handlerLine": 3,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-08 09:53:38.151 -0400",
+				"scriptName": "Sale.script",
+				"message": "at (747, 413)",
+				"image": "(TEXT:\"KFL US 1646555\")",
+				"handlerLine": 4,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_sale",
+				"timestamp": "2025-09-08 09:54:14.192 -0400",
+				"scriptName": "Sale.script",
+				"message": "Unable To Find Any Image On Screen \"(TEXT:\"Scan or key your employee\")\" within 10.00 seconds. Text not found.",
+				"image": "(TEXT:\"Scan or key your employee\")",
+				"handlerLine": 5,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"41.881\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2025-09-08 09:53:32 -0400\", Successes:\"0\", TestCase:\"Sale.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2025-09-08 09:54:14.257 -0400"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: WaitFor Error - Unable To Find Any Image On Screen \"(TEXT:\"Scan or key your employee\")\" within 10.00 seconds. Text not found. -- Execution Time 0:00:41 Sale.script",
+				"identifier": "FAILURE",
+				"timestamp": "2025-09-08 09:54:15.390 -0400"
+			}
+	],
+	"createdTimestamp": "2025-09-08 09:53:32.374 -0400"
+}

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="SignIn_script" package="Xstore_POC.suite" timestamp="2025-09-04 02:52:50.173 -0400"
+ tests="1"  failures="1" errors="1" time="72.457000">
+  <properties>
+   <property name="RunDate" value="2025-09-04 02:52:50.173 -0400"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="SignIn.script" assertions="2" status="error"  time="72.447">
+    <failure type="FAILURE" message="Image Not Found: WaitFor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;SellNonMerchButtonIcon&quot;)&quot; within 10.00 seconds. Text not found. -- Execution Time 0:01:12 SignIn.script" />
+    <error type="Exception" message="Unable To Find Any Image On Screen &quot;(TEXT:&quot;SellNonMerchButtonIcon&quot;)&quot; within 10.00 seconds. Text not found." />
+  </testcase>
+ </testsuite>
+</testsuites>
